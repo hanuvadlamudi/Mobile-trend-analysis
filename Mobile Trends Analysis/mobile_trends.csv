@@ -1,0 +1,985 @@
+Brand,Model Name,Price,Rating,SIM Type,Hybrid Sim Slot,Touchscreen,Display_size,Operating System,Processor Core,Internal Storage,Primary Camera,Secondary Camera,Network Type,Bluetooth Version,Wi-Fi,GPS Support,SIM Size,Battery Capacity,Width,Height,Weight,SIM Type,Hybrid Sim Slot,Dual Camera Lens,Color
+APPLE,iPhone 13,52499,4.7,Dual Sim,No,Yes,6.1,iOS 15,Hexa Core,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,3240 mAh,71.5 mm,146.7 mm,173 g,Dual Sim,No,Primary Camera,Pink
+POCO,C51,6499,4.1,Dual Sim,No,Yes,6.52,Android 13,Octa Core,64 GB,8MP Dual Rear Camera,5MP Front Camera,"2G, 3G, 4G, 4G VOLTE",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.75 mm,164.9 mm,192 g,Dual Sim,No,Primary Camera,Power Black
+OnePlus,Nord CE 2 Lite 5G,17196,4.4,Dual Sim,No,Yes,6.59,Android 13,Octa Core,128 GB,64MP Rear Camera,16MP Front Camera,5G,,,,Nano Sim,5000 mAh,76.75 mm,164.9 mm,192 g,Dual Sim,No,,Black Dusk
+realme,11x 5G,15999,4.3,Dual Sim,No,Yes,6.72,Android 13,Octa Core,128 GB,64MP + 2MP,8MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,76 mm,165.7 mm,190 g,Dual Sim,No,Primary Camera,Purple Dawn
+realme,11x 5G,14999,4.4,Dual Sim,No,Yes,6.72,Android 13,Octa Core,128 GB,64MP + 2MP,8MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,76 mm,165.7 mm,190 g,Dual Sim,No,Primary Camera,Midnight Black
+POCO,C55,8499,4.1,Dual Sim,No,Yes,6.71,Android 12,Octa Core,128 GB,50MP Dual Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.41 mm,168.76 mm,192 g,Dual Sim,No,,Power Black
+APPLE,iPhone 13,52499,4.7,Dual Sim,No,Yes,6.1,iOS 15,Hexa Core,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,3240 mAh,71.5 mm,146.7 mm,173 g,Dual Sim,No,Primary Camera,Starlight
+POCO,C51,6499,4.1,Dual Sim,No,Yes,6.52,Android 13,Octa Core,64 GB,8MP Dual Rear Camera,5MP Front Camera,"2G, 3G, 4G, 4G VOLTE",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.75 mm,164.9 mm,192 g,Dual Sim,No,Primary Camera,Royal Blue
+vivo,T2x 5G,12999,4.4,Dual Sim,Yes,Yes,6.58,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"5G, 4G, 3G",v5.1,Yes,Yes,Nano Sim,5000 mAh,75.6 mm,164.05 mm,184 g,Dual Sim,Yes,Primary Camera,Marine Blue
+MOTOROLA,g84 5G,19999,4.2,Dual Sim,No,Yes,6.55,Android 13,Octa Core,256 GB,50MP (OIS) + 8MP,16MP Front Camera,"2G, 3G, 4G, 5G",v5.1,Yes,Yes,Nano Sim,5000 mAh,74.4 mm,160 mm,168.3 g,Dual Sim,No,Primary Camera,Marshmallow Blue
+vivo,T2x 5G,12999,4.4,Dual Sim,Yes,Yes,6.58,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"5G, 4G, 3G",v5.1,Yes,Yes,Nano Sim,5000 mAh,75.6 mm,164.05 mm,184 g,Dual Sim,Yes,Primary Camera,Glimmer Black
+realme,11x 5G,15999,4.3,Dual Sim,No,Yes,6.72,Android 13,Octa Core,128 GB,64MP + 2MP,8MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,76 mm,165.7 mm,190 g,Dual Sim,No,Primary Camera,Midnight Black
+vivo,T2x 5G,12999,4.4,Dual Sim,Yes,Yes,6.58,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"5G, 4G, 3G",v5.1,Yes,Yes,Nano Sim,5000 mAh,75.6 mm,164.05 mm,184 g,Dual Sim,Yes,Primary Camera,Aurora Gold
+vivo,T2x 5G,13999,4.4,Dual Sim,Yes,Yes,6.58,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"5G, 4G, 3G",v5.1,Yes,Yes,Nano Sim,5000 mAh,75.6 mm,164.05 mm,184 g,Dual Sim,Yes,Primary Camera,Marine Blue
+OnePlus,Nord CE 3 Lite 5G,19999,4.4,Dual Sim,No,Yes,6.72,Android Android 13,Octa Core,128 GB,108MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,75.6 mm,164.05 mm,184 g,Dual Sim,No,Primary Camera,Pastel Lime
+vivo,T2x 5G,13999,4.4,Dual Sim,Yes,Yes,6.58,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"5G, 4G, 3G",v5.1,Yes,Yes,Nano Sim,5000 mAh,75.6 mm,164.05 mm,184 g,Dual Sim,Yes,Primary Camera,Glimmer Black
+POCO,C55,8499,4.1,Dual Sim,No,Yes,6.71,Android 12,Octa Core,128 GB,50MP Dual Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.41 mm,168.76 mm,192 g,Dual Sim,No,,Forest Green
+vivo,T2x 5G,15999,4.3,Dual Sim,Yes,Yes,6.58,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"5G, 4G, 3G",v5.1,Yes,Yes,Nano Sim,5000 mAh,75.6 mm,164.05 mm,184 g,Dual Sim,Yes,Primary Camera,Aurora Gold
+POCO,C51,5999,4.1,Dual Sim,No,Yes,6.52,Android 13,Octa Core,64 GB,8MP Dual Rear Camera,5MP Front Camera,"2G, 3G, 4G, 4G VOLTE",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.75 mm,164.9 mm,192 g,Dual Sim,No,Primary Camera,Royal Blue
+REDMI,12,9999,4.2,Dual Sim,Yes,Yes,6.79,Android 13,Octa Core,128 GB,50MP + 8MP + 2MP,8MP Front Camera,"2G, 3G, 4G, 4G VOLTE",v5.3,Yes,Yes,Nano Sim,5000 mAh,76.28 mm,168.6 mm,198.5 g,Dual Sim,Yes,Primary Camera,Moonstone Silver
+vivo,T2x 5G,15999,4.3,Dual Sim,Yes,Yes,6.58,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"5G, 4G, 3G",v5.1,Yes,Yes,Nano Sim,5000 mAh,75.6 mm,164.05 mm,184 g,Dual Sim,Yes,Primary Camera,Glimmer Black
+POCO,C55,8499,4.1,Dual Sim,No,Yes,6.71,Android 12,Octa Core,128 GB,50MP Dual Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.41 mm,168.76 mm,192 g,Dual Sim,No,,Cool Blue
+vivo,T2x 5G,15999,4.3,Dual Sim,Yes,Yes,6.58,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"5G, 4G, 3G",v5.1,Yes,Yes,Nano Sim,5000 mAh,75.6 mm,164.05 mm,184 g,Dual Sim,Yes,Primary Camera,Marine Blue
+Infinix,SMART 7,7499,4.3,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,13MP + AI Lens,5MP Front Camera,"4G, 3G, 2G",v4.2,Yes,Yes,Nano Sim,6000 mAh,75.63 mm,164.2 mm,207 g,Dual Sim,No,,Night Black
+MOTOROLA,g13,9999,4,Dual Sim,No,Yes,6.5,Android 13,Octa Core,128 GB,50MP + 2MP + 2MP,8MP Front Camera,"2G, 3G, 4G",v4.2,Yes,Yes,Nano Sim,5000 mAh,74.66 mm,162.7 mm,182 g,Dual Sim,No,Primary Camera,Lavender Blue
+APPLE,iPhone 13,52499,4.7,Dual Sim,No,Yes,6.1,iOS 15,Hexa Core,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,3240 mAh,71.5 mm,146.7 mm,173 g,Dual Sim,No,Primary Camera,Midnight
+vivo,T2x 5G,13999,4.4,Dual Sim,Yes,Yes,6.58,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"5G, 4G, 3G",v5.1,Yes,Yes,Nano Sim,5000 mAh,75.6 mm,164.05 mm,184 g,Dual Sim,Yes,Primary Camera,Aurora Gold
+Infinix,HOT 30i,8399,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,50MP + AI Lens,5MP Front Camera,"2G, 3G, 4G",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.75 mm,164 mm,191 g,Dual Sim,No,,Marigold
+Infinix,HOT 30i,8399,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,50MP + AI Lens,5MP Front Camera,"2G, 3G, 4G",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.75 mm,164 mm,191 g,Dual Sim,No,,Glacier Blue
+MOTOROLA,g73 5G,18999,4,Dual Sim,Yes,Yes,6.5,Android 13,Octa Core,128 GB,50MP + 8MP,16MP Front Camera,"2G, 3G, 4G, 5G",v5.3,Yes,Yes,Nano Sim,5000 mAh,73.84 mm,161.42 mm,181 g,Dual Sim,Yes,Primary Camera,Lucent White
+Infinix,HOT 30i,9499,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50MP + AI Lens,5MP Front Camera,"2G, 3G, 4G",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.75 mm,164 mm,191 g,Dual Sim,No,,Mirror Black
+Infinix,HOT 30i,8399,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,50MP + AI Lens,5MP Front Camera,"2G, 3G, 4G",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.75 mm,164 mm,191 g,Dual Sim,No,,Diamond White
+Infinix,HOT 30i,9499,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50MP + AI Lens,5MP Front Camera,"2G, 3G, 4G",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.75 mm,164 mm,191 g,Dual Sim,No,,Glacier Blue
+APPLE,iPhone 13,52499,4.7,Dual Sim,No,Yes,6.1,iOS 15,Hexa Core,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,3240 mAh,71.5 mm,146.7 mm,173 g,Dual Sim,No,Primary Camera,Blue
+Infinix,HOT 30i,9499,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50MP + AI Lens,5MP Front Camera,"2G, 3G, 4G",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.75 mm,164 mm,191 g,Dual Sim,No,,Marigold
+realme,C53,10999,4.4,Dual Sim,No,Yes,6.74,Android 13,Octa Core,64 GB,108MP + 2MP,8MP Front Camera,"2G, 3G, 4G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.67 mm,167.16 mm,186 g,Dual Sim,No,Primary Camera,Champion Gold
+vivo,V29e 5G,26999,4.4,Dual Sim,Yes,Yes,6.78,Android 13,Octa Core,128 GB,64MP + 8MP,50MP Front Camera,"2G, 3G, 4G, 5G",v5.1,Yes,Yes,Nano Sim,5000 mAh,74.92 mm,164.42 mm,180.5 g,Dual Sim,Yes,Primary Camera,Artistic Blue
+Infinix,HOT 30i,9499,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50MP + AI Lens,5MP Front Camera,"2G, 3G, 4G",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.75 mm,164 mm,191 g,Dual Sim,No,,Diamond White
+realme,11 Pro+ 5G,29999,4.3,Dual Sim,Yes,Yes,6.7,Android 13,Octa Core,256 GB,200MP (OIS) + 8MP + 2MP,32MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,73.9 mm,161.6 mm,189 g,Dual Sim,Yes,Primary Camera,Oasis Green
+MOTOROLA,g84 5G,19999,4.2,Dual Sim,No,Yes,6.55,Android 13,Octa Core,256 GB,50MP (OIS) + 8MP,16MP Front Camera,"2G, 3G, 4G, 5G",v5.1,Yes,Yes,Nano Sim,5000 mAh,74.4 mm,160 mm,166.8 g,Dual Sim,No,Primary Camera,Midnight Blue
+POCO,C55,7499,4.2,Dual Sim,No,Yes,6.71,Android 12,Octa Core,64 GB,50MP Dual Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.41 mm,168.76 mm,192 g,Dual Sim,No,,Forest Green
+POCO,C55,7499,4.2,Dual Sim,No,Yes,6.71,Android 12,Octa Core,64 GB,50MP Dual Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.41 mm,168.76 mm,192 g,Dual Sim,No,,Cool Blue
+POCO,M6 Pro 5G,12999,4.3,Dual Sim,Yes,Yes,6.79,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"2G, 3G, 4G, 4G VOLTE, 5G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.28 mm,168.6 mm,199 g,Dual Sim,Yes,Primary Camera,Forest Green
+vivo,V29e 5G,26999,4.4,Dual Sim,Yes,Yes,6.78,Android 13,Octa Core,128 GB,64MP + 8MP,50MP Front Camera,"2G, 3G, 4G, 5G",v5.1,Yes,Yes,Nano Sim,5000 mAh,74.92 mm,164.42 mm,180.5 g,Dual Sim,Yes,Primary Camera,Artistic Red
+vivo,V29e 5G,28999,4.4,Dual Sim,Yes,Yes,6.78,Android 13,Octa Core,256 GB,64MP + 8MP,50MP Front Camera,"2G, 3G, 4G, 5G",v5.1,Yes,Yes,Nano Sim,5000 mAh,74.92 mm,164.42 mm,180.5 g,Dual Sim,Yes,Primary Camera,Artistic Red
+realme,C53,9999,4.1,Dual Sim,No,Yes,6.74,Android 13,Octa Core,128 GB,108MP + 2MP,8MP Front Camera,"2G, 3G, 4G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.67 mm,167.16 mm,186 g,Dual Sim,No,Primary Camera,Champion Black
+realme,C53,9999,4.1,Dual Sim,No,Yes,6.74,Android 13,Octa Core,128 GB,108MP + 2MP,8MP Front Camera,"2G, 3G, 4G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.67 mm,167.16 mm,186 g,Dual Sim,No,Primary Camera,Champion Gold
+REDMI,A2,6900,4.1,Dual Sim,No,Yes,6.52,Android Android 13,Octa Core,64 GB,8MP Rear Camera,,4G VOLTE,,,,Nano Sim,5000 mAh,76.67 mm,167.16 mm,186 g,Dual Sim,No,Primary Camera,Sea Green
+REDMI,A2,6799,4.1,Dual Sim,No,Yes,6.52,Android Android 13,Octa Core,64 GB,8MP Rear Camera,,4G VOLTE,,,,Nano Sim,5000 mAh,76.67 mm,167.16 mm,186 g,Dual Sim,No,Primary Camera,Classic Black
+MOTOROLA,g14,9999,4.1,Dual Sim,No,Yes,6.5,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,73.82 mm,161.46 mm,177 g,Dual Sim,No,Primary Camera,Pale Lilac
+realme,C53,10999,4.4,Dual Sim,No,Yes,6.74,Android 13,Octa Core,64 GB,108MP + 2MP,8MP Front Camera,"2G, 3G, 4G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.67 mm,167.16 mm,186 g,Dual Sim,No,Primary Camera,Champion Black
+REDMI,A2,6806,4.1,Dual Sim,No,Yes,6.52,Android Android 13,Octa Core,64 GB,8MP Rear Camera,,4G VOLTE,,,,Nano Sim,5000 mAh,76.67 mm,167.16 mm,186 g,Dual Sim,No,Primary Camera,Aqua Blue
+MOTOROLA,e13,7999,4,Dual Sim,No,Yes,6.5,Android 13 (Go Edition),Octa Core,64 GB,13MP Rear Camera,5MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,74.95 mm,164.19 mm,179.5 g,Dual Sim,No,,Cosmic Black
+MOTOROLA,Edge 40,29999,4.2,Dual Sim(Physical + eSIM),No,Yes,6.5,Android 13,Octa Core,256 GB,50MP + 13MP,32MP Front Camera,"5G, 4G, 3G, 2G",v5.2,Yes,Yes,,4400 mAh,71.99 mm,158.43 mm,171 g,Dual Sim(Physical + eSIM),No,Primary Camera,Nebula Green
+realme,11 Pro+ 5G,27999,4.3,Dual Sim,Yes,Yes,6.7,Android 13,Octa Core,256 GB,200MP (OIS) + 8MP + 2MP,32MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,73.9 mm,161.6 mm,183 g,Dual Sim,Yes,Primary Camera,Astral Black
+Nokia,"105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",1549,4.1,Single Sim,No,No,1.77,,,32 MB,0MP,0MP Front Camera,2G,,No,No,Mini Sim,1000 mAh,,,79.7 g,Single Sim,No,,Terracotta Red
+REDMI,A2,7129,4.1,Dual Sim,No,Yes,6.52,Android Android 13,Octa Core,32 GB,8MP Rear Camera,,4G VOLTE,,,,Mini Sim,5000 mAh,,,79.7 g,Dual Sim,No,Primary Camera,Aqua Blue
+SAMSUNG,Galaxy F13,10999,4.3,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,50MP + 5MP + 2MP,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,6000 mAh,76.9 mm,165.4 mm,207 g,Dual Sim,No,Primary Camera,Waterfall Blue
+MOTOROLA,e32,8999,3.9,Dual Sim,No,Yes,6.5,Android 12,Octa Core,64 GB,50MP + 2MP,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,74.94 mm,163.95 mm,185 g,Dual Sim,No,Primary Camera,Eco Black
+Infinix,Note 30 5G,14999,4.1,Dual Sim,No,Yes,6.78,Android 13,Octa Core,128 GB,108 MP + 2 MP+ AI Lens,16MP Front Camera,"2G, 3G, 4G, 5G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.51 mm,168.51 mm,204.7 g,Dual Sim,No,Primary Camera,Sunset Gold
+REDMI,A2,6746,4.1,Dual Sim,No,Yes,6.52,Android Android 13,Octa Core,64 GB,8MP Rear Camera,,4G VOLTE,,,,Nano Sim,5000 mAh,76.51 mm,168.51 mm,204.7 g,Dual Sim,No,Primary Camera,Sea Green
+MOTOROLA,g54 5G,18999,3.9,Dual Sim,Yes,Yes,6.5,Android 13,Octa Core,256 GB,50MP (OIS) + 8MP,16MP Front Camera,"2G, 3G, 4G, 5G",v5.3,Yes,Yes,Nano Sim,6000 mAh,73.82 mm,161.56 mm,192 g,Dual Sim,Yes,Primary Camera,Pearl Blue
+OPPO,Reno10 5G,32999,4.2,Dual Sim,No,Yes,6.7,Android 13,Octa Core,256 GB,64MP + 32MP + 8MP,32MP Front Camera,"5G, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,74.2 mm,162.4 mm,185 g,Dual Sim,No,Primary Camera,Ice Blue
+OPPO,Reno10 5G,32999,4.2,Dual Sim,No,Yes,6.7,Android 13,Octa Core,256 GB,64MP + 32MP + 8MP,32MP Front Camera,"2G, 3G, 4G, 5G",v5.3,Yes,Yes,Nano Sim,5000 mAh,74.2 mm,162.4 mm,185 g,Dual Sim,No,Primary Camera,Silvery Grey
+APPLE,iPhone 14,64999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 16,Hexa Core,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,3279 mAh,71.5 mm,146.7 mm,172 g,Dual Sim(Nano + eSIM),No,Primary Camera,Blue
+POCO,M6 Pro 5G,10999,4.4,Dual Sim,Yes,Yes,6.79,Android 13,Octa Core,64 GB,50MP + 2MP,8MP Front Camera,"2G, 3G, 4G, 4G VOLTE, 5G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.28 mm,168.6 mm,199 g,Dual Sim,Yes,Primary Camera,Forest Green
+REDMI,12 5G,14497,4.3,Dual Sim,No,Yes,6.79,Android Android 13 With MIUI 14,Octa Core,128 GB,50MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,76.28 mm,168.6 mm,199 g,Dual Sim,No,Primary Camera,Pastel Blue
+REDMI,12 5G,14475,4.3,Dual Sim,No,Yes,6.79,Android MIUI 14 With Android 13,Octa Core,128 GB,50MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,76.28 mm,168.6 mm,199 g,Dual Sim,No,Primary Camera,Jade Black
+APPLE,Iphone 15,79900,4.8,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 17,Hexa Core,128 GB,48MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,5000 mAh,71.6 mm,147.6 mm,171 g,Dual Sim(Nano + eSIM),No,Primary Camera,Green
+realme,11 Pro 5G,27999,4.3,Dual Sim,Yes,Yes,6.7,Android 13,Octa Core,256 GB,100MP (OIS) + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,73.9 mm,161.6 mm,185 g,Dual Sim,Yes,Primary Camera,Astral Black
+APPLE,iPhone 11,40999,4.6,Dual Sim,No,Yes,6.1,iOS 14.2,,128 GB,12MP + 12MP,12MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano SIM and eSIM,3110 mAh,75.7 mm,150.9 mm,194 g,Dual Sim,No,Primary Camera,Black
+MOTOROLA,g54 5G,15999,4.1,Dual Sim,Yes,Yes,6.5,Android 13,Octa Core,128 GB,50MP (OIS) + 8MP,16MP Front Camera,"2G, 3G, 4G, 5G",v5.3,Yes,Yes,Nano Sim,6000 mAh,73.82 mm,161.56 mm,192 g,Dual Sim,Yes,Primary Camera,Mint Green
+OnePlus,Nord CE 3 Lite 5G,21990,4.4,Dual Sim,No,Yes,6.72,Android Android 13,Octa Core,256 GB,108MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,73.82 mm,161.56 mm,192 g,Dual Sim,No,Primary Camera,Pastel Lime
+OnePlus,Nord CE 3 Lite 5G,19989,4.4,Dual Sim,No,Yes,6.72,Android 13,Octa Core,128 GB,108MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,73.82 mm,161.56 mm,192 g,Dual Sim,No,Primary Camera,Chromatic Gray
+SAMSUNG,Guru Music 2,2499,4.3,Dual Sim,No,No,2,1,Single Core,,,0MP Front Camera,2G,0,No,No,Full Size SIM,800 mAh,70 mm,160 mm,74.98 g,Dual Sim,No,,White
+MOTOROLA,g54 5G,15999,4.1,Dual Sim,Yes,Yes,6.5,Android 13,Octa Core,128 GB,50MP (OIS) + 8MP,16MP Front Camera,"2G, 3G, 4G, 5G",v5.3,Yes,Yes,Nano Sim,6000 mAh,73.82 mm,161.56 mm,192 g,Dual Sim,Yes,Primary Camera,Midnight Blue
+OnePlus,Nord CE 2 Lite 5G,17341,4.4,Dual Sim,Yes,Yes,6.59,Android 10,Octa Core,128 GB,64MP Rear Camera,16MP Front Camera,5G,,,,Nano Sim,5000 mAh,73.82 mm,161.56 mm,192 g,Dual Sim,Yes,,Blue Tide
+Infinix,Note 30 5G,15999,4.2,Dual Sim,No,Yes,6.78,Android 13,Octa Core,256 GB,108 MP + 2 MP+ AI Lens,16MP Front Camera,"2G, 3G, 4G, 5G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.51 mm,168.51 mm,204.7 g,Dual Sim,No,Primary Camera,Sunset Gold
+APPLE,iPhone 14,64999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 16,Hexa Core,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,3279 mAh,71.5 mm,146.7 mm,172 g,Dual Sim(Nano + eSIM),No,Primary Camera,Midnight
+realme,11 Pro+ 5G,27999,4.3,Dual Sim,Yes,Yes,6.7,Android 13,Octa Core,256 GB,200MP (OIS) + 8MP + 2MP,32MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,73.9 mm,161.6 mm,189 g,Dual Sim,Yes,Primary Camera,Sunrise Beige
+Infinix,Smart 7 HD,6199,5,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,8MP + AI Lens,5MP Front Camera,"2G, 3G, 4G",v4.2,Yes,Yes,Nano Sim,5000 mAh,75.51 mm,163.88 mm,196 g,Dual Sim,No,Primary Camera,Silk Blue
+MOTOROLA,g14,9999,4.1,Dual Sim,No,Yes,6.5,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,73.82 mm,161.46 mm,177 g,Dual Sim,No,Primary Camera,Sky Blue
+Nokia,"105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",1499,4.1,Single Sim,No,No,1.77,,,32 MB,0MP,0MP Front Camera,2G,,No,No,Mini Sim,1000 mAh,,,79.7 g,Single Sim,No,,Cyan
+realme,11 Pro+ 5G,29999,4.3,Dual Sim,Yes,Yes,6.7,Android 13,Octa Core,256 GB,200MP (OIS) + 8MP + 2MP,32MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,73.9 mm,161.6 mm,183 g,Dual Sim,Yes,Primary Camera,Astral Black
+Infinix,Smart 7 HD,6199,4.3,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,8MP + AI Lens,5MP Front Camera,"2G, 3G, 4G",v4.2,Yes,Yes,Nano Sim,5000 mAh,75.51 mm,163.88 mm,196 g,Dual Sim,No,Primary Camera,Ink Black
+Infinix,Note 30 5G,14999,4.1,Dual Sim,No,Yes,6.78,Android 13,Octa Core,128 GB,108 MP + 2 MP+ AI Lens,16MP Front Camera,"2G, 3G, 4G, 5G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.51 mm,168.51 mm,204.7 g,Dual Sim,No,Primary Camera,Magic Black
+SAMSUNG,Galaxy M14 5G,14665,4.2,Dual Sim,No,Yes,6.6,Android Android 13.0,Octa Core,128 GB,50MP Rear Camera,,"5G, 4G",,,,Nano Sim,6000 mAh,76.51 mm,168.51 mm,204.7 g,Dual Sim,No,Primary Camera,Smoky Teal
+Infinix,Note 30 5G,14999,4.1,Dual Sim,No,Yes,6.78,Android 13,Octa Core,128 GB,108 MP + 2 MP+ AI Lens,16MP Front Camera,"2G, 3G, 4G, 5G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.51 mm,168.51 mm,204.7 g,Dual Sim,No,Primary Camera,Interstellar Blue
+MOTOROLA,g54 5G,18999,3.9,Dual Sim,Yes,Yes,6.5,Android 13,Octa Core,256 GB,50MP (OIS) + 8MP,16MP Front Camera,"2G, 3G, 4G, 5G",v5.3,Yes,Yes,Nano Sim,6000 mAh,73.82 mm,161.56 mm,192 g,Dual Sim,Yes,Primary Camera,Mint Green
+Infinix,Note 30 5G,15999,4.2,Dual Sim,No,Yes,6.78,Android 13,Octa Core,256 GB,108 MP + 2 MP+ AI Lens,16MP Front Camera,"2G, 3G, 4G, 5G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.51 mm,168.51 mm,204.7 g,Dual Sim,No,Primary Camera,Interstellar Blue
+MOTOROLA,g14,9999,4.1,Dual Sim,No,Yes,6.5,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,73.82 mm,161.46 mm,177 g,Dual Sim,No,Primary Camera,Steel Gray
+MOTOROLA,g84 5G,19999,4.2,Dual Sim,No,Yes,6.55,Android 13,Octa Core,256 GB,50MP (OIS) + 8MP,16MP Front Camera,"2G, 3G, 4G, 5G",v5.1,Yes,Yes,Nano Sim,5000 mAh,74.4 mm,160 mm,168.3 g,Dual Sim,No,Primary Camera,Viva Magneta
+MOTOROLA,e13,8999,3.9,Dual Sim,No,Yes,6.5,Android 13 (Go Edition),Octa Core,128 GB,13MP Rear Camera,5MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,74.95 mm,164.19 mm,179.5 g,Dual Sim,No,,Creamy White
+MOTOROLA,g54 5G,18999,3.9,Dual Sim,Yes,Yes,6.5,Android 13,Octa Core,256 GB,50MP (OIS) + 8MP,16MP Front Camera,"2G, 3G, 4G, 5G",v5.3,Yes,Yes,Nano Sim,6000 mAh,73.82 mm,161.56 mm,192 g,Dual Sim,Yes,Primary Camera,Midnight Blue
+Infinix,Note 30 5G,15999,4.2,Dual Sim,No,Yes,6.78,Android 13,Octa Core,256 GB,108 MP + 2 MP+ AI Lens,16MP Front Camera,"2G, 3G, 4G, 5G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.51 mm,168.51 mm,204.7 g,Dual Sim,No,Primary Camera,Magic Black
+POCO,M5,8499,4.1,Dual Sim,No,Yes,6.58,Android 12,Octa Core,64 GB,50MP + 2MP Depth Sensor + 2MP Macro Sensor,8MP Front Camera,"4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,76.09 mm,163.99 mm,201 g,Dual Sim,No,,Icy Blue
+realme,11 Pro 5G,23999,4.3,Dual Sim,Yes,Yes,6.7,Android 13,Octa Core,128 GB,100MP (OIS) + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,73.9 mm,161.6 mm,191 g,Dual Sim,Yes,Primary Camera,Oasis Green
+Micromax,X512,985,4,Dual Sim,No,No,1.77,,,32 MB,0.3MP Rear Camera,,2G,,,,Nano Sim,1750 mAh,73.9 mm,161.6 mm,191 g,Dual Sim,No,,Black&Red
+MarQ,M80 Jalwa,999,3.9,Dual Sim,No,No,2.8,,,32 MB,0.3MP Rear Camera,,2G,v4.2,,No,Standard+ Micro,1450 mAh,73.9 mm,161.6 mm,191 g,Dual Sim,No,,Black
+SAMSUNG,Guru Music 2,2890,4.3,Dual Sim,No,No,2,1,Single Core,,,0MP Front Camera,2G,0,No,No,Full Size SIM,800 mAh,60 mm,120 mm,74.98 g,Dual Sim,No,,White
+POCO,X5 Pro 5G,19999,4.3,Dual Sim,No,Yes,6.67,Android 12,Octa Core,128 GB,108MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.03 mm,162.91 mm,181 g,Dual Sim,No,Primary Camera,Horizon Blue
+MOTOROLA,e13,6999,4,Dual Sim,No,Yes,6.5,Android 13 (Go Edition),Octa Core,64 GB,13MP Rear Camera,5MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,74.95 mm,164.19 mm,179.5 g,Dual Sim,No,,Aurora Green
+SAMSUNG,Guru Music 2,2880,4.3,Dual Sim,No,No,2,,,,13MP Rear Camera,5MP Front Camera,2G,,,,,800 mAh,,,74.98 g,Dual Sim,No,,Gold
+MOTOROLA,G32,11999,4.1,Dual Sim,No,Yes,6.5,Android 12,Octa Core,128 GB,50MP + 8MP + 2MP,16MP Front Camera,"4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,73.84 mm,161.78 mm,180 g,Dual Sim,No,Primary Camera,Satin Maroon
+POCO,M4 Pro,11499,4.3,Dual Sim,No,Yes,6.43,Android 11,Octa Core,128 GB,64MP + 8MP + 2MP,16MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,73.8 mm,159.8 mm,179.5 g,Dual Sim,No,Primary Camera,Yellow
+Infinix,HOT 30 5G,12499,4.1,Dual Sim,No,Yes,6.78,Android 13,Octa Core,128 GB,50 MP + AI Lens,8MP Front Camera,"2G, 3G, 4G, 5G",v5.0,Yes,Yes,Nano Sim,6000 mAh,76.51 mm,168.51 mm,215 g,Dual Sim,No,,Miami Orange
+REDMI,Note 12 Pro 5G,23999,4.2,Dual Sim,No,Yes,6.67,Android 12,Octa Core,128 GB,50MP (OIS) + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,76.03 mm,162.9 mm,187 g,Dual Sim,No,Primary Camera,Stardust Purple
+REDMI,12 5G,13227,4.2,Dual Sim,Yes,Yes,6.79,Android Q 13,Octa Core,128 GB,50MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,76.03 mm,162.9 mm,187 g,Dual Sim,Yes,Primary Camera,Moonstone Silver
+Micromax,X512,1079,3.9,Dual Sim,No,No,1.77,,,24 MB,0.3MP Rear Camera,,2G,,,,,1750 mAh,76.03 mm,162.9 mm,187 g,Dual Sim,No,,Blue
+POCO,X5 5G,14999,4.1,Dual Sim,Yes,Yes,6.67,Android 12,Octa Core,128 GB,48MP + 8MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 4G VOLTE, 5G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Jaguar Black
+OPPO,F21 Pro,18778,4.3,Dual Sim,No,Yes,6.43,Android Q Android 11,Octa Core,128 GB,64MP Rear Camera,32MP Front Camera,4G VOLTE,,Yes,,Nano Sim,4500 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,No,Primary Camera,Sunset Orange
+POCO,X5 5G,14999,4.1,Dual Sim,Yes,Yes,6.67,Android 12,Octa Core,128 GB,48MP + 8MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 4G VOLTE, 5G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Wildcat Blue
+MarQ,M80 Jalwa,999,3.9,Dual Sim,No,No,2.8,Android 12,Octa Core,32 MB,0.3MP Rear Camera,,2G,v4.2,,No,Standard+ Micro,1450 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,No,,Navy Blue
+OnePlus,Nord CE3 5G,28839,4.4,Dual Sim,Yes,Yes,6.7,Android Oxygen Android 13.1,Octa Core,256 GB,50MP Rear Camera,,5G,,,,Standard+ Micro,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Grey Shimmer
+POCO,X5 5G,16999,4.1,Dual Sim,Yes,Yes,6.67,Android 12,Octa Core,256 GB,48MP + 8MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 4G VOLTE, 5G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Jaguar Black
+Infinix,HOT 30 5G,13499,4.2,Dual Sim,No,Yes,6.78,Android 13,Octa Core,128 GB,50 MP + AI Lens,8MP Front Camera,"2G, 3G, 4G, 5G",v5.0,Yes,Yes,Nano Sim,6000 mAh,76.51 mm,168.51 mm,215 g,Dual Sim,No,,Knight Black
+OPPO,A78 5G,18999,4.3,Dual Sim,No,Yes,6.56,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"2G, 3G, 4G, 5G",v5.3,Yes,Yes,Nano Sim,5000 mAh,75.1 mm,163.8 mm,188 g,Dual Sim,No,Primary Camera,Glowing Black
+POCO,X5 Pro 5G,21999,4.3,Dual Sim,No,Yes,6.67,Android 12,Octa Core,256 GB,108MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.03 mm,162.91 mm,181 g,Dual Sim,No,Primary Camera,Horizon Blue
+REDMI,12 5G,16445,4.1,Dual Sim,Yes,Yes,6.79,Android Q 13,Octa Core,256 GB,50MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,76.03 mm,162.91 mm,181 g,Dual Sim,Yes,Primary Camera,Jade Black
+OPPO,A78 5G,18999,4.3,Dual Sim,No,Yes,6.56,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"2G, 3G, 4G, 5G",v5.3,Yes,Yes,Nano Sim,5000 mAh,75.1 mm,163.8 mm,188 g,Dual Sim,No,Primary Camera,Glowing Blue
+realme,10 Pro 5G,17999,4.3,Dual Sim,Yes,Yes,6.72,Android 13,Octa Core,128 GB,108MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,,Yes,Nano Sim,5000 mAh,74.2 mm,163.7 mm,192 g,Dual Sim,Yes,Primary Camera,Hyperspace
+OnePlus,11R 5G,39988,4.5,Dual Sim,No,Yes,6.7,Android Oxygen OxygenOS based on Android 13,Octa Core,128 GB,50MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,74.2 mm,163.7 mm,192 g,Dual Sim,No,Primary Camera,Sonic Black
+POCO,M5,8499,4.1,Dual Sim,No,Yes,6.58,Android 12,Octa Core,64 GB,50MP + 2MP Depth Sensor + 2MP Macro Sensor,8MP Front Camera,"4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,76.09 mm,163.99 mm,201 g,Dual Sim,No,,Power Black
+MOTOROLA,e13,7999,4,Dual Sim,No,Yes,6.5,Android 13 (Go Edition),Octa Core,64 GB,13MP Rear Camera,5MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,74.95 mm,164.19 mm,179.5 g,Dual Sim,No,,Creamy White
+realme,10 Pro 5G,17999,4.3,Dual Sim,Yes,Yes,6.72,Android 13,Octa Core,128 GB,108MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,,Yes,Nano Sim,5000 mAh,74.2 mm,163.7 mm,190 g,Dual Sim,Yes,Primary Camera,Dark Matter
+MOTOROLA,Edge 30 Ultra,59999,4.2,Dual Sim,No,Yes,6.67,Android 12,Octa Core,256 GB,200MP + 50MP + 12MP,60MP Front Camera,"5G, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,4610 mAh,73.5 mm,161.76 mm,198.5 g,Dual Sim,No,Primary Camera,Starlight White
+OnePlus,11R 5G,44995,4.5,Dual Sim,No,Yes,6.7,Android Oxygen OxygenOS based on Android 13,Octa Core,256 GB,50MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,73.5 mm,161.76 mm,198.5 g,Dual Sim,No,Primary & Secondary Camera,Sonic Black
+APPLE,iPhone 14,64999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 16,Hexa Core,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,3279 mAh,71.5 mm,146.7 mm,172 g,Dual Sim(Nano + eSIM),No,Primary Camera,Starlight
+APPLE,iPhone 14,64999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 16,Hexa Core,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,3279 mAh,71.5 mm,146.7 mm,172 g,Dual Sim(Nano + eSIM),No,Primary Camera,Purple
+LAVA,A1 Josh with BOL,1049,4.1,Dual Sim,No,No,1.77,,,4 MB,,,2G,,No,,Micro,1000 mAh,48 mm,112.2 mm,70 g,Dual Sim,No,,"Blue, Silver"
+MarQ,M70 Shakti,749,3.9,Dual Sim,No,No,2.4,,,32 MB,0.3MP Rear Camera,,2G,v4.2,,No,Standard+ Micro,3000 mAh,48 mm,112.2 mm,70 g,Dual Sim,No,,Blue
+OnePlus,11R 5G,39779,4.5,Dual Sim,No,Yes,6.7,Android Oxygen OxygenOS based on Android 13,Octa Core,128 GB,50MP Rear Camera,,5G,,,,Standard+ Micro,5000 mAh,48 mm,112.2 mm,70 g,Dual Sim,No,Primary Camera,Sonic Black
+POCO,C50,6299,4,Dual Sim,No,Yes,6.52,Android 12 Go,,32 GB,8MP Dual Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.45 mm,164.9 mm,192 g,Dual Sim,No,Primary Camera,Royal Blue
+Nokia,"105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",1499,4.1,Single Sim,No,No,1.77,Symbian,,32 MB,,0MP Front Camera,2G,,No,No,Mini Sim,800 mAh,49.9 mm,115.2 mm,51 g,Single Sim,No,,Charcoal
+POCO,M4 Pro,12999,4.2,Dual Sim,No,Yes,6.43,Android 11,Octa Core,128 GB,64MP + 8MP + 2MP,16MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,73.8 mm,159.8 mm,179.5 g,Dual Sim,No,Primary Camera,Cool Blue
+REDMI,12 5G,16347,4.1,Dual Sim,Yes,Yes,6.79,Android Q 13,Octa Core,256 GB,50MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,73.8 mm,159.8 mm,179.5 g,Dual Sim,Yes,Primary Camera,Moonstone Silver
+MOTOROLA,g14,9999,4.1,Dual Sim,No,Yes,6.5,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,73.82 mm,161.46 mm,177 g,Dual Sim,No,Primary Camera,Butter Cream
+realme,C53,11999,4.4,Dual Sim,No,Yes,6.74,Android 13,Octa Core,128 GB,108MP + 2MP,8MP Front Camera,"2G, 3G, 4G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.67 mm,167.16 mm,186 g,Dual Sim,No,Primary Camera,Champion Gold
+realme,C53,11999,4.4,Dual Sim,No,Yes,6.74,Android 13,Octa Core,128 GB,108MP + 2MP,8MP Front Camera,"2G, 3G, 4G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.67 mm,167.16 mm,186 g,Dual Sim,No,Primary Camera,Champion Black
+APPLE,iPhone 13,52499,4.7,Dual Sim,No,Yes,6.1,iOS 15,Hexa Core,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,3240 mAh,71.5 mm,146.7 mm,173 g,Dual Sim,No,Primary Camera,Green
+REDMI,12 5G,16697,4.1,Dual Sim,Yes,Yes,6.79,Android Q 13,Octa Core,256 GB,50MP Rear Camera,,5G,,,,Nano + eSIM,5000 mAh,71.5 mm,146.7 mm,173 g,Dual Sim,Yes,Primary Camera,Pastel Blue
+Nokia,"105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",1599,4.1,Single Sim,No,No,1.77,,,32 MB,0MP,0MP Front Camera,2G,,No,No,Mini Sim,1000 mAh,,,79.7 g,Single Sim,No,,Charcoal
+Google,Pixel 6a,43999,4.3,Dual Sim,No,Yes,6.14,Android 12,,128 GB,12.2MP + 12MP,8MP Front Camera,"5G, 4G, 3G, 2G",v5.2,,Yes,Nano Sim,4410 mAh,71.8 mm,152.2 mm,178 g,Dual Sim,No,Primary Camera,Charcoal
+realme,11 5G,18999,4.3,Dual Sim,No,Yes,6.72,Android 13,Octa Core,128 GB,108MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,76 mm,165.7 mm,190 g,Dual Sim,No,Primary Camera,Glory Black
+Google,Pixel 6a,43999,4.3,Dual Sim,No,Yes,6.14,Android 12,,128 GB,12.2MP + 12MP,8MP Front Camera,"5G, 4G, 3G, 2G",v5.2,,Yes,Nano Sim,4410 mAh,71.8 mm,152.2 mm,178 g,Dual Sim,No,Primary Camera,Chalk
+realme,11 5G,19999,4.3,Dual Sim,No,Yes,6.72,Android 13,Octa Core,256 GB,108MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,76 mm,165.7 mm,190 g,Dual Sim,No,Primary Camera,Glory Gold
+realme,11 Pro 5G,27999,4.3,Dual Sim,Yes,Yes,6.7,Android 13,Octa Core,256 GB,100MP (OIS) + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,73.9 mm,161.6 mm,191 g,Dual Sim,Yes,Primary Camera,Sunrise Beige
+Infinix,HOT 30 5G,13499,4.2,Dual Sim,No,Yes,6.78,Android 13,Octa Core,128 GB,50 MP + AI Lens,8MP Front Camera,"2G, 3G, 4G, 5G",v5.0,Yes,Yes,Nano Sim,6000 mAh,76.51 mm,168.51 mm,215 g,Dual Sim,No,,Miami Orange
+realme,11 5G,18999,4.3,Dual Sim,No,Yes,6.72,Android 13,Octa Core,128 GB,108MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,76 mm,165.7 mm,190 g,Dual Sim,No,Primary Camera,Glory Gold
+Infinix,HOT 30 5G,12499,4.1,Dual Sim,No,Yes,6.78,Android 13,Octa Core,128 GB,50 MP + AI Lens,8MP Front Camera,"2G, 3G, 4G, 5G",v5.0,Yes,Yes,Nano Sim,6000 mAh,76.51 mm,168.51 mm,215 g,Dual Sim,No,,Knight Black
+REDMI,11 Prime,10999,4.3,Dual Sim,No,Yes,6.58,Android 12,Octa Core,128 GB,50MP + 2MP + 2MP,8MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,76.09 mm,163.99 mm,201 g,Dual Sim,No,Primary Camera,Peppy Purple
+Micromax,X512,967,4,Dual Sim,No,No,1.77,,,24 MB,50MP + 2MP + 2MP,8MP Front Camera,2G,,,,,1750 mAh,76.09 mm,163.99 mm,201 g,Dual Sim,No,Primary Camera,Blue
+realme,11 5G,19999,4.3,Dual Sim,No,Yes,6.72,Android 13,Octa Core,256 GB,108MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,76 mm,165.7 mm,190 g,Dual Sim,No,Primary Camera,Glory Black
+SAMSUNG,Guru Music 2,2499,4.3,Dual Sim,No,No,2,1,Single Core,,,0MP Front Camera,2G,0,No,No,Full Size SIM,800 mAh,60 mm,0 mm,74.98 g,Dual Sim,No,,White
+APPLE,iPhone 11,40999,4.6,Dual Sim,No,Yes,6.1,iOS 14.2,,128 GB,12MP + 12MP,12MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano SIM and eSIM,3110 mAh,75.7 mm,150.9 mm,194 g,Dual Sim,No,Primary Camera,Black
+Infinix,Smart 7 HD,6199,4.3,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,8MP + AI Lens,5MP Front Camera,"2G, 3G, 4G",v4.2,Yes,Yes,Nano Sim,5000 mAh,75.51 mm,163.88 mm,196 g,Dual Sim,No,Primary Camera,Jade White
+SAMSUNG,Galaxy M04,8127,4.1,Dual Sim,No,Yes,6.5,Android 12,Octa Core,64 GB,13MP + 2MP,5MP Front Camera,4G,,Yes,Yes,Nano,5000 mAh,76 mm,164 mm,188 g,Dual Sim,No,Primary Camera,Dark Blue
+realme,11 Pro 5G,23999,4.3,Dual Sim,Yes,Yes,6.7,Android 13,Octa Core,128 GB,100MP (OIS) + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,73.9 mm,161.6 mm,191 g,Dual Sim,Yes,Primary Camera,Sunrise Beige
+Infinix,Smart 7 HD,6199,4.3,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,8MP + AI Lens,5MP Front Camera,"2G, 3G, 4G",v4.2,Yes,Yes,Nano Sim,5000 mAh,75.51 mm,163.88 mm,196 g,Dual Sim,No,Primary Camera,Green Apple
+realme,11 Pro 5G,24999,4.3,Dual Sim,Yes,Yes,6.7,Android 13,Octa Core,256 GB,100MP (OIS) + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,73.9 mm,161.6 mm,191 g,Dual Sim,Yes,Primary Camera,Sunrise Beige
+SAMSUNG,Guru 1200,2099,4,Single Sim,,No,1.5,,,153 MB,,,,,No,No,Mini SIM,800 mAh,45 mm,108 mm,66 g,Single Sim,,,Black
+realme,11 Pro 5G,23999,4.3,Dual Sim,Yes,Yes,6.7,Android 13,Octa Core,128 GB,100MP (OIS) + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,73.9 mm,161.6 mm,185 g,Dual Sim,Yes,Primary Camera,Astral Black
+vivo,T2 5G,20999,4.4,Dual Sim,Yes,Yes,6.38,Android 13,Octa Core,128 GB,64 MP (OIS) + 2MP,16MP Front Camera,"5G, 4G, 3G",v5.1,Yes,Yes,Nano Sim,4500 mAh,73.53 mm,158.91 mm,172 g,Dual Sim,Yes,Primary Camera,Velocity Wave
+MOTOROLA,e13,6999,4,Dual Sim,No,Yes,6.5,Android 13 (Go Edition),Octa Core,64 GB,13MP Rear Camera,5MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,74.95 mm,164.19 mm,179.5 g,Dual Sim,No,,Creamy White
+Infinix,HOT 30 5G,12499,4.1,Dual Sim,No,Yes,6.78,Android 13,Octa Core,128 GB,50 MP + AI Lens,8MP Front Camera,"2G, 3G, 4G, 5G",v5.0,Yes,Yes,Nano Sim,6000 mAh,76.51 mm,168.51 mm,215 g,Dual Sim,No,,Aurora Blue
+REDMI,12C,8425,4.2,Dual Sim,No,Yes,6.71,Android 12,Octa Core,128 GB,50MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G",5,Yes,Yes,Nano-SIM,5000 mAh,76.41 mm,168.76 mm,192 g,Dual Sim,No,Primary Camera,Matte Black
+REDMI,12C,8462,4.2,Dual Sim,No,Yes,6.71,Android 12,Octa Core,128 GB,50MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G",5,Yes,Yes,Nano-SIM,5000 mAh,76.41 mm,168.76 mm,192 g,Dual Sim,No,Primary Camera,Royal Blue
+REDMI,12C,8501,4.2,Dual Sim,No,Yes,6.71,Android 12,Octa Core,128 GB,50MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G",5,Yes,Yes,Nano-SIM,5000 mAh,76.41 mm,168.76 mm,192 g,Dual Sim,No,Primary Camera,Lavender Purple
+APPLE,iPhone 11,37999,4.6,Dual Sim,No,Yes,6.1,iOS 14.2,,64 GB,12MP + 12MP,12MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano SIM and eSIM,3110 mAh,75.7 mm,150.9 mm,194 g,Dual Sim,No,Primary Camera,Black
+realme,10 Pro 5G,16999,4.3,Dual Sim,Yes,Yes,6.72,Android 13,Octa Core,128 GB,108MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,,Yes,Nano Sim,5000 mAh,74.2 mm,163.7 mm,190 g,Dual Sim,Yes,Primary Camera,Dark Matter
+POCO,M4 5G,10999,4.2,Dual Sim,No,Yes,6.58,Android 12,Octa Core,64 GB,50MP + 2MP,8MP Front Camera,"5G, 4G, 3G, 2G",v5.1,Yes,Yes,Nano,5000 mAh,76.09 mm,163.99 mm,200 g,Dual Sim,No,Primary Camera,Yellow
+SAMSUNG,Galaxy F14 5G,14990,4.2,Dual Sim,No,Yes,6.6,Android 13,Octa Core,128 GB,50MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 5G",v5.2,Yes,Yes,Nano Sim,6000 mAh,77.2 mm,166.8 mm,205 g,Dual Sim,No,Primary Camera,B.A.E. Purple
+POCO,M4 5G,10999,4.2,Dual Sim,No,Yes,6.58,Android 12,Octa Core,64 GB,50MP + 2MP,8MP Front Camera,"5G, 4G, 3G, 2G",v5.1,Yes,Yes,Nano,5000 mAh,76.09 mm,163.99 mm,200 g,Dual Sim,No,Primary Camera,Power Black
+POCO,M4 5G,12999,4.2,Dual Sim,No,Yes,6.58,Android 12,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"5G, 4G, 3G, 2G",v5.1,Yes,Yes,Nano,5000 mAh,76.09 mm,163.99 mm,200 g,Dual Sim,No,Primary Camera,Cool Blue
+REDMI,12C,8435,4.2,Dual Sim,No,Yes,6.71,Android 12,Octa Core,128 GB,50MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G",5,Yes,Yes,Nano-SIM,5000 mAh,76.41 mm,168.76 mm,192 g,Dual Sim,No,Primary Camera,Mint Green
+OnePlus,Nord CE3 5G,28979,4.4,Dual Sim,No,Yes,6.7,Android Oxygen Android 13.1,Octa Core,256 GB,50MP Rear Camera,,5G,,,,Nano-SIM,5000 mAh,76.41 mm,168.76 mm,192 g,Dual Sim,No,Primary Camera,Aqua Surge
+REDMI,Note 12 Pro 5G,23999,4.2,Dual Sim,No,Yes,6.67,Android 12,Octa Core,128 GB,50MP (OIS) + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,76.03 mm,162.9 mm,187 g,Dual Sim,No,Primary Camera,Glacier Blue
+MarQ,M70 Shakti,749,3.9,Dual Sim,No,No,2.4,Android 12,Octa Core,32 MB,0.3MP Rear Camera,,2G,v4.2,,No,Standard+ Micro,3000 mAh,76.03 mm,162.9 mm,187 g,Dual Sim,No,,Grey
+MOTOROLA,G32,11999,4.1,Dual Sim,No,Yes,6.5,Android 12,Octa Core,128 GB,50MP + 8MP + 2MP,16MP Front Camera,"4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,73.84 mm,161.78 mm,180 g,Dual Sim,No,Primary Camera,Satin Silver
+realme,10 Pro 5G,17999,4.3,Dual Sim,Yes,Yes,6.72,Android 13,Octa Core,128 GB,108MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,,Yes,Nano Sim,5000 mAh,74.2 mm,163.7 mm,190 g,Dual Sim,Yes,Primary Camera,Nebula Blue
+realme,10 Pro 5G,16999,4.3,Dual Sim,Yes,Yes,6.72,Android 13,Octa Core,128 GB,108MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,,Yes,Nano Sim,5000 mAh,74.2 mm,163.7 mm,192 g,Dual Sim,Yes,Primary Camera,Hyperspace
+APPLE,iPhone 11,37999,4.6,Dual Sim,No,Yes,6.1,iOS 14.2,,64 GB,12MP + 12MP,12MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano SIM and eSIM,3110 mAh,75.7 mm,150.9 mm,194 g,Dual Sim,No,Primary Camera,White
+REDMI,A1+,6299,4.2,Dual Sim,No,Yes,6.52,Android 12 Go,Quad Core,32 GB,8MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.75 mm,164.9 mm,192 g,Dual Sim,No,Primary Camera,Black
+APPLE,Iphone 15 Plus,89900,4.6,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 17,Hexa Core,128 GB,48MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,5000 mAh,77.8 mm,160.9 mm,201 g,Dual Sim(Nano + eSIM),No,Primary Camera,Blue
+APPLE,Iphone 15 Pro Max,159900,4.8,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 17,Hexa Core,256 GB,48MP + 12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,5000 mAh,76.7 mm,159.9 mm,221 g,Dual Sim(Nano + eSIM),No,Primary Camera,White Titanium
+MarQ,M70 Shakti,749,3.9,Dual Sim,No,No,2.4,iOS 17,Hexa Core,32 MB,0.3MP Rear Camera,,2G,v4.2,,No,Standard+ Micro,3000 mAh,76.7 mm,159.9 mm,221 g,Dual Sim,No,,Black
+APPLE,Iphone 15,79900,4.8,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 17,Hexa Core,128 GB,48MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,3000 mAh,71.6 mm,147.6 mm,171 g,Dual Sim(Nano + eSIM),No,Primary Camera,Blue
+OnePlus,Nord CE 3 Lite 5G,21499,4.4,Dual Sim,No,Yes,6.72,Android Android 13,Octa Core,256 GB,108MP Rear Camera,,5G,,,,Nano Sim + eSIM,5000 mAh,71.6 mm,147.6 mm,171 g,Dual Sim,No,Primary Camera,Pastel Lime
+SAMSUNG,Galaxy M14 5G,14890,4.2,Dual Sim,No,Yes,6.6,Android Android 13.0,Octa Core,128 GB,50MP Rear Camera,,5G,,,,Nano Sim + eSIM,6000 mAh,71.6 mm,147.6 mm,171 g,Dual Sim,No,,Icy Silver
+REDMI,A1+,6599,4.1,Dual Sim,No,Yes,6.52,Android 12 Go,Quad Core,32 GB,8MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.75 mm,164.9 mm,192 g,Dual Sim,No,Primary Camera,Light Blue
+MOTOROLA,e13,8999,3.9,Dual Sim,No,Yes,6.5,Android 13 (Go Edition),Octa Core,128 GB,13MP Rear Camera,5MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,74.95 mm,164.19 mm,179.5 g,Dual Sim,No,,Cosmic Black
+SAMSUNG,GURU MUSIC 2,2199,4.1,Dual Sim,No,No,2,,,0 GB,0MP,0MP Front Camera,2G,,,,Normal,800 mAh,46.4 mm,112.7 mm,74.98 g,Dual Sim,No,,Black
+SAMSUNG,Galaxy M14 5G,13839,4.2,Dual Sim,No,Yes,6.6,Android Android 13.0,Octa Core,128 GB,50MP Rear Camera,,"5G, 4G VOLTE",,Yes,,,6000 mAh,46.4 mm,112.7 mm,74.98 g,Dual Sim,No,Primary Camera,Smoky Teal
+realme,11 Pro 5G,27999,4.3,Dual Sim,Yes,Yes,6.7,Android 13,Octa Core,256 GB,100MP (OIS) + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,73.9 mm,161.6 mm,191 g,Dual Sim,Yes,Primary Camera,Oasis Green
+itel,A60S,6985,4.1,Dual Sim,No,Yes,6.6,Android Q 12,Octa Core,128 GB,8MP Rear Camera,,4G,,,,,5000 mAh,73.9 mm,161.6 mm,191 g,Dual Sim,No,Primary Camera,GLACIER GREEN
+SAMSUNG,Galaxy F23 5G,16999,4.3,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50MP + 8MP + 2MP,8MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,77 mm,165.5 mm,198 g,Dual Sim,No,Primary Camera,Forest Green
+OnePlus,Nord CE 3 Lite 5G,21249,4.4,Dual Sim,No,Yes,6.72,Android Android 13,Octa Core,256 GB,108MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,77 mm,165.5 mm,198 g,Dual Sim,No,Primary Camera,Chromatic Gray
+APPLE,iPhone 13,61499,4.7,Dual Sim,No,Yes,6.1,iOS 15,Hexa Core,256 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,5000 mAh,71.5 mm,146.7 mm,173 g,Dual Sim,No,Primary Camera,Green
+LAVA,A3 VIBE,1299,4.2,Dual Sim,No,No,1.77,,,32 MB,0.3MP Rear Camera,0.3MP Front Camera,2G,2,No,No,Full Size Sim,1750 mAh,4 mm,15 mm,109 g,Dual Sim,No,,DARK BLUE GREY
+REDMI,A2,7130,4.1,Dual Sim,No,Yes,6.52,Android Android 13,Octa Core,32 GB,8MP Rear Camera,,4G VOLTE,,,,Full Size Sim,5000 mAh,4 mm,15 mm,109 g,Dual Sim,No,Primary Camera,Sea Green
+REDMI,Note 12,14999,4.1,Dual Sim,No,Yes,6.67,Android 13,Octa Core,128 GB,50MP + 8MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 4G VOLTE",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.96 mm,165.66 mm,186 g,Dual Sim,No,Primary Camera,Sunrise Gold
+APPLE,iPhone 13,61499,4.7,Dual Sim,No,Yes,6.1,iOS 15,Hexa Core,256 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,3240 mAh,71.5 mm,146.7 mm,173 g,Dual Sim,No,Primary Camera,Midnight
+Kechaoda,K66 The Music House 4,1190,3.9,Dual Sim,Yes,No,1.44,0,,64 MB,1.3MP Rear Camera,,2G,,,,Nano + eSIM,400 mAh,71.5 mm,146.7 mm,173 g,Dual Sim,Yes,Primary Camera,Drak Blue
+MOTOROLA,Edge 40,29999,4.2,Dual Sim(Physical + eSIM),No,Yes,6.5,Android 13,Octa Core,256 GB,50MP + 13MP,32MP Front Camera,"5G, 4G, 3G, 2G",v5.2,Yes,Yes,,4400 mAh,71.99 mm,158.43 mm,171 g,Dual Sim(Physical + eSIM),No,Primary Camera,Viva Magenta
+OnePlus,11R 5G,39491,4.5,Dual Sim,No,Yes,6.7,Android Oxygen OxygenOS based on Android 13,Octa Core,128 GB,50MP Rear Camera,16MP Front Camera,5G,,,,,5000 mAh,71.99 mm,158.43 mm,171 g,Dual Sim,No,Primary Camera,Sonic Black
+REDMI,Note 12,12999,4.1,Dual Sim,No,Yes,6.67,Android 13,Octa Core,64 GB,50MP + 8MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 4G VOLTE",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.96 mm,165.66 mm,186 g,Dual Sim,No,Primary Camera,Ice Blue
+APPLE,iPhone 13,61499,4.7,Dual Sim,No,Yes,6.1,iOS 15,Hexa Core,256 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,3240 mAh,71.5 mm,146.7 mm,173 g,Dual Sim,No,Primary Camera,Pink
+APPLE,iPhone 12,48999,4.6,Dual Sim,No,Yes,6.1,iOS 14,,64 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,2815 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,White
+MOTOROLA,G32,11999,4.1,Dual Sim,No,Yes,6.5,Android 12,Octa Core,128 GB,50MP + 8MP + 2MP,16MP Front Camera,"4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,73.84 mm,161.78 mm,180 g,Dual Sim,No,Primary Camera,Rose Gold
+Micromax,X512,1079,3.9,Dual Sim,No,No,1.77,,,24 MB,0.3MP Rear Camera,,2G,,,,Nano Sim,1750 mAh,73.84 mm,161.78 mm,180 g,Dual Sim,No,,Black&Red
+MOTOROLA,g73 5G,18999,4,Dual Sim,Yes,Yes,6.5,Android 13,Octa Core,128 GB,50MP + 8MP,16MP Front Camera,"2G, 3G, 4G, 5G",v5.3,Yes,Yes,Nano Sim,5000 mAh,73.84 mm,161.42 mm,181 g,Dual Sim,Yes,Primary Camera,Midnight Blue
+OPPO,A17,11999,4.3,Dual Sim,No,Yes,6.56,Android 12,Octa Core,64 GB,50MP + 0.3MP + 0.3MP,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,75.6 mm,164.2 mm,189 g,Dual Sim,No,Primary Camera,Lake Blue
+REDMI,Note 12,12999,4.1,Dual Sim,No,Yes,6.67,Android 13,Octa Core,64 GB,50MP + 8MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 4G VOLTE",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.96 mm,165.66 mm,186 g,Dual Sim,No,Primary Camera,Lunar Black
+SAMSUNG,Galaxy F14 5G,14990,4.2,Dual Sim,No,Yes,6.6,Android 13,Octa Core,128 GB,50MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 5G",v5.2,Yes,Yes,Nano Sim,6000 mAh,77.2 mm,166.8 mm,205 g,Dual Sim,No,Primary Camera,GOAT Green
+Infinix,Zero 5G 2023,17999,4.1,Dual Sim,No,Yes,6.78,Android 12,Octa Core,128 GB,50MP + 2MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.53 mm,168.73 mm,199 g,Dual Sim,No,Primary Camera,Coral Orange
+REDMI,12c,9898,4.1,Dual Sim,No,Yes,6.71,"Android Q MIUI 13, Android 12.0",Octa Core,128 GB,50MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",,Yes,Yes,Nano Sim,5000 mAh,,,160 g,Dual Sim,No,Primary Camera,Royal Blue
+REDMI,12C,9717,4.1,Dual Sim,No,Yes,6.71,"Android MIUI 13, Android 12.0",Octa Core,128 GB,50MP Rear Camera,,4G VOLTE,,,,Nano Sim,5000 mAh,,,160 g,Dual Sim,No,Primary Camera,Mint Green
+OnePlus,11R 5G,44949,4.5,Dual Sim,No,Yes,6.7,Android OxygenOS based on Android 13,Octa Core,256 GB,50MP Rear Camera,16MP Front Camera,5G,,,,Nano Sim,5000 mAh,,,160 g,Dual Sim,No,Primary Camera,Galactic Silver
+MarQ,M80 Jalwa,999,3.9,Dual Sim,No,No,2.8,Android OxygenOS based on Android 13,Octa Core,32 MB,0.3MP Rear Camera,,2G,v4.2,,No,Standard+ Micro,1450 mAh,,,160 g,Dual Sim,No,,Sky Blue
+APPLE,Iphone 15,89900,4.8,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 17,Hexa Core,256 GB,48MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,1450 mAh,71.6 mm,147.6 mm,171 g,Dual Sim(Nano + eSIM),No,Primary Camera,Black
+REDMI,Note 12 5G,18999,4.1,Dual Sim,Yes,Yes,6.67,Android 12,Octa Core,128 GB,48MP + 8MP + 2MP,13MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Matte Black
+SAMSUNG,Galaxy M34 5G without charger,19000,4.3,Dual Sim,No,Yes,6.5,Android Android 13,Octa Core,128 GB,50MP Rear Camera,,5G,,,,Nano Sim,6000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,No,Primary Camera,Midnight Blue
+Nokia,110 TA-1302 DS,1745,4,Dual Sim,No,No,1.77,,,4 MB,1MP Rear Camera,,2G,,,No,Mini SIM,800 mAh,49.85 mm,115.15 mm,74.96 g,Dual Sim,No,,Pink
+REDMI,Note 12 5G,18999,4.1,Dual Sim,Yes,Yes,6.67,Android 12,Octa Core,128 GB,48MP + 8MP + 2MP,13MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Sunrise Gold
+POCO,M5,8499,4.1,Dual Sim,No,Yes,6.58,Android 12,Octa Core,64 GB,50MP + 2MP Depth Sensor + 2MP Macro Sensor,8MP Front Camera,"4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,76.09 mm,163.99 mm,201 g,Dual Sim,No,,Yellow
+Kechaoda,K115,1130,4.1,Dual Sim,No,No,1.44,Android 12,Octa Core,32 MB,0.3MP Rear Camera,,2G,,,,Micro SIM,850 mAh,76.09 mm,163.99 mm,201 g,Dual Sim,No,,Black
+realme,Narzo N53,11449,4.2,Dual Sim,No,Yes,6.74,Android Android 13.0,Octa Core,128 GB,50MP Rear Camera,,4G VOLTE,,,,Micro SIM,5000 mAh,76.09 mm,163.99 mm,201 g,Dual Sim,No,Primary Camera,Feather Gold
+SAMSUNG,Galaxy F23 5G,16999,4.3,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50MP + 8MP + 2MP,8MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,77 mm,165.5 mm,198 g,Dual Sim,No,Primary Camera,Copper Blush
+SAMSUNG,Galaxy F14 5G,13990,4.2,Dual Sim,No,Yes,6.6,Android 13,Octa Core,128 GB,50MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 5G",v5.2,Yes,Yes,Nano Sim,6000 mAh,77.2 mm,166.8 mm,205 g,Dual Sim,No,Primary Camera,OMG Black
+REDMI,12c,9799,4.1,Dual Sim,No,Yes,6.71,"Android Q MIUI 13, Android 12.0",Octa Core,128 GB,50MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",,Yes,Yes,Nano Sim,5000 mAh,,,160 g,Dual Sim,No,Primary Camera,Matte Black
+Infinix,Zero 5G 2023,24999,4.1,Dual Sim,No,Yes,6.78,Android 12,Octa Core,128 GB,50MP + 2MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.53 mm,168.73 mm,199 g,Dual Sim,No,Primary Camera,Submariner Black
+REDMI,Note 12 Pro 5G,26999,4.2,Dual Sim,No,Yes,6.67,Android 12,Octa Core,256 GB,50MP (OIS) + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,76.03 mm,162.9 mm,187 g,Dual Sim,No,Primary Camera,Glacier Blue
+realme,C55,13999,4.4,Dual Sim,No,Yes,6.72,Android 13,Octa Core,128 GB,64MP + 2MP,8MP Front Camera,"2G, 3G, 4G",v5.2,Yes,Yes,Nano Sim,5000 mAh,75.98 mm,165.65 mm,189.5 g,Dual Sim,No,Primary Camera,Rainforest
+realme,C55,13999,4.4,Dual Sim,No,Yes,6.72,Android 13,Octa Core,128 GB,64MP + 2MP,8MP Front Camera,"2G, 3G, 4G",v5.2,Yes,Yes,Nano Sim,5000 mAh,75.98 mm,165.65 mm,189.5 g,Dual Sim,No,Primary Camera,Sunshower
+APPLE,iPhone 14 Plus,73999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 16,Hexa Core,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,4323 mAh,78.1 mm,160.8 mm,203 g,Dual Sim(Nano + eSIM),No,Primary Camera,Starlight
+Micromax,S114,989,3.7,Dual Sim,No,No,1.77,,Single Core,64 MB,0.08MP Rear Camera,,2G,,,,,1000 mAh,78.1 mm,160.8 mm,203 g,Dual Sim,No,Primary Camera,Dark Blue
+Infinix,Zero 5G 2023,17999,4.1,Dual Sim,No,Yes,6.78,Android 12,Octa Core,128 GB,50MP + 2MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.53 mm,168.73 mm,199 g,Dual Sim,No,Primary Camera,Pearly White
+Infinix,Note 12,12999,4.2,Dual Sim,No,Yes,6.7,Android 11,Octa Core,128 GB,50MP + 2MP Depth + AI Lens,16MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.6 mm,164.43 mm,184.5 g,Dual Sim,No,,Force Black
+Kechaoda,K66 The Music House 4,1190,3.9,Dual Sim,Yes,No,1.8,0,,64 MB,1.3MP Rear Camera,,2G,,,,,400 mAh,76.6 mm,164.43 mm,184.5 g,Dual Sim,Yes,Primary Camera,Silver
+realme,C55,13999,4.4,Dual Sim,No,Yes,6.72,Android 13,Octa Core,128 GB,64MP + 2MP,8MP Front Camera,"2G, 3G, 4G",v5.2,Yes,Yes,Nano Sim,5000 mAh,75.98 mm,165.65 mm,189.5 g,Dual Sim,No,Primary Camera,Rainy Night
+Kechaoda,A26,975,4,Dual Sim,No,No,0.66,Android 13,Octa Core,32 MB,,,2G,,No,No,Micro,800 mAh,75.98 mm,165.65 mm,189.5 g,Dual Sim,No,,Black
+HOTLINE,H6700,649,3.2,Dual Sim,No,No,1.8,,,32 MB,0.3MP Rear Camera,,3G,4.2,,,,1000 mAh,75.98 mm,165.65 mm,189.5 g,Dual Sim,No,,Red
+Kechaoda,A26,970,4,Dual Sim,No,No,0.66,,,32 MB,0.3MP Rear Camera,,2G,,No,,Micro,800 mAh,75.98 mm,165.65 mm,189.5 g,Dual Sim,No,,Gold
+REDMI,Note 12,12999,4.1,Dual Sim,No,Yes,6.67,Android 13,Octa Core,64 GB,50MP + 8MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 4G VOLTE",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.96 mm,165.66 mm,186 g,Dual Sim,No,Primary Camera,Sunrise Gold
+APPLE,Iphone 15 Plus,89900,4.6,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 17,Hexa Core,128 GB,48MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,5000 mAh,77.8 mm,160.9 mm,201 g,Dual Sim(Nano + eSIM),No,Primary Camera,Pink
+SAMSUNG,Galaxy F13,10999,4.3,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,50MP + 5MP + 2MP,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,6000 mAh,76.9 mm,165.4 mm,207 g,Dual Sim,No,Primary Camera,Sunrise Copper
+POCO,M5,10499,4.2,Dual Sim,No,Yes,6.58,Android 12,Octa Core,128 GB,50MP + 2MP Depth Sensor + 2MP Macro Sensor,8MP Front Camera,"4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,76.09 mm,163.99 mm,201 g,Dual Sim,No,,Icy Blue
+realme,C55,10999,4.4,Dual Sim,No,Yes,6.72,Android 13,Octa Core,64 GB,64MP + 2MP,8MP Front Camera,"2G, 3G, 4G",v5.2,Yes,Yes,Nano Sim,5000 mAh,75.98 mm,165.65 mm,189.5 g,Dual Sim,No,Primary Camera,Rainy Night
+REDMI,Note 12 Pro 5G,26999,4.2,Dual Sim,No,Yes,6.67,Android 12,Octa Core,256 GB,50MP (OIS) + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,76.03 mm,162.9 mm,187 g,Dual Sim,No,Primary Camera,Stardust Purple
+Tecno,Spark Go 2023 6.56 HD+Display 13MP Dual Camera,7685,4,Dual Sim,No,Yes,6.56,Android Android12,Quad Core,64 GB,13MP Rear Camera,,4G VOLTE,,,,Nano Sim,5000 mAh,76.03 mm,162.9 mm,187 g,Dual Sim,No,Primary Camera,Orange
+realme,C55,10999,4.4,Dual Sim,No,Yes,6.72,Android 13,Octa Core,64 GB,64MP + 2MP,8MP Front Camera,"2G, 3G, 4G",v5.2,Yes,Yes,Nano Sim,5000 mAh,75.98 mm,165.65 mm,189.5 g,Dual Sim,No,Primary Camera,Rainforest
+SAMSUNG,Guru Music 2,2880,4.3,Dual Sim,No,No,2,,,,64MP + 2MP,8MP Front Camera,2G,,,,,800 mAh,,,74.98 g,Dual Sim,No,Primary Camera,Gold
+MOTOROLA,Edge 30 Fusion,42999,4.3,Dual Sim,No,Yes,6.55,Android 12,Octa Core,128 GB,50MP + 13MP + 2MP,32MP Front Camera,"5G, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,4400 mAh,71.99 mm,158.48 mm,175 g,Dual Sim,No,Primary Camera,Cosmic grey
+POCO,M4 5G,12999,4.2,Dual Sim,No,Yes,6.58,Android 12,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"5G, 4G, 3G, 2G",v5.1,Yes,Yes,Nano,5000 mAh,76.09 mm,163.99 mm,200 g,Dual Sim,No,Primary Camera,Yellow
+realme,C55,10999,4.4,Dual Sim,No,Yes,6.72,Android 13,Octa Core,64 GB,64MP + 2MP,8MP Front Camera,"2G, 3G, 4G",v5.2,Yes,Yes,Nano Sim,5000 mAh,75.98 mm,165.65 mm,189.5 g,Dual Sim,No,Primary Camera,Sunshower
+APPLE,iPhone 13,61499,4.7,Dual Sim,No,Yes,6.1,iOS 15,Hexa Core,256 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,5000 mAh,71.5 mm,146.7 mm,173 g,Dual Sim,No,Primary Camera,Blue
+Kechaoda,A27,975,4,Dual Sim,No,No,0.66,iOS 15,Hexa Core,32 MB,12MP + 12MP,12MP Front Camera,2G,,No,,Micro SIM,800 mAh,71.5 mm,146.7 mm,173 g,Dual Sim,No,Primary Camera,Black
+SAMSUNG,Galaxy M14 5G,13679,4.2,Dual Sim,No,Yes,6.6,Android Android 13.0,Octa Core,128 GB,50MP Rear Camera,,"5G, 4G VOLTE",,,,Micro SIM,6000 mAh,71.5 mm,146.7 mm,173 g,Dual Sim,No,Primary Camera,Berry Blue
+REDMI,Note 12 5G,16999,3.9,Dual Sim,Yes,Yes,6.67,Android 12,Octa Core,128 GB,48MP + 8MP + 2MP,13MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Mystique Blue
+realme,C55,11999,4.3,Dual Sim,No,Yes,6.72,Android 13,Octa Core,64 GB,64MP + 2MP,8MP Front Camera,"2G, 3G, 4G",v5.2,Yes,Yes,Nano Sim,5000 mAh,75.98 mm,165.65 mm,189.5 g,Dual Sim,No,Primary Camera,Rainforest
+POCO,X5 Pro 5G,21999,4.3,Dual Sim,No,Yes,6.67,Android 12,Octa Core,256 GB,108MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.03 mm,162.91 mm,181 g,Dual Sim,No,Primary Camera,Yellow
+Nokia,"2660 Flip 4G Volte Black keypad Mobile with Dual Sim & Screen, MP3 Player",4499,4.1,Dual Sim,No,No,2.8,,,0.125 GB,0.3MP Rear Camera,,"4G, 3G, 2G",v5.0,No,No,Nano Sim,1450 mAh,,,124.35 g,Dual Sim,No,,Black
+OnePlus,Nord 3 5G,37200,4.3,Dual Sim,No,Yes,6.74,Android Android 13 OxygenOS,Octa Core,256 GB,50MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,,,124.35 g,Dual Sim,No,Primary Camera,Misty Green
+Tecno,Spark Go 2023,7995,4.1,Dual Sim,No,Yes,6.56,Android Q Android 12,Single Core,64 GB,13MP Rear Camera,,4G VOLTE,,Yes,,Neno-SIM card,5000 mAh,,,220 g,Dual Sim,No,Primary Camera,Endless Black
+REDMI,Note 12 Pro+ 5G,29999,4.2,Dual Sim,No,Yes,6.67,Android 12,Octa Core,256 GB,200MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,4980 mAh,76.03 mm,162.9 mm,208 g,Dual Sim,No,Primary Camera,Arctic White
+REDMI,Note 12 5G,20999,4.1,Dual Sim,Yes,Yes,6.67,Android 12,Octa Core,256 GB,48MP + 8MP + 2MP,13MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Frosted Green
+KARBONN,Jumbo K9,1288,4,Dual Sim,,,2.6,,,,1.3MP Rear Camera,,,,No,No,Mini SIM,1800 mAh,50 mm,115 mm,112 g,Dual Sim,,,Black and Red
+APPLE,Iphone 15 Pro,134900,4.7,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 17,Hexa Core,128 GB,48MP + 12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,1800 mAh,70.6 mm,146.6 mm,187 g,Dual Sim(Nano + eSIM),No,Primary Camera,Natural Titanium
+OnePlus,10R,27965,4.3,Dual Sim,No,Yes,6.7,Android 12,Octa Core,128 GB,50MP Rear Camera,16MP Front Camera,5G,,,,Nano Sim + eSIM,5000 mAh,70.6 mm,146.6 mm,187 g,Dual Sim,No,Primary Camera,Forest Green
+POCO,X5 5G,16999,4.9,Dual Sim,Yes,Yes,6.67,Android 12,Octa Core,256 GB,48MP + 8MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 4G VOLTE, 5G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Supernova Green
+realme,10,13999,4.3,Dual Sim,No,Yes,6.4,Android 12,Octa Core,128 GB,50MP + 2MP,16MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.3,,Yes,Nano Sim,5000 mAh,73.3 mm,159.9 mm,178 g,Dual Sim,No,Primary Camera,Clash White
+REDMI,11 Prime,10999,4.3,Dual Sim,No,Yes,6.58,Android 12,Octa Core,128 GB,50MP + 2MP + 2MP,8MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,76.09 mm,163.99 mm,201 g,Dual Sim,No,Primary Camera,Flashy Black
+itel,It2175 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,1149,4,Dual Sim,No,No,1.8,,,4 MB,0.3MP Rear Camera,,2G,,,,Mini Sim,1200 mAh,51 mm,118.9 mm,80.4 g,Dual Sim,No,,Deep Blue
+realme,10,13999,4.3,Dual Sim,No,Yes,6.4,Android 12,Octa Core,128 GB,50MP + 2MP,16MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.3,,Yes,Nano Sim,5000 mAh,73.3 mm,159.9 mm,178 g,Dual Sim,No,Primary Camera,Rush Black
+Infinix,NOTE 12i,10999,4.2,Dual Sim,No,Yes,6.7,Android 12,Octa Core,64 GB,50 MP + 2 MP + QVGA,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.6 mm,164.43 mm,188 g,Dual Sim,No,Primary Camera,Force Black
+Infinix,HOT 20 Play,8999,4.4,Dual Sim,No,Yes,6.82,Android 12,Octa Core,64 GB,13Mp + AI Lens,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,6000 mAh,78 mm,171 mm,210 g,Dual Sim,No,,Luna Blue
+Infinix,HOT 20 Play,8999,4.4,Dual Sim,No,Yes,6.82,Android 12,Octa Core,64 GB,13Mp + AI Lens,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,6000 mAh,78 mm,171 mm,210 g,Dual Sim,No,,Fantasy Purple
+KARBONN,K9,1293,4.1,Dual Sim,,No,2.6,Belle,Single Core,,2MP Rear Camera,,,,No,No,,1800 mAh,78 mm,171 mm,210 g,Dual Sim,,,Black And Red
+Infinix,HOT 20 Play,8999,4.4,Dual Sim,No,Yes,6.82,Android 12,Octa Core,64 GB,13Mp + AI Lens,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,6000 mAh,78 mm,171 mm,210 g,Dual Sim,No,,Aurora Green
+Micromax,X413,959,4,Dual Sim,No,No,1.77,,Single Core,32 MB,0.3MP Rear Camera,,2G,,,,Nano Sim,800 mAh,78 mm,171 mm,210 g,Dual Sim,No,,Black
+APPLE,iPhone 14,64999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 16,Hexa Core,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,3279 mAh,71.5 mm,146.7 mm,172 g,Dual Sim(Nano + eSIM),No,Primary Camera,Yellow
+Micromax,X818,1515,3.9,Dual Sim,No,No,2.8,,Single Core,32 MB,0.3MP Rear Camera,,2G,,,,Nano Sim + eSIM,1450 mAh,71.5 mm,146.7 mm,172 g,Dual Sim,No,Primary Camera,Blue
+OPPO,Reno10 Pro 5G,39999,4.3,Dual Sim,No,Yes,6.7,Android 13,Octa Core,256 GB,50MP + 32MP + 8MP,32MP Front Camera,"5G, 4G, 3G, 2G",,Yes,Yes,Nano Sim,4600 mAh,,,185 g,Dual Sim,No,Primary Camera,Silvery Grey
+SAMSUNG,Galaxy F34 5G,24499,4.2,Dual Sim,Yes,Yes,6.5,Android 13,Octa Core,128 GB,50MP (OIS) + 8MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 5G",v5.3,Yes,Yes,Nano Sim,6000 mAh,77.2 mm,161.7 mm,208 g,Dual Sim,Yes,Primary Camera,Electric Black
+Kechaoda,A27,999,4,Dual Sim,No,No,0.66,Android 13,Octa Core,32 MB,50MP (OIS) + 8MP + 2MP,13MP Front Camera,2G,,No,,Micro SIM,800 mAh,77.2 mm,161.7 mm,208 g,Dual Sim,No,Primary Camera,Grey
+Infinix,HOT 20 Play,8999,4.4,Dual Sim,No,Yes,6.82,Android 12,Octa Core,64 GB,13Mp + AI Lens,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,6000 mAh,78 mm,171 mm,210 g,Dual Sim,No,,Racing Black
+KARBONN,K9,1375,4.1,Dual Sim,,,2.4,Android 12,Octa Core,,13Mp + AI Lens,8MP Front Camera,,,,,Nano Sim,1800 mAh,78 mm,171 mm,210 g,Dual Sim,,,Black
+Infinix,Note 12,12999,4.2,Dual Sim,No,Yes,6.7,Android 11,Octa Core,128 GB,50MP + 2MP Depth + AI Lens,16MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.6 mm,164.43 mm,184.5 g,Dual Sim,No,,Jewel Blue
+OPPO,A58,14999,4.4,Dual Sim,No,Yes,6.72,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,75.98 mm,165.65 mm,192 g,Dual Sim,No,Primary Camera,Dazzling Green
+Micromax,X818,1575,3.9,Dual Sim,No,No,2.8,,Single Core,32 MB,0.3MP Rear Camera,,2G,,,,Nano Sim,1450 mAh,75.98 mm,165.65 mm,192 g,Dual Sim,No,Primary Camera,Maroon
+REDMI,Note 12 5G,18999,4.1,Dual Sim,Yes,Yes,6.67,Android 12,Octa Core,128 GB,48MP + 8MP + 2MP,13MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Mystique Blue
+itel,Power 110 Neo| 2500 mAh battery| Expandable Storage Upto 32GB,1299,4.1,Dual Sim,No,No,1.8,,,32 MB,0.3MP Rear Camera,,2G,,,,Nano Sim,2500 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,No,,Black
+POCO,C51,8499,4,Dual Sim,No,Yes,6.52,Android 13 Go,Octa Core,128 GB,8MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.75 mm,164.9 mm,192 g,Dual Sim,No,Primary Camera,Royal Blue
+APPLE,iPhone 14 Pro Max,127999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 16,Hexa Core,128 GB,48MP + 12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,4323 mAh,77.6 mm,160.7 mm,240 g,Dual Sim(Nano + eSIM),No,Primary Camera,Deep Purple
+itel,Magic X Pro 4G| 2500mAh Big Battery| Expandable Storage upto 64GB,2287,3.9,Dual Sim,No,No,2.4,RTOS,,128 MB,0.3MP Rear Camera,,4G,,Yes,,,2500 mAh,77.6 mm,160.7 mm,240 g,Dual Sim,No,Primary Camera,Black
+OPPO,A58,14999,4.4,Dual Sim,No,Yes,6.72,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,75.98 mm,165.65 mm,192 g,Dual Sim,No,Primary Camera,Glowing Black
+realme,10 Pro+ 5G,22999,4.4,Dual Sim,No,Yes,6.7,Android 13,Octa Core,128 GB,108MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,,Yes,Nano Sim,5000 mAh,73.9 mm,161.5 mm,174.5 g,Dual Sim,No,Primary Camera,Hyperspace
+I,K3310,744,3.6,Dual Sim,No,No,1.77,,,32 MB,0.3MP Rear Camera,,2G,,,,,1000 mAh,,,200 g,Dual Sim,No,,Sky Blue
+realme,Narzo N55,12579,4.3,Dual Sim,No,Yes,6.72,Android 13,Octa Core,128 GB,64MP Rear Camera,,4G VOLTE,,,,,5000 mAh,,,200 g,Dual Sim,No,Primary Camera,Prime Blue
+REDMI,Note 12 5G,18999,4.1,Dual Sim,Yes,Yes,6.67,Android 12,Octa Core,128 GB,48MP + 8MP + 2MP,13MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Frosted Green
+OnePlus,10R,27900,4.3,Dual Sim,No,Yes,6.7,Android 12,Octa Core,128 GB,50MP Rear Camera,16MP Front Camera,5G,,,,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,No,,Sierra Black
+Kechaoda,K66 The Music House 4,1179,3.9,Dual Sim,Yes,No,1.8,0,,64 MB,1.3MP Rear Camera,,2G,,,,,400 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Rose Pink
+GFive,V8,699,3.7,Dual Sim,No,No,1.8,0,,32 MB,0.3MP Rear Camera,,2G,,,,NORMAL,1000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,No,,BLACK + GOLD
+Nokia,106,1539,4.2,Single Sim,No,No,6.7,,,32 MB,,,2G,,No,No,Mini Sim,1000 mAh,,,79.7 g,Single Sim,No,,Emerald Green
+APPLE,iPhone 12,48999,4.6,Dual Sim,No,Yes,6.1,iOS 14,,64 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,2815 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,Black
+OPPO,F21s Pro,17397,4.2,Dual Sim,No,Yes,6.43,Android 12,Octa Core,128 GB,64MP + 2MP + 2MP,32MP Front Camera,"2G, 3G, 4G",v5.1,Yes,Yes,Nano Sim,4500 mAh,73.2 mm,159.9 mm,182 g,Dual Sim,No,Primary Camera,Dawnlight Gold
+DIZO,Star 300,1282,3.9,Dual Sim,No,No,1.77,,,32 MB,0.3MP Rear Camera,,2G,,,,Micro SIM + Micro SIM,2550 mAh,52 mm,119.5 mm,105 g,Dual Sim,No,,Black
+GFive,U707,725,3.5,Dual Sim,No,No,1.8,,,32 MB,0.3MP Rear Camera,,3G,,No,,Normal SIM,1000 mAh,52 mm,119.5 mm,105 g,Dual Sim,No,,Black Red
+GFive,U707,725,3.5,Dual Sim,No,No,1.8,,,64 MB,0.3MP Rear Camera,,2G,,No,,Normal SIM,950 mAh,52 mm,119.5 mm,105 g,Dual Sim,No,,Blue & Red
+APPLE,iPhone 12,48999,4.6,Dual Sim,No,Yes,6.1,iOS 14,,64 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,950 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,Green
+LAVA,A1 2021,1195,4,Dual Sim,No,No,1.77,,,24 MB,0.3MP Rear Camera,0.3MP Front Camera,2G,v3.0,No,Yes,Macro Sim,800 mAh,48 mm,112 mm,120 g,Dual Sim,No,,White
+SAMSUNG,GALAXY M13 5G,12080,4.2,Dual Sim,No,Yes,6.5,Android Q 12,Octa Core,64 GB,50MP Rear Camera,,5G,,,,Macro Sim,5000 mAh,48 mm,112 mm,120 g,Dual Sim,No,Primary Camera,Midnight Blue
+MOTOROLA,G62 5G,16999,4.1,Dual Sim,Yes,Yes,16.51,Android 12,Octa Core,128 GB,50MP + 8MP + 2MP,16MP Front Camera,"5G, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,73.96 mm,161.83 mm,184 g,Dual Sim,Yes,Primary Camera,Midnight Gray
+REDMI,10,10510,4.3,Dual Sim,No,Yes,6.7,Android 11,Octa Core,64 GB,50MP + 2MP,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,6000 mAh,76.56 mm,169.59 mm,203 g,Dual Sim,No,Primary Camera,Pacific Blue
+Nokia,106,1349,4.2,Single Sim,No,No,6.7,,,32 MB,,,2G,,No,No,Mini Sim,1000 mAh,,,79.7 g,Single Sim,No,,Terracotta Red
+MOTOROLA,Edge 30 Fusion,42999,4.3,Dual Sim,No,Yes,6.55,Android 12,Octa Core,128 GB,50MP + 13MP + 2MP,32MP Front Camera,"5G, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,4400 mAh,71.99 mm,158.48 mm,175 g,Dual Sim,No,Primary Camera,Viva Magenta
+SAMSUNG,Galaxy A14 5G,17999,4.1,Dual Sim,Yes,Yes,6.6,Android 13,Octa Core,128 GB,50MP + 2MP,13MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,78 mm,167.7 mm,202 g,Dual Sim,Yes,Primary Camera,Black
+Infinix,GT10 Pro,20999,4.2,Dual Sim,No,Yes,6.67,Android 13,Octa Core,256 GB,108MP + 2MP + 2MP,32MP Front Camera,"5G, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,75.89 mm,162.66 mm,,Dual Sim,No,Primary Camera,Cyber Black
+REDMI,A2+,7995,4,Dual Sim,No,Yes,6.52,Android Android 13,Octa Core,64 GB,8MP Rear Camera,,4G VOLTE,,,,Nano Sim,5000 mAh,75.89 mm,162.66 mm,,Dual Sim,No,Primary Camera,Classic Black
+realme,10 Pro+ 5G,21999,4.4,Dual Sim,No,Yes,6.7,Android 13,Octa Core,128 GB,108MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,,Yes,Nano Sim,5000 mAh,73.9 mm,161.5 mm,172.5 g,Dual Sim,No,Primary Camera,Nebula Blue
+LAVA,A1 2021,1129,4,Dual Sim,No,No,1.77,,,24 MB,0.3MP Rear Camera,,2G,,No,No,Micro,800 mAh,48 mm,112.2 mm,70 g,Dual Sim,No,,"Blue, Silver"
+Infinix,GT10 Pro,20999,4.2,Dual Sim,No,Yes,6.67,Android 13,Octa Core,256 GB,108MP + 2MP + 2MP,32MP Front Camera,"5G, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,75.89 mm,162.66 mm,,Dual Sim,No,Primary Camera,Mirage Silver
+realme,10 Pro+ 5G,21999,4.4,Dual Sim,No,Yes,6.7,Android 13,Octa Core,128 GB,108MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,,Yes,Nano Sim,5000 mAh,73.9 mm,161.5 mm,174.5 g,Dual Sim,No,Primary Camera,Hyperspace
+OnePlus,10R,27964,4.3,Dual Sim,No,Yes,6.7,Android 12,Octa Core,128 GB,50MP Rear Camera,16MP Front Camera,5G,,,,Nano Sim,5000 mAh,73.9 mm,161.5 mm,174.5 g,Dual Sim,No,Primary Camera,Forest Green
+realme,Narzo N55,10585,4.2,Dual Sim,No,Yes,6.72,Android 13,Octa Core,64 GB,64MP Rear Camera,,4G VOLTE,,,,Nano Sim,5000 mAh,73.9 mm,161.5 mm,174.5 g,Dual Sim,No,Primary Camera,Prime Blue
+APPLE,iPhone 12,48999,4.6,Dual Sim,No,Yes,6.1,iOS 14,,64 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,5000 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,Red
+Kechaoda,K28,1255,4,Dual Sim,No,No,2.4,,,64 MB,0.3MP Rear Camera,,2G,,No,,,1700 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,,Black
+REDMI,A1,6349,4.2,Dual Sim,No,Yes,6.52,Android,,32 GB,5MP Rear Camera,,4G,,,,,5000 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,Light Blue
+APPLE,iPhone 14 Plus,83999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 16,Hexa Core,256 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,5000 mAh,78.1 mm,160.8 mm,203 g,Dual Sim(Nano + eSIM),No,Primary Camera,Blue
+LAVA,YUVA 2 PRO,8149,4.1,Dual Sim,No,Yes,6.5,Android 12,Octa Core,64 GB,13MP + 13MP,5MP + 5MP Dual Front Camera,4G VOLTE,V5.1,Yes,Yes,Nano + Nano,5000 mAh,,,204 g,Dual Sim,No,Primary Camera,GLASS LAVENDER
+Kechaoda,K28,1275,4,Dual Sim,No,No,2.4,,,64 MB,0.3MP Rear Camera,,2G,,No,,,1700 mAh,,,204 g,Dual Sim,No,,Coffee
+OnePlus,11 5G,59390,4.5,Dual Sim,No,Yes,6.7,Android OxygenOS based on Android 13,Octa Core,256 GB,50MP Rear Camera,,5G,,,,,5000 mAh,,,204 g,Dual Sim,No,Primary Camera,Eternal Green
+Kechaoda,K28,1250,4,Dual Sim,No,No,2.4,0,,64 MB,0.3MP Rear Camera,,2G,,,,Normal,1700 mAh,,,204 g,Dual Sim,No,,Pink
+OnePlus,11 5G,59840,4.3,Dual Sim,No,Yes,6.7,Android OxygenOS based on Android 13,Octa Core,256 GB,50MP Rear Camera,16MP Front Camera,5G,,,,Normal,5000 mAh,,,204 g,Dual Sim,No,Primary Camera,Titan Black
+Tecno,Spark Go 2023,7199,4.1,Dual Sim,No,Yes,6.56,Android Android 12,Single Core,64 GB,13MP Rear Camera,,4G VOLTE,,,,Neno-SIM card,5000 mAh,,,204 g,Dual Sim,No,Primary Camera,UYUNI BLUE
+Nokia,130 M DS 2023,1999,4.3,Dual Sim,No,No,2.4,Series 30+,,4 MB,13MP Rear Camera,,2G,,,,Neno-SIM card,1450 mAh,,,204 g,Dual Sim,No,Primary Camera,Purple
+Snexian,GURU 312,663,3.3,Dual Sim,No,No,1.8,0,,32 MB,0.3MP Rear Camera,,2G,,No,,,800 mAh,,,204 g,Dual Sim,No,,Rose Pink
+SAMSUNG,Galaxy M14 5G,15282,4.2,Dual Sim,No,Yes,6.6,Android Android 13.0,Octa Core,128 GB,50MP Rear Camera,,5G,,,,,6000 mAh,,,204 g,Dual Sim,No,,Icy Silver
+REDMI,A1+,6599,4.1,Dual Sim,No,Yes,6.52,Android 12 Go,Quad Core,32 GB,8MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.75 mm,164.9 mm,192 g,Dual Sim,No,Primary Camera,Light Green
+Nokia,C32,8799,3.7,Dual Sim,No,Yes,6.517,Android 13,Octa Core,64 GB,50MP Rear Camera,8MP Front Camera,"4G, 3G, 2G",,Yes,Yes,Nano Sim,5000 mAh,75.89 mm,164.6 mm,,Dual Sim,No,Primary Camera,Breezy Mint
+realme,Narzo 60 5G,20200,4.3,Dual Sim,No,Yes,6.43,Android Android 13,Octa Core,256 GB,64MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,75.89 mm,164.6 mm,,Dual Sim,No,Primary Camera,Mars Orange
+realme,Narzo 60 5G,18146,4.3,Dual Sim,No,Yes,6.43,Android Android 13,Octa Core,128 GB,64MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,75.89 mm,164.6 mm,,Dual Sim,No,Primary Camera,?Cosmic Black
+vivo,Y27,14999,4.2,Dual Sim,No,Yes,6.64,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"2G, 3G, 4G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.17 mm,164.06 mm,190 g,Dual Sim,No,Primary Camera,Burgundy Black
+APPLE,Iphone 15 Pro,144900,4.7,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 17,Hexa Core,256 GB,48MP + 12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,5000 mAh,70.6 mm,146.6 mm,187 g,Dual Sim(Nano + eSIM),No,Primary Camera,Black Titanium
+Snexian,GURU 310,675,3.3,Dual Sim,No,No,1.8,iOS 17,Hexa Core,32 MB,1.3MP Rear Camera,,2G,,,,Normal,1000 mAh,70.6 mm,146.6 mm,187 g,Dual Sim,No,,Pink
+Nokia,"6310 Dual SIM Feature Mobile, Wireless FM Radio and Rear Camera",3499,3.9,Dual Sim,No,No,2.8,,,16 MB,0.3MP Rear Camera,,2G,v5.0,,,Standard,1150 mAh,56 mm,135.5 mm,,Dual Sim,No,,Green
+REDMI,Note 12 Pro 5G,28999,4,Dual Sim,No,Yes,6.67,Android 12,Octa Core,256 GB,50MP (OIS) + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,76.03 mm,162.9 mm,187 g,Dual Sim,No,Primary Camera,Stardust Purple
+OPPO,A38,12999,4.6,Dual Sim,Yes,Yes,6.56,Android 13,Octa Core,128 GB,50MP + 2MP,5MP Front Camera,"2G, 3G, 4G",v5.3,Yes,Yes,Nano Sim,5000 mAh,75.03 mm,163.74 mm,190 g,Dual Sim,Yes,Primary Camera,Glowing Gold
+Micromax,X379+,968,3.4,Dual Sim,No,No,1.77,,,32 MB,0.3MP Rear Camera,,2G,,,,,1000 mAh,75.03 mm,163.74 mm,190 g,Dual Sim,No,,Black+Grey
+Good,Magic,1450,4,Dual Sim,No,No,1.7,,,32 MB,2MP Rear Camera,,2G,,,Yes,MICRO,1050 mAh,45 mm,105 mm,,Dual Sim,No,,Black
+Nokia,C32,8799,3.7,Dual Sim,No,Yes,6.517,Android 13,Octa Core,64 GB,50MP Rear Camera,8MP Front Camera,"4G, 3G, 2G",,Yes,Yes,Nano Sim,5000 mAh,75.89 mm,164.6 mm,,Dual Sim,No,Primary Camera,Charcoal
+KARBONN,KX 29,1538,3.8,Dual Sim,No,No,2.4,Android 13,Octa Core,32 MB,0.3MP Rear Camera,,2G,,,,,3000 mAh,75.89 mm,164.6 mm,,Dual Sim,No,,Black + Grey
+APPLE,Iphone 15,79900,4.8,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 17,Hexa Core,128 GB,48MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,3000 mAh,71.6 mm,147.6 mm,171 g,Dual Sim(Nano + eSIM),No,Primary Camera,Black
+KARBONN,K9 Yuva,1295,3.9,Dual Sim,No,No,1.8,Belle,Single Core,0.32 MB,2MP Rear Camera,,2G,,No,No,,2502 mAh,71.6 mm,147.6 mm,171 g,Dual Sim,No,,White Champagne
+REDMI,Note 12 5G,20999,4.1,Dual Sim,Yes,Yes,6.67,Android 12,Octa Core,256 GB,48MP + 8MP + 2MP,13MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Sunrise Gold
+Good,Magic,1450,4,Dual Sim,No,No,1.7,,,32 MB,2MP Rear Camera,,2G,,,,,1050 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,No,,Blue
+Good,Magic,1499,4,Dual Sim,No,No,1.7,,,32 MB,2MP Rear Camera,,2G,,,,,1050 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,No,,Red
+realme,Narzo 60 5G,18187,4.3,Dual Sim,No,Yes,6.43,Android Android 13,Octa Core,128 GB,64MP Rear Camera,,5G,,,,,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,No,Primary Camera,Mars Orange
+Snexian,GURU 312,630,3.3,Dual Sim,No,No,1.8,0,,32 MB,0.3MP Rear Camera,,2G,,No,,,800 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,No,,White
+REDMI,A1,6280,4.2,Dual Sim,No,Yes,6.52,Android,,32 GB,5MP Rear Camera,,4G,,,,,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,No,Primary Camera,Light Green
+Tecno,Camon 20,15491,4.3,Dual Sim,No,Yes,6.67,Android Android13,Octa Core,256 GB,64MP Rear Camera,,4G VOLTE,,,,,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,No,Primary Camera,Glacier Glow
+KARBONN,K9 Yuva,1249,3.9,Dual Sim,No,No,1.8,Belle,Single Core,0.32 MB,2MP Rear Camera,,2G,,No,No,,2502 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,No,,coffee champagne
+REDMI,Note 12 Pro 5G,26999,4.2,Dual Sim,No,Yes,6.67,Android 12,Octa Core,256 GB,50MP (OIS) + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,76.03 mm,162.9 mm,187 g,Dual Sim,No,Primary Camera,Onyx Black
+GFive,U220i,699,3.2,Dual Sim,No,No,1.8,,,32 MB,0.3MP Rear Camera,,3G,,No,,Normal SIM,1000 mAh,76.03 mm,162.9 mm,187 g,Dual Sim,No,,Black & Red
+realme,10 Pro+ 5G,22999,4.4,Dual Sim,No,Yes,6.7,Android 13,Octa Core,128 GB,108MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,,Yes,Nano Sim,5000 mAh,73.9 mm,161.5 mm,172.5 g,Dual Sim,No,Primary Camera,Nebula Blue
+realme,10 Pro+ 5G,22999,4.4,Dual Sim,No,Yes,6.7,Android 13,Octa Core,128 GB,108MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,,Yes,Nano Sim,5000 mAh,73.9 mm,161.5 mm,172.5 g,Dual Sim,No,Primary Camera,Dark Matter
+realme,10 Pro+ 5G,24999,4.4,Dual Sim,No,Yes,6.7,Android 13,Octa Core,256 GB,108MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,,Yes,Nano Sim,5000 mAh,73.9 mm,161.5 mm,172.5 g,Dual Sim,No,Primary Camera,Dark Matter
+Micromax,S115,940,3.7,Dual Sim,No,No,1.77,,Single Core,32 MB,108MP + 8MP + 2MP,16MP Front Camera,2G,,,,Nano Sim,800 mAh,73.9 mm,161.5 mm,172.5 g,Dual Sim,No,Primary Camera,Purple
+realme,10 Pro+ 5G,24999,4.4,Dual Sim,No,Yes,6.7,Android 13,Octa Core,256 GB,108MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,,Yes,Nano Sim,5000 mAh,73.9 mm,161.5 mm,172.5 g,Dual Sim,No,Primary Camera,Nebula Blue
+REDMI,Note 12 5G,16999,3.9,Dual Sim,Yes,Yes,6.67,Android 12,Octa Core,128 GB,48MP + 8MP + 2MP,13MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Matte Black
+POCO,F5 5G,26999,4.3,Dual Sim,No,Yes,6.67,Android 13,Octa Core,256 GB,64MP (OIS) + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,74.95 mm,161.11 mm,181 g,Dual Sim,No,Primary Camera,Electric Blue
+I,"King Talking, Contact icon and Auto Call Recording",774,3.6,Dual Sim,No,No,1.8,Symbian,,32 MB,0.3MP Rear Camera,,2G,,,,Normal,1500 mAh,,,0.2 g,Dual Sim,No,,Black green
+Micromax,X379+,989,3.4,Dual Sim,No,No,1.77,,,32 MB,0.3MP Rear Camera,,2G,,,,,1000 mAh,,,0.2 g,Dual Sim,No,,Blue
+realme,10 Pro+ 5G,24999,4.4,Dual Sim,No,Yes,6.7,Android 13,Octa Core,256 GB,108MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,,Yes,Nano Sim,5000 mAh,73.9 mm,161.5 mm,174.5 g,Dual Sim,No,Primary Camera,Hyperspace
+SAMSUNG,Galaxy S23 5G,79999,4.6,Dual Sim,Yes,Yes,6.1,Android 13,Octa Core,256 GB,50MP + 10MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,3900 mAh,70.9 mm,146.3 mm,168 g,Dual Sim,Yes,Primary Camera,Cream
+itel,Power 200|2500 mAh battery|Expandable Storage upto 32GB,1399,4,Dual Sim,No,No,1.8,1,,32 MB,0.3MP Rear Camera,,2G,,,,,2500 mAh,70.9 mm,146.3 mm,168 g,Dual Sim,No,,Black
+realme,Narzo N55,12469,4.3,Dual Sim,No,Yes,6.72,Android 13,Octa Core,128 GB,64MP Rear Camera,,4G VOLTE,,,,,5000 mAh,70.9 mm,146.3 mm,168 g,Dual Sim,No,Primary Camera,Prime Black
+I,"King Talking, Contact icon and Auto Call Recording",774,3.6,Dual Sim,No,No,1.8,Symbian,,64 MB,0.3MP Rear Camera,,2G,,,,Normal,1500 mAh,,,0.2 g,Dual Sim,No,,Black+Blue
+itel,Power 200|2500 mAh battery|Expandable Storage upto 32GB,1349,4,Dual Sim,No,No,1.8,1,,32 MB,0.3MP Rear Camera,,2G,,,,,2500 mAh,,,0.2 g,Dual Sim,No,,Blue
+realme,C30s,6999,4.4,Dual Sim,No,Yes,6.5,Android 12,Octa Core,32 GB,8MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v4.2,,Yes,Nano Sim,5000 mAh,75.7 mm,164.2 mm,186 g,Dual Sim,No,,Stripe Black
+APPLE,iPhone 14,64999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 16,Hexa Core,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,3279 mAh,71.5 mm,146.7 mm,172 g,Dual Sim(Nano + eSIM),No,Primary Camera,(PRODUCT)RED
+Micromax,X412,919,3.9,Dual Sim,No,No,1.77,,,32 MB,12MP + 12MP,12MP Front Camera,2G,,,,Nano Sim + eSIM,800 mAh,71.5 mm,146.7 mm,172 g,Dual Sim,No,Primary Camera,Black&Red
+Nokia,"110 Dual sim Keypad Phone with FM Radio, Auto Call Recording",2185,4.1,Dual Sim,No,No,1.77,,,4 MB,0.08MP Rear Camera,,2G,,No,No,Mini Sim,800 mAh,,,73 g,Dual Sim,No,,Rose Gold
+Micromax,X412,997,3.9,Dual Sim,No,No,1.77,,,32 MB,0.08MP Rear Camera,,2G,,,,Mini Sim,800 mAh,,,73 g,Dual Sim,No,,Blue
+vivo,Y27,14999,4.2,Dual Sim,No,Yes,6.64,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"2G, 3G, 4G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.17 mm,164.06 mm,190 g,Dual Sim,No,Primary Camera,Garden Green
+Tecno,Spark Go 2023,6689,4.1,Dual Sim,No,Yes,6.56,Android 12,,32 GB,13MP Rear Camera,,4G VOLTE,,,,Neno-SIM card,5000 mAh,,,220 g,Dual Sim,No,Primary Camera,UYUNI BLUE
+DIZO,Star 500,1750,3.9,Dual Sim,No,No,2.8,,,32 MB,0.3MP Rear Camera,,2G,v2.1,,,Micro SIM + Micro SIM,1900 mAh,55.4 mm,132.5 mm,108 g,Dual Sim,No,,Green
+vivo,V23 Pro 5G,29390,4.3,Dual Sim,No,Yes,6.56,Android 12,Octa Core,128 GB,108MP + 8MP + 2MP,50MP + 8MP Dual Front Camera,"5G, 4G, 3G, 2G",v5.2,Yes,Yes,Nano SIM,4300 mAh,73.27 mm,159.46 mm,171 g,Dual Sim,No,Primary & Secondary Camera,Sunshine Gold
+SAMSUNG,Galaxy F13,11999,4.3,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50MP + 5MP + 2MP,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,6000 mAh,76.9 mm,165.4 mm,207 g,Dual Sim,No,Primary Camera,Nightsky Green
+OnePlus,10R,27964,4.3,Dual Sim,No,Yes,6.7,Android 12,Octa Core,128 GB,50MP Rear Camera,16MP Front Camera,5G,,,,Nano Sim,5000 mAh,76.9 mm,165.4 mm,207 g,Dual Sim,No,Primary Camera,Forest Green
+itel,it2163s,999,4.1,Dual Sim,No,No,1.8,,Single Core,4 MB,0.3MP Rear Camera,,2G,,,,,1200 mAh,76.9 mm,165.4 mm,207 g,Dual Sim,No,,Dark Green
+LAVA,A7 Torch,1498,3.8,Dual Sim,No,No,2.4,,,32 MB,0.3MP Rear Camera,0MP Front Camera,2G,3.2,,,Regular Sim,2575 mAh,53 mm,124 mm,190 g,Dual Sim,No,,Blue
+Micromax,S115,853,3.7,Dual Sim,No,No,1.77,,Single Core,32 MB,0.3MP Rear Camera,0MP Front Camera,2G,,,,Regular Sim,1000 mAh,53 mm,124 mm,190 g,Dual Sim,No,,Red+Black
+POCO,F5 5G,26999,4.3,Dual Sim,No,Yes,6.67,Android 13,Octa Core,256 GB,64MP (OIS) + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,74.95 mm,161.11 mm,181 g,Dual Sim,No,Primary Camera,Carbon Black
+SAMSUNG,GALAXY M13,13000,4.2,Dual Sim,No,Yes,6.6,Android Q 12,Octa Core,128 GB,50MP Rear Camera,,4G VOLTE,,,,Nano Sim,6000 mAh,74.95 mm,161.11 mm,181 g,Dual Sim,No,Primary Camera,Midnight Blue
+SAMSUNG,GT-E1215ZKAINS,1150,4.3,Single Sim,No,No,1.5,,,,,,2G,,No,No,Mini SIM,800 mAh,45.5 mm,109.5 mm,65.1 g,Single Sim,No,,Black
+Nokia,110 4G,2299,3.8,Dual Sim,No,No,6.7,,,32 MB,0.08MP Rear Camera,,"4G, 3G, 2G",,No,No,Nano Sim,1450 mAh,,,94.5 g,Dual Sim,No,,Arctic Purple
+MOTOROLA,Edge 30,26999,4.1,Dual Sim,No,Yes,6.55,Android 12,Octa Core,128 GB,50MP + 50MP + 2MP,32MP Front Camera,"5G, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,4020 mAh,74.236 mm,159.38 mm,155 g,Dual Sim,No,Primary Camera,Aurora Green
+vivo,V27 5G,36999,4.4,Dual Sim,Yes,Yes,6.78,Android 13,Octa Core,256 GB,50MP (OIS) + 8MP + 2MP,50MP Front Camera,"5G, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,4600 mAh,74.8 mm,164.1 mm,180 g,Dual Sim,Yes,Primary Camera,Noble Black
+Micromax,X809,1339,3.7,Dual Sim,No,No,2.8,,,32 MB,1MP Rear Camera,,2G,,,,Nano Sim,1000 mAh,74.8 mm,164.1 mm,180 g,Dual Sim,No,,Blue
+OPPO,A17,11999,4.3,Dual Sim,No,Yes,6.56,Android 12,Octa Core,64 GB,50MP + 0.3MP + 0.3MP,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,75.6 mm,164.2 mm,189 g,Dual Sim,No,Primary Camera,Midnight Black
+DIZO,Star 500,1680,3.9,Dual Sim,No,No,2.8,,,32 MB,0.3MP Rear Camera,,2G,v2.1,,,Micro SIM + Micro SIM,1900 mAh,55.4 mm,132.5 mm,108 g,Dual Sim,No,,Black
+SAMSUNG,Galaxy F04,8499,4.2,Dual Sim,No,Yes,6.5,Android 12,,64 GB,13MP + 2MP,5MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.9 mm,164.2 mm,188 g,Dual Sim,No,Primary Camera,Jade Purple
+REDMI,Note 12 5G,16999,3.9,Dual Sim,Yes,Yes,6.67,Android 12,Octa Core,128 GB,48MP + 8MP + 2MP,13MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Frosted Green
+POCO,X5 Pro 5G,19999,4.3,Dual Sim,No,Yes,6.67,Android 12,Octa Core,128 GB,108MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.03 mm,162.91 mm,181 g,Dual Sim,No,Primary Camera,Yellow
+vivo,V27 5G,36999,4.4,Dual Sim,Yes,Yes,6.78,Android 13,Octa Core,256 GB,50MP (OIS) + 8MP + 2MP,50MP Front Camera,"5G, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,4600 mAh,74.8 mm,164.1 mm,180 g,Dual Sim,Yes,Primary Camera,Magic Blue
+realme,10 Pro+ 5G,21999,4.4,Dual Sim,No,Yes,6.7,Android 13,Octa Core,128 GB,108MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,,Yes,Nano Sim,5000 mAh,73.9 mm,161.5 mm,172.5 g,Dual Sim,No,Primary Camera,Dark Matter
+APPLE,iPhone 12,51999,4.6,Dual Sim,No,Yes,6.1,iOS 14,,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,2815 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,Red
+OnePlus,11 5G,54997,4.4,Dual Sim,No,Yes,6.7,Android OxygenOS based on Android 13,Octa Core,128 GB,50MP Rear Camera,16MP Front Camera,5G,,,,Nano + eSIM,5000 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,Eternal Green
+Kechaoda,K90,1490,3.5,Triple Sim,No,No,3.5,,,32 MB,1.3MP Rear Camera,,2G,,,,,5000 mAh,,,101 g,Triple Sim,No,,Green & Black
+OnePlus,Nord 3 5G,37800,4.3,Dual Sim,No,Yes,6.74,Android ANdroid 13 OxygenOS,Octa Core,256 GB,50MP Rear Camera,,5G,,,,,5000 mAh,,,101 g,Dual Sim,No,Primary Camera,Tempest Gray
+Kechaoda,K9,1299,4.1,Dual Sim,No,No,2.4,0,,64 MB,0.3MP Rear Camera,,2G,,,,Mini SIM,1700 mAh,,,101 g,Dual Sim,No,,Black
+LAVA,GEM POWER,1699,4.1,Dual Sim,No,No,2.8,,,4 MB,2MP Rear Camera,,2G,,No,No,,2575 mAh,,,101 g,Dual Sim,No,,Black
+Kechaoda,K9,1299,4.1,Dual Sim,No,No,2.4,0,,64 MB,0.3MP Rear Camera,,2G,,,,Mini SIM,1700 mAh,,,101 g,Dual Sim,No,,Champagne Gold
+Eunity,U1 310,597,3.1,Dual Sim,No,No,1.8,,,16 MB,0.3MP Rear Camera,,2G,,,,,1000 mAh,,,101 g,Dual Sim,No,,"Black, Green"
+Tecno,Spark Go 2023,6350,4.1,Dual Sim,No,Yes,6.56,Android 12,,32 GB,13MP Rear Camera,,4G VOLTE,,,,Neno-SIM card,5000 mAh,,,220 g,Dual Sim,No,Primary Camera,Orange
+Energizer,Hardcase E100,1349,3.8,Dual Sim,No,No,2.4,,,32 MB,0.3MP Rear Camera,,2G,v2.1,,No,Mini SIM + Mini SIM,1500 mAh,63 mm,129 mm,112 g,Dual Sim,No,,Black
+SAMSUNG,Galaxy M04,8184,4.1,Dual Sim,No,Yes,6.5,Android 12,Octa Core,64 GB,13MP + 2MP,5MP Front Camera,4G,,Yes,Yes,Nano,5000 mAh,76 mm,164 mm,188 g,Dual Sim,No,Primary Camera,Light Green
+OPPO,A38,12999,4.6,Dual Sim,Yes,Yes,6.56,Android 13,Octa Core,128 GB,50MP + 2MP,5MP Front Camera,"2G, 3G, 4G",v5.3,Yes,Yes,Nano Sim,5000 mAh,75.03 mm,163.74 mm,190 g,Dual Sim,Yes,Primary Camera,Glowing Black
+LAVA,A7 Torch,1498,3.8,Dual Sim,No,No,2.4,,,32 MB,0.3MP Rear Camera,0MP Front Camera,2G,v3.2,,,Regular Sim,2574 mAh,53 mm,124 mm,190 g,Dual Sim,No,,Black
+LAVA,GEM POWER,1679,4.1,Dual Sim,No,No,2.8,,,4 MB,2MP Rear Camera,,2G,,No,No,,2575 mAh,53 mm,124 mm,190 g,Dual Sim,No,,Blue
+REDMI,12C,8798,4.2,Dual Sim,No,Yes,6.71,"Android MIUI 13, Android 12.0",Octa Core,64 GB,50MP Rear Camera,,4G VOLTE,,,,,5000 mAh,53 mm,124 mm,190 g,Dual Sim,No,Primary Camera,Mint Green
+IAIR,"Basic Feature Dual Sim Mobile Phone with 2800mAh Battery, 1.77 inch Display Screen, 0.8 mp Camera with Glossy Finish (ID15-Blue)",999,3.6,Dual Sim,No,No,1.77,"Android MIUI 13, Android 12.0",Octa Core,32 MB,0.8MP + 0.8MP,,2G,,,,Full Size,2800 mAh,52 mm,130 mm,200 g,Dual Sim,No,,Sky Blue
+itel,It2175 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,1148,4,Dual Sim,No,No,1.8,,,4 MB,0.3MP Rear Camera,,2G,,,,Mini Sim,1200 mAh,51 mm,118.9 mm,80.4 g,Dual Sim,No,,Black
+Tecno,Camon20 Predawn 64MP RGBW Camera,14998,4.3,Dual Sim,No,Yes,6.67,Android 13,Octa Core,256 GB,64MP + 2MP,32MP Front Camera,"4G VOLTE, 4G",,Yes,Yes,Nano-SIM,5000 mAh,51 mm,118.9 mm,80.4 g,Dual Sim,No,Primary Camera,Serenity Blue
+APPLE,iPhone SE 3rd Gen,32699,4.4,Dual Sim(Nano + eSIM),No,Yes,4.7,iOS 15,Hexa Core,64 GB,12MP Rear Camera,7MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim + eSIM,5000 mAh,67.3 mm,138.4 mm,144 g,Dual Sim(Nano + eSIM),No,,Starlight
+Cellecor,X3,965,3.6,Dual Sim,No,No,1.8,,,32 MB,0.3MP Rear Camera,,2G,,,,,1000 mAh,,,100 g,Dual Sim,No,Secondary Camera,Black
+REDMI,12C,9620,4.1,Dual Sim,No,Yes,6.71,"Android ?MIUI 13, Android 12.0",Octa Core,128 GB,50MP Rear Camera,,4G VOLTE,,,,,5000 mAh,,,100 g,Dual Sim,No,Primary Camera,?Lavender Purple
+REDMI,11 Prime,10999,4.3,Dual Sim,No,Yes,6.58,Android 12,Octa Core,128 GB,50MP + 2MP + 2MP,8MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,76.09 mm,163.99 mm,201 g,Dual Sim,No,Primary Camera,Playful Green
+Cellecor,X3,968,3.6,Dual Sim,No,No,1.8,,,32 MB,0.3MP Rear Camera,,2G,,,,,1000 mAh,,,100 g,Dual Sim,No,Primary Camera,Grey
+Cellecor,X3,1022,3.6,Dual Sim,No,No,1.8,,,32 MB,0.3MP Rear Camera,,2G,,,,,1000 mAh,,,100 g,Dual Sim,No,Primary Camera,Red
+REDMI,K50i 5G,23999,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,256 GB,64MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,,Yes,Nano Sim,5080 mAh,74.29 mm,163.64 mm,200 g,Dual Sim,No,Primary Camera,Stealth Black
+SAMSUNG,Galaxy F34 5G,21999,4.1,Dual Sim,Yes,Yes,6.5,Android 13,Octa Core,128 GB,50MP (OIS) + 8MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 5G",v5.3,Yes,Yes,Nano Sim,6000 mAh,77.2 mm,161.7 mm,208 g,Dual Sim,Yes,Primary Camera,Mystic Green
+OnePlus,11 5G,60245,4.5,Dual Sim,No,Yes,6.7,Android Oxygen Android 13,,256 GB,50MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,77.2 mm,161.7 mm,208 g,Dual Sim,No,Primary Camera,Marble Odyssey
+IQOO,Z7S 5G,20399,4.3,Dual Sim,Yes,Yes,6.4,Android Q 13,Octa Core,128 GB,64MP Rear Camera,,5G,,,,Nano Sim,4500 mAh,77.2 mm,161.7 mm,208 g,Dual Sim,Yes,Primary Camera,Norway Blue
+Nokia,106,1349,4.2,Single Sim,No,No,6.7,,,32 MB,,,2G,,No,No,Mini Sim,1000 mAh,,,79.7 g,Single Sim,No,,Charcoal
+OnePlus,Nord 3 5G,37800,4.3,Dual Sim,No,Yes,6.74,Android ANdroid 13 OxygenOS,Octa Core,256 GB,50MP Rear Camera,,5G,,,,Mini Sim,5000 mAh,,,79.7 g,Dual Sim,No,Primary Camera,Tempest Gray
+POCO,X5 5G,16999,4.1,Dual Sim,Yes,Yes,6.67,Android 12,Octa Core,256 GB,48MP + 8MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 4G VOLTE, 5G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Wildcat Blue
+OPPO,F21s Pro 5G,22110,4.2,Dual Sim,Yes,Yes,6.43,Android Q Android 11,Octa Core,128 GB,64MP + 2MP + 2MP,16MP + 2MP Dual Front Camera,5G,,Yes,,Nano Sim,4500 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Starlight Black
+Tecno,Pop 7 pro Uyuni 12MP Dual Camera B29,6540,4.2,Dual Sim,No,Yes,6.56,Android Android 12.0,Octa Core,64 GB,12MP Rear Camera,,4G VOLTE,,,,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,No,Primary Camera,?Uyuni Blue
+MOTOROLA,Edge 30,26999,4.1,Dual Sim,No,Yes,6.55,Android 12,Octa Core,128 GB,50MP + 50MP + 2MP,32MP Front Camera,"5G, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,4020 mAh,74.236 mm,159.38 mm,155 g,Dual Sim,No,Primary Camera,Meteor Grey
+REDMI,Note 12 Pro+ 5G,32999,4.2,Dual Sim,No,Yes,6.67,Android 12,Octa Core,256 GB,200MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,4980 mAh,76.03 mm,162.9 mm,208 g,Dual Sim,No,Primary Camera,Arctic White
+APPLE,Iphone 15 Pro Max,199900,4.8,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 17,Hexa Core,1024 GB,48MP + 12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,4980 mAh,76.7 mm,159.9 mm,221 g,Dual Sim(Nano + eSIM),No,Primary Camera,Black Titanium
+POCO,M5,10499,4.2,Dual Sim,No,Yes,6.58,Android 12,Octa Core,128 GB,50MP + 2MP Depth Sensor + 2MP Macro Sensor,8MP Front Camera,"4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,76.09 mm,163.99 mm,201 g,Dual Sim,No,,Yellow
+Micromax,X413,920,4,Dual Sim,No,No,1.77,,Single Core,32 MB,0.3MP Rear Camera,,2G,,,,Nano Sim,800 mAh,76.09 mm,163.99 mm,201 g,Dual Sim,No,,Blue
+POCO,M5,10499,4.2,Dual Sim,No,Yes,6.58,Android 12,Octa Core,128 GB,50MP + 2MP Depth Sensor + 2MP Macro Sensor,8MP Front Camera,"4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,76.09 mm,163.99 mm,201 g,Dual Sim,No,,Power Black
+APPLE,iPhone 12,48999,4.6,Dual Sim,No,Yes,6.1,iOS 14,,64 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,2815 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,Purple
+Kechaoda,A26,970,4,Dual Sim,No,No,0.66,iOS 14,,32 MB,12MP + 12MP,12MP Front Camera,2G,,No,,Micro,800 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,Grey
+SAMSUNG,Galaxy M14 5G,13679,4.2,Dual Sim,No,Yes,6.6,Android Android 13.0,Octa Core,128 GB,50MP Rear Camera,,"5G, 4G VOLTE",,,,Micro,6000 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,Berry Blue
+OnePlus,Nord 3 5G,37199,4.3,Dual Sim,No,Yes,6.74,Android Android 13 OxygenOS,Octa Core,256 GB,50MP Rear Camera,,5G,,,,Micro,5000 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,Misty Green
+Tecno,Spark Go 2023,7995,4.1,Dual Sim,No,Yes,6.56,Android Q Android 12,Single Core,64 GB,13MP Rear Camera,,4G VOLTE,,Yes,,Neno-SIM card,5000 mAh,,,220 g,Dual Sim,No,Primary Camera,Endless Black
+POCO,C51,8499,4,Dual Sim,No,Yes,6.52,Android 13 Go,Octa Core,128 GB,8MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.75 mm,164.9 mm,192 g,Dual Sim,No,Primary Camera,Power Black
+REDMI,Note 12 Pro+ 5G,32999,4.2,Dual Sim,No,Yes,6.67,Android 12,Octa Core,256 GB,200MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,4980 mAh,76.03 mm,162.9 mm,208 g,Dual Sim,No,Primary Camera,Iceberg Blue
+REDMI,Note 12 Pro+ 5G,29999,4.2,Dual Sim,No,Yes,6.67,Android 12,Octa Core,256 GB,200MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,4980 mAh,76.03 mm,162.9 mm,208 g,Dual Sim,No,Primary Camera,Arctic White
+POCO,X5 Pro 5G,21999,4.3,Dual Sim,No,Yes,6.67,Android 12,Octa Core,256 GB,108MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.03 mm,162.91 mm,181 g,Dual Sim,No,Primary Camera,Yellow
+realme,Narzo N53,11686,4.2,Dual Sim,No,Yes,6.74,Android Android 13.0,Octa Core,128 GB,50MP Rear Camera,,4G VOLTE,,,,Nano Sim,5000 mAh,76.03 mm,162.91 mm,181 g,Dual Sim,No,Primary Camera,Feather Black
+Nokia,"2660 Flip 4G Volte Black keypad Mobile with Dual Sim & Screen, MP3 Player",4499,4.1,Dual Sim,No,No,2.8,,,0.125 GB,0.3MP Rear Camera,,"4G, 3G, 2G",v5.0,No,No,Nano Sim,1450 mAh,,,124.35 g,Dual Sim,No,,Black
+vivo,Y02t,8999,4.2,Dual Sim,Yes,Yes,6.51,Android 13,Octa Core,64 GB,8MP Rear Camera,5MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,74.44 mm,163.99 mm,186 g,Dual Sim,Yes,,Cosmic Grey
+vivo,Y02t,8999,4.2,Dual Sim,Yes,Yes,6.51,Android 13,Octa Core,64 GB,8MP Rear Camera,5MP Front Camera,"2G, 3G, 4G",v5.0,Yes,Yes,Nano Sim,5000 mAh,74.44 mm,163.99 mm,186 g,Dual Sim,Yes,,Sunset Gold
+SAMSUNG,Galaxy M34 5G,19035,4,Dual Sim,No,Yes,6.5,Android Android 13,Octa Core,128 GB,50MP Rear Camera,,5G,,,,Nano Sim,6000 mAh,74.44 mm,163.99 mm,186 g,Dual Sim,No,Primary Camera,Waterfall Blue
+realme,10 Pro+ 5G,24999,4.4,Dual Sim,No,Yes,6.7,Android 13,Octa Core,256 GB,108MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,,Yes,Nano Sim,5000 mAh,73.9 mm,161.5 mm,172.5 g,Dual Sim,No,Primary Camera,Nebula Blue
+REDMI,Note 12 5G,20999,4.1,Dual Sim,Yes,Yes,6.67,Android 12,Octa Core,256 GB,48MP + 8MP + 2MP,13MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Matte Black
+OPPO,Reno10 Pro 5G,39999,4.3,Dual Sim,No,Yes,6.7,Android 13,Octa Core,256 GB,50MP + 32MP + 8MP,32MP Front Camera,"2G, 3G, 4G, 5G",,Yes,Yes,Nano Sim,4600 mAh,,,185 g,Dual Sim,No,Primary Camera,Glossy Purple
+MOTOROLA,Edge 30 Ultra,59999,4.2,Dual Sim,No,Yes,6.67,Android 12,Octa Core,256 GB,200MP + 50MP + 12MP,60MP Front Camera,"5G, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,4610 mAh,73.5 mm,161.76 mm,198.5 g,Dual Sim,No,Primary Camera,Interstellar Black
+realme,10,11999,4.2,Dual Sim,No,Yes,6.4,Android 12,Octa Core,64 GB,50MP + 2MP,16MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.3,,Yes,Nano Sim,5000 mAh,73.3 mm,159.9 mm,178 g,Dual Sim,No,Primary Camera,Clash White
+realme,Narzo N53,11687,4.2,Dual Sim,No,Yes,6.74,Android Android 13.0,Octa Core,128 GB,50MP Rear Camera,,4G VOLTE,,,,Nano Sim,5000 mAh,73.3 mm,159.9 mm,178 g,Dual Sim,No,Primary Camera,Feather Black
+Infinix,NOTE 12i,10999,4.2,Dual Sim,No,Yes,6.7,Android 12,Octa Core,64 GB,50 MP + 2 MP + QVGA,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.6 mm,164.43 mm,188 g,Dual Sim,No,Primary Camera,Metaverse Blue
+itel,It2171 Keypad Mobile|1000 mAh battery|Expandable Storage upto 32GB,999,4,Dual Sim,No,No,1.8,,,32 MB,0.3MP Rear Camera,,2G,2.1,,,,1000 mAh,49 mm,,,Dual Sim,No,,City Blue
+itel,It2171 Keypad Mobile|1000 mAh battery|Expandable Storage upto 32GB,999,4,Dual Sim,No,No,1.8,,,32 MB,0.3MP Rear Camera,,2G,2.1,,,,1000 mAh,49 mm,,,Dual Sim,No,,Elegant Black
+APPLE,iPhone 14 Plus,73999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 16,Hexa Core,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,4323 mAh,78.1 mm,160.8 mm,203 g,Dual Sim(Nano + eSIM),No,Primary Camera,Purple
+SAMSUNG,Galaxy F34 5G,21999,4.1,Dual Sim,Yes,Yes,6.5,Android 13,Octa Core,128 GB,50MP (OIS) + 8MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 5G",v5.3,Yes,Yes,Nano Sim,6000 mAh,77.2 mm,161.7 mm,208 g,Dual Sim,Yes,Primary Camera,Electric Black
+LAVA,Hero 600i,898,4,Dual Sim,No,No,1.8,0,,3 MB,,,2G,,No,No,,620 mAh,77.2 mm,161.7 mm,208 g,Dual Sim,No,,Sapphire Blue
+Infinix,Note 12,11999,4.2,Dual Sim,No,Yes,6.7,Android 11,Octa Core,64 GB,50MP + 2MP Depth + AI Lens,16MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.6 mm,164.43 mm,184.5 g,Dual Sim,No,,Jewel Blue
+Kechaoda,A27,970,4,Dual Sim,No,No,0.66,Android 11,Octa Core,32 MB,50MP + 2MP Depth + AI Lens,16MP Front Camera,2G,,No,,Micro SIM,800 mAh,76.6 mm,164.43 mm,184.5 g,Dual Sim,No,,Silver
+Micromax,S114,980,3.7,Dual Sim,No,No,1.77,,Single Core,64 MB,0.08MP Rear Camera,,2G,,,,,1000 mAh,76.6 mm,164.43 mm,184.5 g,Dual Sim,No,,Champagne
+Micromax,S114,989,3.7,Dual Sim,No,No,1.77,,Single Core,64 MB,0.08MP Rear Camera,,2G,,,,,1000 mAh,76.6 mm,164.43 mm,184.5 g,Dual Sim,No,,Aqua Blue
+APPLE,iPhone 14 Plus,73999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 16,Hexa Core,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,4323 mAh,78.1 mm,160.8 mm,203 g,Dual Sim(Nano + eSIM),No,Primary Camera,Midnight
+MOTOROLA,G62 5G,16999,4.1,Dual Sim,Yes,Yes,16.51,Android 12,Octa Core,128 GB,50MP + 8MP + 2MP,16MP Front Camera,"5G, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,73.96 mm,161.83 mm,184 g,Dual Sim,Yes,Primary Camera,Midnight Gray
+Kechaoda,A26,970,4,Dual Sim,No,No,0.66,Android 12,Octa Core,32 MB,50MP + 8MP + 2MP,16MP Front Camera,2G,,No,,Micro,800 mAh,73.96 mm,161.83 mm,184 g,Dual Sim,No,Primary Camera,Silver
+realme,Narzo N53,9585,4.2,Dual Sim,No,Yes,6.74,Android Android 13.0,Octa Core,64 GB,50MP Rear Camera,,4G VOLTE,,,,Micro,5000 mAh,73.96 mm,161.83 mm,184 g,Dual Sim,No,Primary Camera,Feather Gold
+itel,It2175 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,1149,4,Dual Sim,No,No,1.8,,,4 MB,0.3MP Rear Camera,,2G,,,,Mini Sim,1200 mAh,51 mm,118.9 mm,80.4 g,Dual Sim,No,,Deep Blue
+REDMI,Note 12 Pro 5G,23999,4.2,Dual Sim,No,Yes,6.67,Android 12,Octa Core,128 GB,50MP (OIS) + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,76.03 mm,162.9 mm,187 g,Dual Sim,No,Primary Camera,Onyx Black
+LAVA,Hero 600i,898,4,Dual Sim,No,No,1.8,0,,3 MB,,,2G,,No,No,,620 mAh,,,89 g,Dual Sim,No,,Mint Green
+OnePlus,Nord 3 5G,31479,4.4,Dual Sim,No,Yes,6.74,Android Android 13 OxygenOS,Octa Core,128 GB,50MP Rear Camera,,5G,,,,,5000 mAh,,,89 g,Dual Sim,No,Primary Camera,Tempest Gray
+SAMSUNG,Galaxy F34 5G,24499,4.2,Dual Sim,Yes,Yes,6.5,Android 13,Octa Core,128 GB,50MP (OIS) + 8MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 5G",v5.3,Yes,Yes,Nano Sim,6000 mAh,77.2 mm,161.7 mm,208 g,Dual Sim,Yes,Primary Camera,Mystic Green
+SAMSUNG,Galaxy M04,8049,4.1,Dual Sim,No,Yes,6.5,Android 12,Octa Core,64 GB,13MP + 2MP,5MP Front Camera,4G,,Yes,Yes,Nano,5000 mAh,76 mm,164 mm,188 g,Dual Sim,No,Primary Camera,Light Green
+OnePlus,Nord 3 5G,31427,4.4,Dual Sim,No,Yes,6.74,Android ANdroid 13 OxygenOS,Octa Core,128 GB,50MP Rear Camera,,5G,,,,Nano,5000 mAh,76 mm,164 mm,188 g,Dual Sim,No,Primary Camera,Misty Green
+realme,10,11999,4.2,Dual Sim,No,Yes,6.4,Android 12,Octa Core,64 GB,50MP + 2MP,16MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.3,,Yes,Nano Sim,5000 mAh,73.3 mm,159.9 mm,178 g,Dual Sim,No,Primary Camera,Rush Black
+REDMI,Note 12 Pro+ 5G,29999,4.2,Dual Sim,No,Yes,6.67,Android 12,Octa Core,256 GB,200MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,4980 mAh,76.03 mm,162.9 mm,208 g,Dual Sim,No,Primary Camera,Iceberg Blue
+APPLE,iPhone 13,52499,4.7,Dual Sim,No,Yes,6.1,iOS 15,Hexa Core,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,4980 mAh,71.5 mm,146.7 mm,173 g,Dual Sim,No,Primary Camera,(PRODUCT)RED
+REDMI,A1+,6299,4.2,Dual Sim,No,Yes,6.52,Android 12 Go,Quad Core,32 GB,8MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.75 mm,164.9 mm,192 g,Dual Sim,No,Primary Camera,Light Green
+SAMSUNG,Galaxy F14 5G,13990,4.2,Dual Sim,No,Yes,6.6,Android 13,Octa Core,128 GB,50MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 5G",v5.2,Yes,Yes,Nano Sim,6000 mAh,77.2 mm,166.8 mm,205 g,Dual Sim,No,Primary Camera,B.A.E. Purple
+POCO,C55,7499,4.2,Dual Sim,No,Yes,6.71,Android 12,Octa Core,64 GB,50MP Dual Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.41 mm,168.76 mm,192 g,Dual Sim,No,,Power Black
+POCO,M4 5G,10999,4.2,Dual Sim,No,Yes,6.58,Android 12,Octa Core,64 GB,50MP + 2MP,8MP Front Camera,"5G, 4G, 3G, 2G",v5.1,Yes,Yes,Nano,5000 mAh,76.09 mm,163.99 mm,200 g,Dual Sim,No,Primary Camera,Cool Blue
+realme,10 Pro 5G,16999,4.3,Dual Sim,Yes,Yes,6.72,Android 13,Octa Core,128 GB,108MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,,Yes,Nano Sim,5000 mAh,74.2 mm,163.7 mm,190 g,Dual Sim,Yes,Primary Camera,Nebula Blue
+POCO,M4 Pro,14999,4.3,Dual Sim,No,Yes,6.43,Android 11,Octa Core,64 GB,64MP + 8MP + 2MP,16MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,73.8 mm,159.8 mm,179.5 g,Dual Sim,No,Primary Camera,Yellow
+MOTOROLA,e13,8999,3.9,Dual Sim,No,Yes,6.5,Android 13 (Go Edition),Octa Core,128 GB,13MP Rear Camera,5MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,74.95 mm,164.19 mm,179.5 g,Dual Sim,No,,Aurora Green
+SAMSUNG,Galaxy F13,11999,4.3,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50MP + 5MP + 2MP,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,6000 mAh,76.9 mm,165.4 mm,207 g,Dual Sim,No,Primary Camera,Waterfall Blue
+realme,Narzo N53,9798,4.2,Dual Sim,No,Yes,6.74,Android Android 13.0,Octa Core,64 GB,50MP Rear Camera,,4G VOLTE,,,,Nano Sim,5000 mAh,76.9 mm,165.4 mm,207 g,Dual Sim,No,Primary Camera,Feather Black
+Kechaoda,K112,1615,4,Triple Sim,No,No,2.4,,,64 MB,0.3MP Rear Camera,,2G,,No,,,3600 mAh,76.9 mm,165.4 mm,207 g,Triple Sim,No,,Green
+REDMI,Note 12,14999,4.1,Dual Sim,No,Yes,6.67,Android 13,Octa Core,128 GB,50MP + 8MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 4G VOLTE",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.96 mm,165.66 mm,186 g,Dual Sim,No,Primary Camera,Lunar Black
+POCO,X5 5G,14999,4.1,Dual Sim,Yes,Yes,6.67,Android 12,Octa Core,128 GB,48MP + 8MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 4G VOLTE, 5G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Supernova Green
+OnePlus,11R 5G,39226,4.5,Dual Sim,No,Yes,6.7,Android OxygenOS based on Android 13,Octa Core,128 GB,50MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,No,Primary Camera,Galactic Silver
+REDMI,A2,7050,4.1,Dual Sim,No,Yes,6.52,Android Android 13.0,Octa Core,32 GB,8MP Rear Camera,,4G VOLTE,,,,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,No,Primary Camera,Classic Black
+LAVA,A3 VIBE,1289,4.1,Dual Sim,No,No,1.77,,,32 MB,0.3MP Rear Camera,0.3MP Front Camera,2G,2,No,No,Full Size Sim,1750 mAh,4 mm,15 mm,109 g,Dual Sim,No,,WHITE BEIGE PA
+GFive,U873,699,3.5,Dual Sim,No,No,1.8,,,32 MB,0.3MP Rear Camera,,3G,,No,,Normal SIM,1000 mAh,4 mm,15 mm,109 g,Dual Sim,No,,Blue Red
+APPLE,iPhone 13,61499,4.7,Dual Sim,No,Yes,6.1,iOS 15,Hexa Core,256 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,3240 mAh,71.5 mm,146.7 mm,173 g,Dual Sim,No,Primary Camera,Starlight
+APPLE,iPhone 12,48999,4.6,Dual Sim,No,Yes,6.1,iOS 14,,64 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,2815 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,Blue
+SAMSUNG,Galaxy M14 5G,14200,4.2,Dual Sim,No,Yes,6.6,Android Android 13.0,Octa Core,128 GB,50MP Rear Camera,,"5G, 4G VOLTE",,,,Nano + eSIM,6000 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,ICY Silver
+SAMSUNG,Galaxy F23 5G,16999,4.3,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50MP + 8MP + 2MP,8MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,77 mm,165.5 mm,198 g,Dual Sim,No,Primary Camera,Aqua Blue
+itel,A60S,6985,4.1,Dual Sim,No,Yes,6.6,Android Q 12,Octa Core,128 GB,8MP Rear Camera,,4G,,,,,5000 mAh,77 mm,165.5 mm,198 g,Dual Sim,No,Primary Camera,SHADOW BLACK
+REDMI,Note 12 Pro+ 5G,29999,4.2,Dual Sim,No,Yes,6.67,Android 12,Octa Core,256 GB,200MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,4980 mAh,76.03 mm,162.9 mm,208 g,Dual Sim,No,Primary Camera,Obsidian Black
+MOTOROLA,Edge 40,29999,4.2,Dual Sim(Physical + eSIM),No,Yes,6.5,Android 13,Octa Core,256 GB,50MP + 13MP,32MP Front Camera,"5G, 4G, 3G, 2G",v5.2,Yes,Yes,,4400 mAh,71.99 mm,158.43 mm,171 g,Dual Sim(Physical + eSIM),No,Primary Camera,Eclipse Black
+itel,Ace2 Keypad Mobile| 1000 mAh Battery|Expandable Storage 32GB,899,4,Dual Sim,No,No,1.8,,,4 MB,,0MP Front Camera,2G,,,,Micro Sim,1000 mAh,49 mm,114 mm,52.2 g,Dual Sim,No,,Black
+IQOO,Z6 Lite 5G (With Charger),15280,4.3,Dual Sim,Yes,Yes,6.68,Android Q 12,Quad Core,128 GB,50MP Rear Camera,,"5G, 4G VOLTE, 4G",,,,Micro Sim,5000 mAh,49 mm,114 mm,52.2 g,Dual Sim,Yes,Primary Camera,Stellar Green
+itel,Magic X Pro 4G| 2500mAh Big Battery| Expandable Storage upto 64GB,2255,3.9,Dual Sim,No,No,2.4,RTOS,,128 MB,0.3MP Rear Camera,,4G,,Yes,,,2500 mAh,49 mm,114 mm,52.2 g,Dual Sim,No,,Blue
+POCO,X5 Pro 5G,19999,4.3,Dual Sim,No,Yes,6.67,Android 12,Octa Core,128 GB,108MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.03 mm,162.91 mm,181 g,Dual Sim,No,Primary Camera,Astral Black
+POCO,X5 Pro 5G,21999,4.3,Dual Sim,No,Yes,6.67,Android 12,Octa Core,256 GB,108MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.03 mm,162.91 mm,181 g,Dual Sim,No,Primary Camera,Astral Black
+POCO,C50,6299,4,Dual Sim,No,Yes,6.52,Android 12 Go,,32 GB,8MP Dual Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.45 mm,164.9 mm,192 g,Dual Sim,No,Primary Camera,Country Green
+POCO,M4 Pro,12999,4.2,Dual Sim,No,Yes,6.43,Android 11,Octa Core,128 GB,64MP + 8MP + 2MP,16MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,73.8 mm,159.8 mm,179.5 g,Dual Sim,No,Primary Camera,Yellow
+SAMSUNG,Guru Music 2,2449,4.3,Dual Sim,No,No,2,0,,,64MP + 8MP + 2MP,16MP Front Camera,2G,,,,Full Size SIM,800 mAh,,,74.98 g,Dual Sim,No,Primary Camera,Black
+SAMSUNG,Galaxy F14 5G,14990,4.2,Dual Sim,No,Yes,6.6,Android 13,Octa Core,128 GB,50MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 5G",v5.2,Yes,Yes,Nano Sim,6000 mAh,77.2 mm,166.8 mm,205 g,Dual Sim,No,Primary Camera,OMG Black
+SAMSUNG,Galaxy F13,10999,4.3,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,50MP + 5MP + 2MP,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,6000 mAh,76.9 mm,165.4 mm,207 g,Dual Sim,No,Primary Camera,Nightsky Green
+POCO,M4 5G,12999,4.2,Dual Sim,No,Yes,6.58,Android 12,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"5G, 4G, 3G, 2G",v5.1,Yes,Yes,Nano,5000 mAh,76.09 mm,163.99 mm,200 g,Dual Sim,No,Primary Camera,Power Black
+vivo,T2 5G,18999,4.4,Dual Sim,Yes,Yes,6.38,Android 13,Octa Core,128 GB,64 MP (OIS) + 2MP,16MP Front Camera,"5G, 4G, 3G",v5.1,Yes,Yes,Nano Sim,4500 mAh,73.53 mm,158.91 mm,172 g,Dual Sim,Yes,Primary Camera,Velocity Wave
+vivo,T2 5G,20999,4.4,Dual Sim,Yes,Yes,6.38,Android 13,Octa Core,128 GB,64 MP (OIS) + 2MP,16MP Front Camera,"5G, 4G, 3G",v5.1,Yes,Yes,Nano Sim,4500 mAh,73.53 mm,158.91 mm,172 g,Dual Sim,Yes,Primary Camera,Nitro Blaze
+vivo,V27 5G,32999,4.4,Dual Sim,Yes,Yes,6.78,Android 13,Octa Core,128 GB,50MP (OIS) + 8MP + 2MP,50MP Front Camera,"5G, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,4600 mAh,74.8 mm,164.1 mm,180 g,Dual Sim,Yes,Primary Camera,Magic Blue
+SAMSUNG,Galaxy M14 5G,14654,4.2,Dual Sim,No,Yes,6.6,Android Android 13.0,Octa Core,128 GB,50MP Rear Camera,,"5G, 4G VOLTE",,,,Nano Sim,6000 mAh,74.8 mm,164.1 mm,180 g,Dual Sim,No,Primary Camera,Berry Blue
+vivo,T2 5G,18999,4.4,Dual Sim,Yes,Yes,6.38,Android 13,Octa Core,128 GB,64 MP (OIS) + 2MP,16MP Front Camera,"5G, 4G, 3G",v5.1,Yes,Yes,Nano Sim,4500 mAh,73.53 mm,158.91 mm,172 g,Dual Sim,Yes,Primary Camera,Nitro Blaze
+REDMI,12,11499,4.2,Dual Sim,Yes,Yes,6.79,Android 13,Octa Core,128 GB,50MP + 8MP + 2MP,8MP Front Camera,"2G, 3G, 4G, 4G VOLTE",v5.3,Yes,Yes,Nano Sim,5000 mAh,76.28 mm,168.6 mm,198.5 g,Dual Sim,Yes,Primary Camera,Pastel Blue
+Infinix,HOT 30 5G,13499,4.2,Dual Sim,No,Yes,6.78,Android 13,Octa Core,128 GB,50 MP + AI Lens,8MP Front Camera,"2G, 3G, 4G, 5G",v5.0,Yes,Yes,Nano Sim,6000 mAh,76.51 mm,168.51 mm,215 g,Dual Sim,No,,Aurora Blue
+vivo,V27 5G,32999,4.4,Dual Sim,No,Yes,6.78,Android 13,Octa Core,128 GB,50MP (OIS) + 8MP + 2MP,50MP Front Camera,"5G, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,4600 mAh,74.8 mm,164.1 mm,180 g,Dual Sim,No,Primary Camera,Noble Black
+OnePlus,Nord CE3 5G,26450,4.4,Dual Sim,No,Yes,6.7,Android Oxygen Android 13.1,Octa Core,128 GB,50MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,74.8 mm,164.1 mm,180 g,Dual Sim,No,Primary Camera,Aqua Surge
+realme,11 Pro+ 5G,27999,4.3,Dual Sim,Yes,Yes,6.7,Android 13,Octa Core,256 GB,200MP (OIS) + 8MP + 2MP,32MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,73.9 mm,161.6 mm,189 g,Dual Sim,Yes,Primary Camera,Oasis Green
+POCO,M6 Pro 5G,11999,4.4,Dual Sim,Yes,Yes,6.79,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"2G, 3G, 4G, 4G VOLTE, 5G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.28 mm,168.6 mm,199 g,Dual Sim,Yes,Primary Camera,Power Black
+MOTOROLA,g54 5G,15999,4.1,Dual Sim,Yes,Yes,6.5,Android 13,Octa Core,128 GB,50MP (OIS) + 8MP,16MP Front Camera,"2G, 3G, 4G, 5G",v5.3,Yes,Yes,Nano Sim,6000 mAh,73.82 mm,161.56 mm,192 g,Dual Sim,Yes,Primary Camera,Pearl Blue
+OnePlus,Nord CE3 5G,26696,4.4,Dual Sim,No,Yes,6.7,Android Oxygen Android 13.1,Octa Core,128 GB,50MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,73.82 mm,161.56 mm,192 g,Dual Sim,No,Primary Camera,Grey Shimmer
+realme,11 Pro 5G,24999,4.3,Dual Sim,Yes,Yes,6.7,Android 13,Octa Core,256 GB,100MP (OIS) + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,73.9 mm,161.6 mm,191 g,Dual Sim,Yes,Primary Camera,Oasis Green
+POCO,M6 Pro 5G,12999,4.3,Dual Sim,Yes,Yes,6.79,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"2G, 3G, 4G, 4G VOLTE, 5G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.28 mm,168.6 mm,199 g,Dual Sim,Yes,Primary Camera,Power Black
+realme,11 Pro+ 5G,29999,4.3,Dual Sim,Yes,Yes,6.7,Android 13,Octa Core,256 GB,200MP (OIS) + 8MP + 2MP,32MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,73.9 mm,161.6 mm,189 g,Dual Sim,Yes,Primary Camera,Sunrise Beige
+APPLE,iPhone 14 Plus,73999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 16,Hexa Core,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,4323 mAh,78.1 mm,160.8 mm,203 g,Dual Sim(Nano + eSIM),No,Primary Camera,Blue
+realme,11 Pro 5G,24999,4.3,Dual Sim,Yes,Yes,6.7,Android 13,Octa Core,256 GB,100MP (OIS) + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,73.9 mm,161.6 mm,185 g,Dual Sim,Yes,Primary Camera,Astral Black
+vivo,V29e 5G,28999,4.4,Dual Sim,Yes,Yes,6.78,Android 13,Octa Core,256 GB,64MP + 8MP,50MP Front Camera,"2G, 3G, 4G, 5G",v5.1,Yes,Yes,Nano Sim,5000 mAh,74.92 mm,164.42 mm,180.5 g,Dual Sim,Yes,Primary Camera,Artistic Blue
+MOTOROLA,e13,6999,4,Dual Sim,No,Yes,6.5,Android 13 (Go Edition),Octa Core,64 GB,13MP Rear Camera,5MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,74.95 mm,164.19 mm,179.5 g,Dual Sim,No,,Cosmic Black
+POCO,M6 Pro 5G,11999,4.4,Dual Sim,Yes,Yes,6.79,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"2G, 3G, 4G, 4G VOLTE, 5G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.28 mm,168.6 mm,199 g,Dual Sim,Yes,Primary Camera,Forest Green
+POCO,C50,5499,4.2,Dual Sim,No,Yes,6.52,Android 12 Go,,32 GB,8MP Dual Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.45 mm,164.9 mm,192 g,Dual Sim,No,Primary Camera,Royal Blue
+REDMI,A2,7240,4.1,Dual Sim,No,Yes,6.52,Android Android 13,Octa Core,64 GB,8MP Rear Camera,,4G VOLTE,,,,Nano Sim,5000 mAh,76.45 mm,164.9 mm,192 g,Dual Sim,No,Primary Camera,Classic Black
+REDMI,12,11499,4.2,Dual Sim,Yes,Yes,6.79,Android 13,Octa Core,128 GB,50MP + 8MP + 2MP,8MP Front Camera,"2G, 3G, 4G, 4G VOLTE",v5.3,Yes,Yes,Nano Sim,5000 mAh,76.28 mm,168.6 mm,198.5 g,Dual Sim,Yes,Primary Camera,Moonstone Silver
+Infinix,SMART 7,7799,4.3,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,13MP + AI Lens,5MP Front Camera,"4G, 3G, 2G",v4.2,Yes,Yes,Nano Sim,6000 mAh,75.63 mm,164.2 mm,207 g,Dual Sim,No,,Emerald Green
+MOTOROLA,G32,11999,4.1,Dual Sim,No,Yes,6.5,Android 12,Octa Core,128 GB,50MP + 8MP + 2MP,16MP Front Camera,"4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,73.84 mm,161.78 mm,180 g,Dual Sim,No,Primary Camera,Mineral Gray
+POCO,M6 Pro 5G,10999,4.4,Dual Sim,Yes,Yes,6.79,Android 13,Octa Core,64 GB,50MP + 2MP,8MP Front Camera,"2G, 3G, 4G, 4G VOLTE, 5G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.28 mm,168.6 mm,199 g,Dual Sim,Yes,Primary Camera,Power Black
+Infinix,SMART 7,7799,4.3,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,13MP + AI Lens,5MP Front Camera,"4G, 3G, 2G",v4.2,Yes,Yes,Nano Sim,6000 mAh,75.63 mm,164.2 mm,207 g,Dual Sim,No,,Azure Blue
+realme,C51,8999,4.4,Dual Sim,No,Yes,6.74,Android 13,Octa Core,64 GB,50MP + 0.08MP,5MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.67 mm,167.16 mm,186 g,Dual Sim,No,Primary Camera,Carbon Black
+REDMI,12,11499,4.2,Dual Sim,Yes,Yes,6.79,Android 13,Octa Core,128 GB,50MP + 8MP + 2MP,8MP Front Camera,"2G, 3G, 4G, 4G VOLTE",v5.3,Yes,Yes,Nano Sim,5000 mAh,76.28 mm,168.6 mm,198.5 g,Dual Sim,Yes,Primary Camera,Jade Black
+POCO,C51,5999,4.1,Dual Sim,No,Yes,6.52,Android 13,Octa Core,64 GB,8MP Dual Rear Camera,5MP Front Camera,"2G, 3G, 4G, 4G VOLTE",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.75 mm,164.9 mm,192 g,Dual Sim,No,Primary Camera,Power Black
+Infinix,HOT 30i,8399,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,50MP + AI Lens,5MP Front Camera,"2G, 3G, 4G",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.75 mm,164 mm,191 g,Dual Sim,No,,Mirror Black
+MOTOROLA,e13,7999,4,Dual Sim,No,Yes,6.5,Android 13 (Go Edition),Octa Core,64 GB,13MP Rear Camera,5MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,74.95 mm,164.19 mm,179.5 g,Dual Sim,No,,Aurora Green
+realme,C51,8999,4.4,Dual Sim,No,Yes,6.74,Android 13,Octa Core,64 GB,50MP + 0.08MP,5MP Front Camera,"2G, 3G, 4G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.67 mm,167.16 mm,186 g,Dual Sim,No,Primary Camera,Mint Green
+Infinix,SMART 7,9999,4.3,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,13MP + AI Lens,5MP Front Camera,"4G, 3G, 2G",v4.2,Yes,Yes,Nano Sim,6000 mAh,75.63 mm,164.2 mm,207 g,Dual Sim,No,,Azure Blue
+POCO,C50,5499,4.2,Dual Sim,No,Yes,6.52,Android 12 Go,,32 GB,8MP Dual Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.45 mm,164.9 mm,192 g,Dual Sim,No,Primary Camera,Country Green
+MOTOROLA,e32,8999,3.9,Dual Sim,No,Yes,6.5,Android 12,Octa Core,64 GB,50MP + 2MP,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,74.94 mm,163.95 mm,185 g,Dual Sim,No,Primary Camera,Arctic Blue
+Infinix,SMART 7,9999,4.3,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,13MP + AI Lens,5MP Front Camera,"4G, 3G, 2G",v4.2,Yes,Yes,Nano Sim,6000 mAh,75.63 mm,164.2 mm,207 g,Dual Sim,No,,Emerald Green
+realme,11x 5G,14999,4.4,Dual Sim,No,Yes,6.72,Android 13,Octa Core,128 GB,64MP + 2MP,8MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,76 mm,165.7 mm,190 g,Dual Sim,No,Primary Camera,Purple Dawn
+REDMI,12,9999,4.2,Dual Sim,Yes,Yes,6.79,Android 13,Octa Core,128 GB,50MP + 8MP + 2MP,8MP Front Camera,"2G, 3G, 4G, 4G VOLTE",v5.3,Yes,Yes,Nano Sim,5000 mAh,76.28 mm,168.6 mm,198.5 g,Dual Sim,Yes,Primary Camera,Jade Black
+REDMI,12,9999,4.2,Dual Sim,Yes,Yes,6.79,Android 13,Octa Core,128 GB,50MP + 8MP + 2MP,8MP Front Camera,"2G, 3G, 4G, 4G VOLTE",v5.3,Yes,Yes,Nano Sim,5000 mAh,76.28 mm,168.6 mm,198.5 g,Dual Sim,Yes,Primary Camera,Pastel Blue
+Infinix,SMART 7,7799,4.3,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,13MP + AI Lens,5MP Front Camera,"4G, 3G, 2G",v4.2,Yes,Yes,Nano Sim,6000 mAh,75.63 mm,164.2 mm,207 g,Dual Sim,No,,Night Black
+SAMSUNG,Galaxy M33 5G,17399,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50MP Rear Camera,8MP Front Camera,5G,,,,Nano Sim,6000 mAh,75.63 mm,164.2 mm,207 g,Dual Sim,No,Primary Camera,Deep Ocean Blue
+SAMSUNG,Galaxy F04,8499,4.2,Dual Sim,No,Yes,6.5,Android 12,,64 GB,13MP + 2MP,5MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.9 mm,164.2 mm,188 g,Dual Sim,No,Primary Camera,Opal Green
+REDMI,K50i 5G,23999,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,256 GB,64MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,,Yes,Nano Sim,5080 mAh,74.29 mm,163.64 mm,200 g,Dual Sim,No,Primary Camera,Quick Silver
+realme,C30s,6999,4.4,Dual Sim,No,Yes,6.5,Android 12,Octa Core,32 GB,8MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v4.2,,Yes,Nano Sim,5000 mAh,75.7 mm,164.2 mm,186 g,Dual Sim,No,,Stripe Blue
+SAMSUNG,Galaxy F14 5G,13990,4.2,Dual Sim,No,Yes,6.6,Android 13,Octa Core,128 GB,50MP + 2MP,13MP Front Camera,"2G, 3G, 4G, 5G",v5.2,Yes,Yes,Nano Sim,6000 mAh,77.2 mm,166.8 mm,205 g,Dual Sim,No,Primary Camera,GOAT Green
+KARBONN,KX 29,1538,3.8,Dual Sim,No,No,2.4,Android 13,Octa Core,32 MB,0.3MP Rear Camera,,2G,,,,,2700 mAh,77.2 mm,166.8 mm,205 g,Dual Sim,No,,grey blue
+SAMSUNG,Galaxy F62,19990,4.2,Dual Sim,No,Yes,6.7,Android 11,Octa Core,128 GB,64MP + 12MP + 5MP + 5MP,32MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,7000 mAh,76.3 mm,163.9 mm,218 g,Dual Sim,No,Primary Camera,Laser Blue
+APPLE,iPhone 14 Pro,119900,4.6,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 16,Hexa Core,128 GB,48MP + 12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,3200 mAh,71.5 mm,147.5 mm,206 g,Dual Sim(Nano + eSIM),No,Primary Camera,Deep Purple
+APPLE,iPhone 12,51999,4.6,Dual Sim,No,Yes,6.1,iOS 14,,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,3200 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,Purple
+realme,Narzo N53,9770,4.2,Dual Sim,No,Yes,6.74,Android Android 13.0,Octa Core,64 GB,50MP Rear Camera,,4G VOLTE,,,,Nano + eSIM,5000 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,Feather Gold
+Tecno,Spark Go 2023,6795,4.1,Dual Sim,No,Yes,6.56,Android 12,,32 GB,13MP Rear Camera,,4G VOLTE,,,,Neno-SIM card,5000 mAh,,,220 g,Dual Sim,No,Primary Camera,Endless Black
+REDMI,A2+,8499,4,Dual Sim,No,Yes,6.52,Android Android 13,Octa Core,64 GB,8MP Rear Camera,,4G VOLTE,,,,Neno-SIM card,5000 mAh,,,220 g,Dual Sim,No,Primary Camera,?Aqua Blue
+IQOO,Z6 Lite 5G (With Charger),14990,4.3,Dual Sim,Yes,Yes,6.68,Android Q 12,Quad Core,128 GB,50MP Rear Camera,,"5G, 4G VOLTE, 4G",,,,Neno-SIM card,5000 mAh,,,220 g,Dual Sim,Yes,Primary Camera,Mystic Night
+Micromax,S115,917,3.7,Dual Sim,No,No,1.77,,Single Core,32 MB,50MP Rear Camera,,2G,,,,Neno-SIM card,1000 mAh,,,220 g,Dual Sim,No,Primary Camera,Red+Black
+Good,MAGIC,1499,4,Dual Sim,No,No,1.7,,,32 MB,2MP Rear Camera,,2G,,,,MICRO,1050 mAh,,,220 g,Dual Sim,No,,LIME GREEN
+Infinix,HOT 20 5G,13208,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,50MP + AI Lens,8MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.45 mm,166.25 mm,204 g,Dual Sim,No,,Blaster Green
+Infinix,HOT 20 5G,13208,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,50MP + AI Lens,8MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.45 mm,166.25 mm,204 g,Dual Sim,No,,Space Blue
+realme,C30s,8499,4.2,Dual Sim,No,Yes,6.5,Android 12,Octa Core,64 GB,8MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v4.2,,Yes,Nano Sim,5000 mAh,75.7 mm,164.2 mm,186 g,Dual Sim,No,,Stripe Blue
+APPLE,iPhone 12,51999,4.6,Dual Sim,No,Yes,6.1,iOS 14,,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,5000 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,Black
+SAMSUNG,Galaxy A14 5G,19999,4.1,Dual Sim,Yes,Yes,6.6,Android 13,Octa Core,128 GB,50MP + 2MP,13MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,78 mm,167.7 mm,202 g,Dual Sim,Yes,Primary Camera,Dark Red
+LAVA,A1 Josh BOL,1044,4.2,Dual Sim,No,No,1.77,,,4 MB,,,2G,,No,,Micro,1000 mAh,48 mm,112.2 mm,70 g,Dual Sim,No,,"Black, Gold"
+IAIR,"Basic Feature Dual Sim Mobile Phone with 1200mAh Battery, 1.7 inch Display Screen, Open FM in Green Color (FPD17, Green)",799,3.8,Dual Sim,No,No,1.77,,,32 MB,0.8MP + 0.8MP,,2G,,,,Full Size,1200 mAh,52 mm,130 mm,200 g,Dual Sim,No,,Green
+realme,Narzo N53,11583,4.2,Dual Sim,No,Yes,6.74,Android Android 13.0,Octa Core,128 GB,50MP Rear Camera,,4G VOLTE,,,,Full Size,5000 mAh,52 mm,130 mm,200 g,Dual Sim,No,Primary Camera,Feather Gold
+REDMI,Note 12 5G,20999,4.1,Dual Sim,Yes,Yes,6.67,Android 12,Octa Core,256 GB,48MP + 8MP + 2MP,13MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Mystique Blue
+realme,C30s,8499,4.2,Dual Sim,No,Yes,6.5,Android 12,Octa Core,64 GB,8MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v4.2,,Yes,Nano Sim,5000 mAh,75.7 mm,164.2 mm,186 g,Dual Sim,No,,Stripe Black
+MOTOROLA,Edge 30 Fusion,42999,4.3,Dual Sim,No,Yes,6.55,Android 12,Octa Core,128 GB,50MP + 13MP + 2MP,32MP Front Camera,"5G, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,4400 mAh,71.99 mm,158.48 mm,175 g,Dual Sim,No,Primary Camera,Solar Gold
+Good,Magic,1499,4,Dual Sim,No,No,1.7,,,32 MB,2MP Rear Camera,,2G,,,,MICRO,1050 mAh,71.99 mm,158.48 mm,175 g,Dual Sim,No,,White
+itel,A60,5989,4,Dual Sim,No,Yes,6.6,Android Android12,,32 GB,8MP Rear Camera,,4G,,,,,5000 mAh,71.99 mm,158.48 mm,175 g,Dual Sim,No,Primary Camera,VertMenthe
+REDMI,Note 12 Pro+ 5G,32999,4.2,Dual Sim,No,Yes,6.67,Android 12,Octa Core,256 GB,200MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,4980 mAh,76.03 mm,162.9 mm,208 g,Dual Sim,No,Primary Camera,Obsidian Black
+REDMI,Note 12 5G,16999,3.9,Dual Sim,Yes,Yes,6.67,Android 12,Octa Core,128 GB,48MP + 8MP + 2MP,13MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.21 mm,165.88 mm,188 g,Dual Sim,Yes,Primary Camera,Frosted Green
+APPLE,Iphone 15 Plus,99900,4.6,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 17,Hexa Core,256 GB,48MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,5000 mAh,77.8 mm,160.9 mm,201 g,Dual Sim(Nano + eSIM),No,Primary Camera,Pink
+APPLE,iPhone 14 Pro Max,127999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 16,Hexa Core,128 GB,48MP + 12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,5000 mAh,77.6 mm,160.7 mm,240 g,Dual Sim(Nano + eSIM),No,Primary Camera,Silver
+Nokia,"105 Dual SIM, Keypad Mobile Phone with Wireless FM Radio",1599,4.2,Single Sim,No,No,1.77,Symbian,,32 MB,,0MP Front Camera,2G,,No,No,Mini Sim,800 mAh,49.9 mm,115.2 mm,51 g,Single Sim,No,,Blue
+SAMSUNG,GALAXY M13,13000,4.2,Dual Sim,No,Yes,6.6,Android Q 12,Octa Core,128 GB,50MP Rear Camera,,4G VOLTE,,,,Mini Sim,6000 mAh,49.9 mm,115.2 mm,51 g,Dual Sim,No,Primary Camera,Midnight Blue
+IAIR,"Dual Sim Basic Feature Mobile Phone With,MP3 with Recording",1099,3.7,Dual Sim,No,No,2.4,4.1,,32 MB,0.8MP Rear Camera,,2G,,,,,2800 mAh,,,300 g,Dual Sim,No,,Red
+Good,Magic,1499,4,Dual Sim,No,No,1.7,,,32 MB,2MP Rear Camera,,2G,,,Yes,MICRO,1050 mAh,45 mm,105 mm,,Dual Sim,No,,golden
+LAVA,A7 Torch,1498,3.8,Dual Sim,No,No,2.4,,,32 MB,0.3MP Rear Camera,0MP Front Camera,2G,3.2,,,Regular Sim,2575 mAh,53 mm,124 mm,190 g,Dual Sim,No,,Blue
+itel,A60,5989,4,Dual Sim,No,Yes,6.6,Android Android12,,32 GB,8MP Rear Camera,,4G,,,,,5000 mAh,53 mm,124 mm,190 g,Dual Sim,No,Primary Camera,VertMenthe
+KARBONN,KX 29,1538,3.8,Dual Sim,No,No,2.4,Android Android12,,32 MB,0.3MP Rear Camera,,2G,,,,,2700 mAh,53 mm,124 mm,190 g,Dual Sim,No,,Black + Red
+Nokia,105 ss,1599,4.3,Single Sim,No,No,1.8,Android Android12,,4 MB,0.3MP Rear Camera,,2G,,,,Mini SIM,800 mAh,53 mm,124 mm,190 g,Single Sim,No,,Black
+itel,A60,5897,4,Dual Sim,No,Yes,6.6,Android Android12,,32 GB,8MP Rear Camera,,4G,,,,,5000 mAh,53 mm,124 mm,190 g,Dual Sim,No,Primary Camera,DawnBlue
+Xiaomi,11i Hypercharge 5G,22990,4.2,Dual Sim,Yes,Yes,6.67,Android 11,Octa Core,128 GB,108MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano,4500 mAh,76.19 mm,163.65 mm,204 g,Dual Sim,Yes,Primary Camera,Stealth Black
+itel,P40,6599,4,Dual Sim,No,Yes,6.6,Android 12,Hexa Core,32 GB,13MP Rear Camera,,4G VOLTE,,,,Nano,6000 mAh,76.19 mm,163.65 mm,204 g,Dual Sim,No,Primary Camera,Dreamy Blue
+APPLE,iPhone SE 3rd Gen,32699,4.4,Dual Sim(Nano + eSIM),No,Yes,4.7,iOS 15,Hexa Core,64 GB,12MP Rear Camera,7MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim + eSIM,6000 mAh,67.3 mm,138.4 mm,144 g,Dual Sim(Nano + eSIM),No,,Product (Red)
+APPLE,iPhone 13 Pro Max,109999,4.6,Dual Sim,No,Yes,6.7,iOS 15,Hexa Core,512 GB,12MP + 12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,6000 mAh,78.1 mm,160.8 mm,238 g,Dual Sim,No,Primary Camera,Alpine Green
+Infinix,Zero Ultra,36999,4,Dual Sim,No,Yes,6.8,Android 12,Octa Core,256 GB,200MP + 13MP + 2MP,32MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,4500 mAh,75.08 mm,165.5 mm,213 g,Dual Sim,No,Primary Camera,Genesis Noir
+Infinix,HOT 20 5G,13208,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,50MP + AI Lens,8MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.45 mm,166.25 mm,204 g,Dual Sim,No,,Racing Black
+itel,P40,6965,4.1,Dual Sim,No,Yes,6.6,Android Q,Octa Core,64 GB,13MP Rear Camera,,"4G VOLTE, 4G",,,,Nano Sim,6000 mAh,76.45 mm,166.25 mm,204 g,Dual Sim,No,,Dreamy Blue
+I,K26,749,3.5,Dual Sim,No,No,1.77,,,32 MB,0.3MP Rear Camera,,2G,,,,Normal,1000 mAh,,,0.2 g,Dual Sim,No,,Green
+MTR,Ferrari,1350,4.1,Dual Sim,No,No,1.77,,,64 MB,0.3MP Rear Camera,,2G,,,,Normal,800 mAh,,,0.2 g,Dual Sim,No,,Yellow
+Snexian,GURU 312,630,3.3,Dual Sim,No,No,1.8,0,,32 MB,0.3MP Rear Camera,,2G,,No,,,800 mAh,,,0.2 g,Dual Sim,No,,Black
+REDMI,A2,6476,4.1,Dual Sim,No,Yes,6.52,Android Android 12,Octa Core,32 GB,8MP Rear Camera,,"4G, 3G",,Yes,,,5000 mAh,,,0.2 g,Dual Sim,No,Primary Camera,Classic Black
+itel,P40,6599,4,Dual Sim,No,Yes,6.6,Android 12,Hexa Core,32 GB,13MP Rear Camera,,4G VOLTE,,,,,6000 mAh,,,0.2 g,Dual Sim,No,Primary Camera,Luxurious Gold
+MTR,Ferrari,1350,4.1,Dual Sim,No,No,1.77,,,64 MB,0.3MP Rear Camera,,2G,,,,,800 mAh,,,0.2 g,Dual Sim,No,,Red
+REDMI,A2,6699,4.1,Dual Sim,No,Yes,6.52,Android Android 12,Octa Core,32 GB,8MP Rear Camera,,"4G, 3G",,Yes,,,5000 mAh,,,0.2 g,Dual Sim,No,Primary Camera,Sea Green
+Kechaoda,K66 The Music House 4,1165,3.9,Dual Sim,Yes,No,1.44,0,,64 MB,1.3MP Rear Camera,,2G,,,,,400 mAh,,,0.2 g,Dual Sim,Yes,Primary Camera,Drak Blue
+OPPO,Reno10 Pro+ 5G,54999,4.5,Dual Sim,No,Yes,6.74,Android 13,Octa Core,256 GB,50MP + 64MP + 8MP,32MP Front Camera,"5G, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,4700 mAh,,,195 g,Dual Sim,No,Primary Camera,Silvery Grey
+Nothing,Phone (2),54999,4.4,Dual Sim,No,Yes,6.7,Android 13,Octa Core,512 GB,50 MP(OIS) +50MP,32MP Front Camera,"5G, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,4700 mAh,76.4 mm,162.1 mm,201.2 g,Dual Sim,No,Primary Camera,White
+KARBONN,K110i,949,3.6,Dual Sim,,,1.8,,,,,,,,No,,,1000 mAh,76.4 mm,162.1 mm,201.2 g,Dual Sim,,,Black
+Kechaoda,K28,1299,4,Dual Sim,No,No,2.4,,,64 MB,0.3MP Rear Camera,,2G,,No,,,1700 mAh,76.4 mm,162.1 mm,201.2 g,Dual Sim,No,,Blue
+KARBONN,K531,1395,3.9,Dual Sim,No,No,2.4,,,32 MB,0.3MP Rear Camera,,2G,,,,,1800 mAh,76.4 mm,162.1 mm,201.2 g,Dual Sim,No,,White & Red
+KARBONN,K110i,945,3.6,Dual Sim,No,No,1.8,,,0 MB,,,2G,,No,,,1000 mAh,76.4 mm,162.1 mm,201.2 g,Dual Sim,No,,Blue
+MOTOROLA,g13,9999,4,Dual Sim,No,Yes,6.5,Android 13,Octa Core,128 GB,50MP + 2MP + 2MP,8MP Front Camera,"2G, 3G, 4G",v4.2,Yes,Yes,Nano Sim,5000 mAh,74.66 mm,162.7 mm,182 g,Dual Sim,No,Primary Camera,Matte Charcoal
+KARBONN,K531,1389,3.9,Dual Sim,No,No,2.4,,,32 MB,0.3MP Rear Camera,,2G,,,,,1800 mAh,74.66 mm,162.7 mm,182 g,Dual Sim,No,,Black & Red
+Nokia,"106 4G Keypad Mobile, Long-Lasting Battery, MicroSD Card Slot",2539,3.9,Dual Sim,No,No,1.77,,,32 MB,0MP,0MP Front Camera,4G,,No,No,Nano Sim,1450 mAh,,,93 g,Dual Sim,No,,Charcoal
+Tecno,Pop 7 pro,7490,4.8,Dual Sim,No,Yes,6.56,Android Android 12.0,Octa Core,64 GB,12MP Rear Camera,,4G VOLTE,,,,Nano Sim,5000 mAh,,,93 g,Dual Sim,No,Primary Camera,?Uyuni Blue
+itel,iPower 430 Triple sim|2500 mAh Battery|Expandable Storage upto 32GB,1549,4,Triple Sim,No,No,2.4,Nucleus,,8 MB,0.3MP Rear Camera,,2G,,,,MINI,2500 mAh,,,93 g,Triple Sim,No,Primary Camera,Orange
+SAMSUNG,Galaxy A34 5G,30999,4.2,Dual Sim,Yes,Yes,6.6,Android 13,Octa Core,256 GB,48MP + 8MP + 5MP,13MP Front Camera,"2G, 3G, 4G VOLTE, 5G",v5.2,Yes,Yes,Nano Sim,5000 mAh,78.1 mm,161.3 mm,198 g,Dual Sim,Yes,Primary Camera,Awesome Graphite
+itel,Vision2S,6283,4,Dual Sim,No,Yes,6.52,Android 11,Octa Core,32 GB,8MP + VGA Dual AI Camera,5MP Front Camera,"4G, 3G, 2G",v4.2,Yes,Yes,Dual Nano,5000 mAh,76.3 mm,166 mm,,Dual Sim,No,Primary Camera,Gradation Purple
+itel,Ace2 Keypad Mobile| 1000 mAh Battery|Expandable Storage 32GB,999,4,Dual Sim,No,No,1.8,,,4 MB,,0MP Front Camera,2G,,,,Micro Sim,1000 mAh,49 mm,114 mm,52.2 g,Dual Sim,No,,Deep Blue
+Nothing,Phone (2),44999,4.4,Dual Sim,No,Yes,6.7,Android 13,Octa Core,128 GB,50 MP(OIS) +50MP,32MP Front Camera,"5G, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,4700 mAh,76.4 mm,162.1 mm,201.2 g,Dual Sim,No,Primary Camera,Dark Grey
+vivo,T1 44W,14499,4.5,Dual Sim,Yes,Yes,6.44,Android 12,Octa Core,128 GB,50MP + 2MP + 2MP,16MP Front Camera,"4G, 3G, 2G",v5.1,,Yes,Nano Sim,5000 mAh,73.79 mm,160.8 mm,182 g,Dual Sim,Yes,Primary Camera,Midnight Galaxy
+Snexian,Rock,1499,4,Dual Sim,No,No,1.7,0,,32 MB,0.3MP Rear Camera,,2G,,,,Nano Sim,800 mAh,73.79 mm,160.8 mm,182 g,Dual Sim,No,,Red
+OPPO,A17,11999,4.3,Dual Sim,No,Yes,6.56,Android 12,Octa Core,64 GB,50MP + 0.3MP + 0.3MP,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,75.6 mm,164.2 mm,189 g,Dual Sim,No,Primary Camera,Sunlight Orange
+APPLE,iPhone 14 Pro,119900,4.6,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 16,Hexa Core,128 GB,48MP + 12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,5000 mAh,71.5 mm,147.5 mm,206 g,Dual Sim(Nano + eSIM),No,Primary Camera,Gold
+Tecno,Pop 7 pro,7199,4.8,Dual Sim,No,Yes,6.56,Android Android 12.0,Octa Core,64 GB,12MP Rear Camera,,4G VOLTE,,,,Nano Sim + eSIM,5000 mAh,71.5 mm,147.5 mm,206 g,Dual Sim,No,Primary Camera,?Endless Black
+Snexian,Rock,1499,4,Dual Sim,No,No,1.7,0,,32 MB,0.3MP Rear Camera,,2G,,,,Normal,800 mAh,71.5 mm,147.5 mm,206 g,Dual Sim,No,,Blue
+APPLE,iPhone 14 Pro Max,127999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 16,Hexa Core,128 GB,48MP + 12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,4323 mAh,77.6 mm,160.7 mm,240 g,Dual Sim(Nano + eSIM),No,Primary Camera,Space Black
+Tecno,Pova 3,10598,4.2,Dual Sim,No,Yes,6.9,Android 12,Octa Core,64 GB,50MP + 2MP + 2MP,8MP Front Camera,"4G VOLTE, 4G",5,Yes,Yes,Nano-SIM,7000 mAh,78.46 mm,173.1 mm,,Dual Sim,No,Primary Camera,Tech Silver
+Snexian,Guru Music 1,630,3.5,Dual Sim,No,No,1.77,,,32 MB,1MP Rear Camera,,2G,,,,,850 mAh,78.46 mm,173.1 mm,,Dual Sim,No,,Gold
+OPPO,Reno8T 5G,29999,4.3,Dual Sim,Yes,Yes,6.7,Android 13,Octa Core,128 GB,108MP + 2MP + 2MP,32MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,4800 mAh,74.3 mm,162.3 mm,171 g,Dual Sim,Yes,Primary Camera,Sunrise Gold
+itel,Power 440| 2500 mAh battery| Expandable Storage Upto 32GB,1459,4,Dual Sim,No,No,2.4,,Single Core,32 MB,0.3MP Rear Camera,,2G,,,,,2500 mAh,74.3 mm,162.3 mm,171 g,Dual Sim,No,,Deep Blue
+Snexian,GURU 312,670,3.3,Dual Sim,No,No,1.8,0,,32 MB,0.3MP Rear Camera,,2G,,No,,,800 mAh,74.3 mm,162.3 mm,171 g,Dual Sim,No,,Blue
+Kechaoda,K60,1799,4.1,Dual Sim,No,No,2.4,0,,32 MB,0.3MP Rear Camera,0.3MP Front Camera,2G,,No,,Normal SIM,3600 mAh,74.3 mm,162.3 mm,171 g,Dual Sim,No,,Black
+APPLE,Iphone 15 Pro,144900,4.7,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 17,Hexa Core,256 GB,48MP + 12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,3600 mAh,70.6 mm,146.6 mm,187 g,Dual Sim(Nano + eSIM),No,Primary Camera,White Titanium
+SAMSUNG,Galaxy Z Flip3 5G,95999,4.3,Dual Sim,No,Yes,6.7,Android 11,Octa Core,128 GB,12MP + 12MP,10MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim & E-Sim,3300 mAh,72.2 mm,,183 g,Dual Sim,No,Primary Camera,Cream
+OnePlus,11R 5G,39688,4.5,Dual Sim,No,Yes,6.7,Android Oxygen OxygenOS based on Android 13,Octa Core,128 GB,50MP Rear Camera,,5G,,,,Nano Sim & E-Sim,5000 mAh,72.2 mm,,183 g,Dual Sim,No,Primary Camera,Sonic Black
+Good,G5605,999,3.8,Dual Sim,No,No,1.8,,,32 MB,2MP Rear Camera,,2G,,,,,2500 mAh,72.2 mm,,183 g,Dual Sim,No,,Blue
+vivo,V23 Pro 5G,33980,4.2,Dual Sim,No,Yes,6.56,Android 12,Octa Core,256 GB,108MP + 8MP + 2MP,50MP + 8MP Dual Front Camera,"5G, 4G, 3G, 2G",v5.2,Yes,Yes,Nano SIM,4300 mAh,73.27 mm,159.46 mm,171 g,Dual Sim,No,Primary & Secondary Camera,Stardust Black
+I,S2 Pro,9999,3.7,Dual Sim,Yes,Yes,6.8,Android Q 13.0,Hexa Core,128 GB,21MP + 5MP + 2MP,8MP Front Camera,4G VOLTE,5.1,Yes,Yes,Nano,5000 mAh,,,300 g,Dual Sim,Yes,Primary Camera,Deep purple
+KARBONN,K310i,959,3.7,Dual Sim,No,No,1.8,Android Q 13.0,Hexa Core,10 MB,,,2G,,,,,800 mAh,,,300 g,Dual Sim,No,,Sky Blue
+HOTLINE,H310,647,3.3,Dual Sim,No,No,1.8,,,32 MB,0.3MP Rear Camera,,2G,,,,,1000 mAh,,,300 g,Dual Sim,No,,Dark Blue
+Nokia,130M DS 2023,2149,4.1,Dual Sim,No,No,2.4,Series 30+,,4 MB,0.3MP Rear Camera,,2G,,,,,1450 mAh,,,300 g,Dual Sim,No,,Light Gold
+POCO,F5 5G,30999,4.3,Dual Sim,No,Yes,6.67,Android 13,Octa Core,256 GB,64MP (OIS) + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,74.95 mm,161.11 mm,181 g,Dual Sim,No,Primary Camera,Snowstorm White
+Kechaoda,K60,1799,4.1,Dual Sim,No,No,2.4,0,,32 MB,0.3MP Rear Camera,0.3MP Front Camera,2G,,No,,Normal SIM,3600 mAh,74.95 mm,161.11 mm,181 g,Dual Sim,No,,Gold
+OnePlus,11 5G,59838,4.5,Dual Sim,No,Yes,6.7,Android OxygenOS based on Android 13,Octa Core,256 GB,50MP Rear Camera,16MP Front Camera,5G,,,,Normal SIM,5000 mAh,74.95 mm,161.11 mm,181 g,Dual Sim,No,Primary Camera,Titan Black
+Kechaoda,K33,1129,4,Dual Sim,No,No,1.4,0,,32 MB,0.3MP Rear Camera,,2G,,,,,800 mAh,74.95 mm,161.11 mm,181 g,Dual Sim,No,,Gold
+REDMI,Note 12 Pro 5G,28999,4,Dual Sim,No,Yes,6.67,Android 12,Octa Core,256 GB,50MP (OIS) + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,76.03 mm,162.9 mm,187 g,Dual Sim,No,Primary Camera,Glacier Blue
+itel,Power 440| 2500 mAh battery| Expandable Storage Upto 32GB,1459,4,Dual Sim,No,No,2.4,,Single Core,32 MB,0.3MP Rear Camera,,2G,,,,,2500 mAh,76.03 mm,162.9 mm,187 g,Dual Sim,No,,Black
+vivo,T1 44W,17999,4.3,Dual Sim,Yes,Yes,6.44,Android 12,Octa Core,128 GB,50MP + 2MP + 2MP,16MP Front Camera,"4G, 3G, 2G",v5.1,,Yes,Nano Sim,5000 mAh,73.79 mm,160.8 mm,182 g,Dual Sim,Yes,Primary Camera,Ice Dawn
+SAMSUNG,GALAXY M13,10639,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,50MP Rear Camera,,4G,,,,Nano Sim,6000 mAh,73.79 mm,160.8 mm,182 g,Dual Sim,No,Primary Camera,Aqua Green
+Infinix,Hot 20 5G,15321,4.1,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50MP + AI Lens,8MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.45 mm,166.25 mm,204 g,Dual Sim,No,,Space Blue
+OPPO,Reno10 Pro+ 5G,54999,4.5,Dual Sim,No,Yes,6.74,Android 13,Octa Core,256 GB,50MP + 64MP + 8MP,32MP Front Camera,"2G, 3G, 4G, 5G",v5.2,Yes,Yes,Nano Sim,4700 mAh,,,195 g,Dual Sim,No,Primary Camera,Glossy Purple
+Mi,10i,20990,4.1,Dual Sim,Yes,Yes,6.67,Android Q 11,Octa Core,128 GB,108MP + 8MP + 2MP + 2MP,16MP Front Camera,5G,,Yes,Yes,nano,4820 mAh,76.8 mm,165.38 mm,214.5 g,Dual Sim,Yes,Primary Camera,Midnight Black
+Infinix,Hot 20 5G,15321,4.1,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50MP + AI Lens,8MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.45 mm,166.25 mm,204 g,Dual Sim,No,,Blaster Green
+APPLE,iPhone 13 Pro,99999,4.7,Dual Sim,No,Yes,6.1,iOS 15,Hexa Core,512 GB,12MP + 12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,5000 mAh,71.5 mm,146.7 mm,203 g,Dual Sim,No,Primary Camera,Gold
+Kechaoda,K115,1100,4.1,Dual Sim,No,No,1.44,iOS 15,Hexa Core,32 MB,0.3MP Rear Camera,,2G,,,,Micro SIM,850 mAh,71.5 mm,146.7 mm,203 g,Dual Sim,No,Primary Camera,Rose Gold
+KARBONN,Y1,998,3.8,Dual Sim,No,No,1.8,,,32 MB,0.3MP Rear Camera,,2G,,,,F,800 mAh,50 mm,150 mm,200 g,Dual Sim,No,,Black & red
+APPLE,Iphone 15 Pro Max,179900,4.8,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 17,Hexa Core,512 GB,48MP + 12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,800 mAh,76.7 mm,159.9 mm,221 g,Dual Sim(Nano + eSIM),No,Primary Camera,White Titanium
+Infinix,Zero 20,17999,4.1,Dual Sim,No,Yes,6.7,Android 12,Octa Core,128 GB,108MP + 13MP + 2MP,60 MP with OIS,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,4500 mAh,76.66 mm,164.43 mm,196 g,Dual Sim,No,Primary Camera,Green Fantasy
+SAMSUNG,Galaxy A04,14999,3.9,Dual Sim,No,Yes,6.5,Android 12,,64 GB,50MP + 2MP,5MP Front Camera,"4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,76.3 mm,164.4 mm,192 g,Dual Sim,No,Primary Camera,Green
+SAMSUNG,Galaxy A54 5G,38999,4.3,Dual Sim,Yes,Yes,6.4,Android 13,Octa Core,256 GB,50MP + 12MP + 5MP,32MP Front Camera,"2G, 3G, 4G, 5G",v5.3,Yes,Yes,Nano Sim,5000 mAh,76.7 mm,158.2 mm,202 g,Dual Sim,Yes,Primary Camera,Awesome Graphite
+Kechaoda,K115,1100,4.1,Dual Sim,No,No,1.44,Android 13,Octa Core,32 MB,0.3MP Rear Camera,,2G,,,,Micro SIM,850 mAh,76.7 mm,158.2 mm,202 g,Dual Sim,No,,Pink
+Kechaoda,K115,1105,4.1,Dual Sim,No,No,1.44,Android 13,Octa Core,32 MB,0.3MP Rear Camera,,"2G, 3G",,,,Micro SIM,850 mAh,76.7 mm,158.2 mm,202 g,Dual Sim,No,,Blue
+REDMI,A1,6490,4.2,Dual Sim,No,Yes,6.52,Android,,32 GB,5MP Rear Camera,5MP Front Camera,4G,,,,Micro SIM,5000 mAh,76.7 mm,158.2 mm,202 g,Dual Sim,No,Primary Camera,Black
+Mi,10i,20999,4.3,Dual Sim,Yes,Yes,6.67,Android Q 11,Octa Core,128 GB,108MP + 8MP + 2MP + 2MP,16MP Front Camera,5G,,Yes,Yes,nano,4820 mAh,76.8 mm,165.38 mm,214.5 g,Dual Sim,Yes,Primary Camera,Atlantic Blue
+LAVA,LF9000,1689,4.2,Dual Sim,No,No,2.8,,,20 MB,1.3MP Rear Camera,,2G,,,,,2575 mAh,76.8 mm,165.38 mm,214.5 g,Dual Sim,No,,Blue
+LAVA,LF9000,1689,4.2,Dual Sim,No,No,2.8,,,20 MB,1.3MP Rear Camera,,2G,,,,,2575 mAh,76.8 mm,165.38 mm,214.5 g,Dual Sim,No,,BLACK GOLD
+Kechaoda,A27,973,4,Dual Sim,No,No,0.66,,,32 MB,1.3MP Rear Camera,,2G,,No,,Micro SIM,800 mAh,76.8 mm,165.38 mm,214.5 g,Dual Sim,No,,Gold
+Kechaoda,K115,1105,4.1,Dual Sim,No,No,1.44,,,32 MB,0.3MP Rear Camera,,2G,,,,Micro SIM,850 mAh,76.8 mm,165.38 mm,214.5 g,Dual Sim,No,,Orange
+Infinix,Zero 5G 2023 TURBO,19999,4.1,Dual Sim,No,Yes,6.78,Android 12,Octa Core,256 GB,50MP + 2MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.53 mm,168.73 mm,199 g,Dual Sim,No,Primary Camera,Coral Orange
+realme,Narzo 60 5g,19987,4.3,Dual Sim,No,Yes,6.43,Android Android 13,Octa Core,256 GB,64MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,76.53 mm,168.73 mm,199 g,Dual Sim,No,Primary Camera,Cosmic Black
+LAVA,A1 2021,1129,4,Dual Sim,No,No,1.77,,,24 MB,0.3MP Rear Camera,,2G,,No,,Micro+Micro,800 mAh,48 mm,112.2 mm,70 g,Dual Sim,No,,Black Gold
+Tecno,Spark Go 2023,6999,4.1,Dual Sim,No,Yes,6.56,Android 12,Quad Core,32 GB,13MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G",,Yes,Yes,Nano-SIM,5000 mAh,75.51 mm,163.86 mm,,Dual Sim,No,Primary Camera,Nebula Purple
+APPLE,iPhone 14 Pro,119900,4.6,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 16,Hexa Core,128 GB,48MP + 12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,5000 mAh,71.5 mm,147.5 mm,206 g,Dual Sim(Nano + eSIM),No,Primary Camera,Silver
+LAVA,A1 2021,1149,4.1,Dual Sim,No,No,1.77,,,0 MB,0.3MP Rear Camera,,2G,,,,Micro+Micro,800 mAh,48 mm,112.2 mm,70 g,Dual Sim,No,,Candy Blue L
+LAVA,A3,1387,4.2,Dual Sim,No,No,1.77,,,0 GB,0.3MP Rear Camera,0.3MP Front Camera,2G,2,No,No,Full Size Sim,1750 mAh,4 mm,15 mm,109 g,Dual Sim,No,,WHITE BEIGE PA
+Kechaoda,K112,1590,4,Triple Sim,No,No,2.4,,,64 MB,0.3MP Rear Camera,,2G,,No,,,3600 mAh,4 mm,15 mm,109 g,Triple Sim,No,,Black
+Tecno,Camon 20 Pro RGBW OIS Rear Camera 6.67 FHD,19837,4.1,Dual Sim,No,Yes,6.67,Android 13,Octa Core,128 GB,64MP + 2MP + 2MP,32MP Front Camera,"5G, 4G VOLTE, 4G",5.2,Yes,Yes,Nano-SIM,5000 mAh,,,193 g,Dual Sim,No,Primary Camera,Serenity Blue
+Kechaoda,K33,1150,4,Dual Sim,No,No,1.4,0,,32 MB,0.3MP Rear Camera,,2G,,,,,800 mAh,,,193 g,Dual Sim,No,,Silver
+MTR,Ferrari,1350,4.1,Dual Sim,No,No,1.77,,,64 MB,0.3MP Rear Camera,,2G,,,,,800 mAh,,,193 g,Dual Sim,No,,Black
+vivo,V23 Pro 5G,26899,4.3,Dual Sim,No,Yes,6.56,Android 12,Octa Core,128 GB,108MP + 8MP + 2MP,50MP + 8MP Dual Front Camera,"5G, 4G, 3G, 2G",v5.2,Yes,Yes,Nano SIM,4300 mAh,73.27 mm,159.46 mm,171 g,Dual Sim,No,Primary & Secondary Camera,Stardust Black
+Micromax,X708,1338,3.9,Dual Sim,No,No,2.4,,Single Core,32 MB,0.3MP Rear Camera,,2G,,,,Nano SIM,1450 mAh,73.27 mm,159.46 mm,171 g,Dual Sim,No,Primary Camera,Black+Blue
+IQOO,Neo 7,32699,4.4,Dual Sim,Yes,Yes,6.78,Android Q 13,Octa Core,256 GB,64MP + 2MP + 2MP,16MP + 16MP Dual Front Camera,"5G, 4G VOLTE",5.3,Yes,,,5000 mAh,7.7 mm,16.5 mm,,Dual Sim,Yes,Primary Camera,Frost Blue
+Tecno,Spark 10,9899,4.4,Dual Sim,No,Yes,6.6,Android Android13,Dual Core,128 GB,50MP Rear Camera,,4G VOLTE,,,,,5000 mAh,7.7 mm,16.5 mm,,Dual Sim,No,Primary Camera,Magic Skin Orange
+APPLE,Iphone 15,89900,4.8,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 17,Hexa Core,256 GB,48MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,5000 mAh,71.6 mm,147.6 mm,171 g,Dual Sim(Nano + eSIM),No,Primary Camera,Blue
+SAREGAMA,Carvaan Mobile Tamil M21,2490,3.5,Dual Sim,No,No,2.4,,Single Core,2 GB,0.3MP Rear Camera,,2G,,,,,2500 mAh,57 mm,127 mm,203 g,Dual Sim,No,,Emerald Green
+Infinix,Hot 12,9999,4.2,Dual Sim,No,Yes,6.82,Android 11,Octa Core,64 GB,50 MP + 2 MP Depth Lens + AI Lens,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,6000 mAh,77.5 mm,171.5 mm,,Dual Sim,No,,Polar Black
+Google,Pixel 7a,43999,4,Dual Sim(Nano + eSIM),No,Yes,6.1,Android 13,,128 GB,64MP (OIS) + 13MP,13MP Front Camera,5G,v5.3,,,Nano Sim,4300 mAh,72.9 mm,152 mm,193.5 g,Dual Sim(Nano + eSIM),No,Primary Camera,Sea
+Kechaoda,A27,970,4,Dual Sim,No,No,0.66,Android 13,,32 MB,64MP (OIS) + 13MP,13MP Front Camera,2G,,No,,Micro SIM,800 mAh,72.9 mm,152 mm,193.5 g,Dual Sim,No,Primary Camera,Rose Gold
+Kechaoda,K60,1775,4.1,Dual Sim,No,No,2.4,0,,32 MB,0.3MP Rear Camera,0.3MP Front Camera,2G,,No,,Normal SIM,3600 mAh,72.9 mm,152 mm,193.5 g,Dual Sim,No,,Grey
+Google,Pixel 7a,43999,4,Dual Sim(Nano + eSIM),No,Yes,6.1,Android 13,,128 GB,64MP (OIS) + 13MP,13MP Front Camera,5G,v5.3,,,Nano Sim,4300 mAh,72.9 mm,152 mm,193.5 g,Dual Sim(Nano + eSIM),No,Primary Camera,Charcoal
+vivo,V27 Pro 5G,39999,4.4,Dual Sim,No,Yes,6.78,Android 13,Octa Core,256 GB,50MP (OIS) + 8MP + 2MP,50MP Front Camera,"5G, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,4600 mAh,74.8 mm,164.1 mm,182 g,Dual Sim,No,Primary Camera,Magic Blue
+vivo,V27 Pro 5G,42999,4.4,Dual Sim,No,Yes,6.78,Android 13,Octa Core,256 GB,50MP (OIS) + 8MP + 2MP,50MP Front Camera,"5G, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,4600 mAh,74.8 mm,164.1 mm,182 g,Dual Sim,No,Primary Camera,Noble Black
+APPLE,Iphone 15 Pro,144900,4.7,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 17,Hexa Core,256 GB,48MP + 12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,4600 mAh,70.6 mm,146.6 mm,187 g,Dual Sim(Nano + eSIM),No,Primary Camera,Natural Titanium
+itel,IT5626,1770,4,Triple Sim,No,No,2.8,,,8 MB,0.3MP Rear Camera,,2G,v2.1,No,,2 x Mini SIM + 1 x Micro SIM,2500 mAh,57.8 mm,139.5 mm,153.4 g,Triple Sim,No,,Black
+SAMSUNG,Galaxy A14 5G,15999,4.1,Dual Sim,Yes,Yes,6.6,Android 13,Octa Core,64 GB,50MP + 2MP,13MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,78 mm,167.7 mm,202 g,Dual Sim,Yes,Primary Camera,Dark Red
+Infinix,Hot 12,9999,4.2,Dual Sim,No,Yes,6.82,Android 11,Octa Core,64 GB,50 MP + 2 MP Depth Lens + AI Lens,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,6000 mAh,77.5 mm,171.5 mm,,Dual Sim,No,,Exploratory Blue
+realme,GT 2 Pro,37999,4.4,Dual Sim,No,Yes,6.7,Android 12,Octa Core,256 GB,50MP + 50MP + 2MP,32MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,,Yes,Nano Sim,5000 mAh,74.7 mm,163.2 mm,199 g,Dual Sim,No,Primary Camera,Steel Black
+Kechaoda,K115,1105,4.1,Dual Sim,No,No,1.44,Android 12,Octa Core,32 MB,0.3MP Rear Camera,,2G,,,,Micro SIM,850 mAh,74.7 mm,163.2 mm,199 g,Dual Sim,No,,Silver
+LAVA,A5,1436,4.1,Dual Sim,No,No,2.4,,,24 MB,0.3MP Rear Camera,,2G,,,,,1000 mAh,51 mm,123 mm,,Dual Sim,No,,Blue+silver S
+realme,C30,5999,4.2,Dual Sim,No,Yes,6.5,Android 11,Octa Core,32 GB,8MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,,Yes,Nano Sim,5000 mAh,75.6 mm,164.1 mm,182 g,Dual Sim,No,,Denim Black
+Micromax,X702,1121,3.6,Dual Sim,No,No,2.4,,Single Core,32 MB,0.3MP Rear Camera,,2G,,,,Nano Sim,1000 mAh,75.6 mm,164.1 mm,182 g,Dual Sim,No,Primary Camera,Blue
+Google,Pixel 7a,43999,4,Dual Sim(Nano + eSIM),No,Yes,6.1,Android 13,,128 GB,64MP (OIS) + 13MP,13MP Front Camera,5G,v5.3,,,Nano Sim,4300 mAh,72.9 mm,152 mm,193.5 g,Dual Sim(Nano + eSIM),No,Primary Camera,Coral
+APPLE,iPhone 14 Pro,119900,4.6,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 16,Hexa Core,128 GB,48MP + 12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,4300 mAh,71.5 mm,147.5 mm,206 g,Dual Sim(Nano + eSIM),No,Primary Camera,Space Black
+Eunity,U1 310,597,3.1,Dual Sim,No,No,1.8,,,16 MB,0.3MP Rear Camera,,2G,,,,,1000 mAh,71.5 mm,147.5 mm,206 g,Dual Sim,No,,Blue & Green
+APPLE,iPhone 14,74999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 16,Hexa Core,256 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,1000 mAh,71.5 mm,146.7 mm,172 g,Dual Sim(Nano + eSIM),No,Primary Camera,Midnight
+I,K26,749,3.5,Dual Sim,No,No,1.77,,,32 MB,0.3MP Rear Camera,,2G,,,,Normal,1000 mAh,12 mm,6 mm,0.2 g,Dual Sim,No,,Sky Blue
+I,Z17 Pro,7599,3.3,Dual Sim,Yes,Yes,6.5,Android Q 11.0,Quad Core,64 GB,13MP Rear Camera,8MP Front Camera,4G VOLTE,,Yes,,,5000 mAh,,,300 g,Dual Sim,Yes,Primary Camera,Champagne
+Nokia,105 SS 2021,1599,4.2,Single Sim,No,No,1.77,,,4 MB,13MP Rear Camera,8MP Front Camera,2G,,,,Mini SIM,800 mAh,49.2 mm,119 mm,72 g,Single Sim,No,Primary Camera,Black
+SAMSUNG,Galaxy S22 Ultra 5G,85240,4.4,Dual Sim,No,Yes,6.8,Android 12,Octa Core,256 GB,108MP + 12MP + 10MP + 10MP,40MP Front Camera,"5G, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,77.9 mm,163.3 mm,228 g,Dual Sim,No,Primary Camera,Phantom Black
+Google,Pixel 7a,43999,4,Dual Sim(Nano + eSIM),No,Yes,6.1,Android 13,,128 GB,64MP (OIS) + 13MP,13MP Front Camera,5G,v5.3,,,Nano Sim,4300 mAh,72.9 mm,152 mm,193.5 g,Dual Sim(Nano + eSIM),No,Primary Camera,Snow
+LAVA,Flip,1990,4.1,Dual Sim,No,No,2.4,,Single Core,56 MB,0.08MP Rear Camera,,2G,,,,Nano Sim,1200 mAh,72.9 mm,152 mm,193.5 g,Dual Sim,No,,Blue
+Kechaoda,K113,1420,4,Dual Sim,No,No,2.8,,,64 MB,0.3MP Rear Camera,,2G,,No,,,3000 mAh,72.9 mm,152 mm,193.5 g,Dual Sim,No,,Blue
+Nothing,Phone (1),42999,4.3,Dual Sim,No,Yes,6.55,Android 12,Octa Core,256 GB,50MP + 50MP,16MP Front Camera,"5G, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,4500 mAh,76 mm,159 mm,194 g,Dual Sim,No,Primary Camera,Black
+POCO,F5 5G,30999,4.3,Dual Sim,No,Yes,6.67,Android 13,Octa Core,256 GB,64MP (OIS) + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,74.95 mm,161.11 mm,181 g,Dual Sim,No,Primary Camera,Electric Blue
+APPLE,iPhone 13 Pro Max,109999,4.6,Dual Sim,No,Yes,6.7,iOS 15,Hexa Core,512 GB,12MP + 12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,5000 mAh,78.1 mm,160.8 mm,238 g,Dual Sim,No,Primary Camera,Graphite
+MOTOROLA,Edge 40,29999,4.2,Dual Sim(Physical + eSIM),No,Yes,6.5,Android 13,Octa Core,256 GB,50MP + 13MP,32MP Front Camera,"5G, 4G, 3G, 2G",v5.2,Yes,Yes,,4400 mAh,71.99 mm,158.43 mm,171 g,Dual Sim(Physical + eSIM),No,Primary Camera,Lunar Blue
+Nokia,"150 Dual Sim Keypad Mobile,Wireless FM radio, Bluetooth, MP3 player",2495,4.1,Dual Sim,No,No,2.4,Series 30+,,4 MB,0.3MP Rear Camera,,2G,v3.0,No,No,Mini SIM,1020 mAh,50.5 mm,132 mm,90.5 g,Dual Sim,No,,Black
+vivo,Y35,16290,4.4,Dual Sim,No,Yes,6.58,Android 12,Octa Core,128 GB,50MP + 2MP + 2MP,16MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.1 mm,164.3 mm,188 g,Dual Sim,No,Primary Camera,Dawn Gold
+Infinix,Hot 20 5G,15321,4.1,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50MP + AI Lens,8MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.45 mm,166.25 mm,204 g,Dual Sim,No,,Racing Black
+Nothing,Phone (1),42999,4.3,Dual Sim,No,Yes,6.55,Android 12,Octa Core,256 GB,50MP + 50MP,16MP Front Camera,"5G, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,4500 mAh,76 mm,159 mm,194 g,Dual Sim,No,Primary Camera,White
+Tecno,POP 7 Pro,7489,4.1,Dual Sim,No,Yes,6.56,Android 12,Octa Core,64 GB,13MP Rear Camera,,"4G VOLTE, 4G, 3G",,,,Nano Sim,5000 mAh,76 mm,159 mm,194 g,Dual Sim,No,,Uyuni Blue
+Peace,P3,749,3.7,Dual Sim,No,No,1.8,,,64 MB,0.3MP Rear Camera,,2G,,,,Nano Sim,850 mAh,76 mm,159 mm,194 g,Dual Sim,No,,Red & Black
+itel,A60S,7089,4.1,Dual Sim,No,Yes,6.6,Android Q 12,Octa Core,128 GB,8MP Rear Camera,,4G,,,,,5000 mAh,76 mm,159 mm,194 g,Dual Sim,No,Primary Camera,Moonlit Violet
+Micromax,X809,1299,3.7,Dual Sim,No,No,2.8,,,32 MB,1MP Rear Camera,,2G,,,,,1000 mAh,76 mm,159 mm,194 g,Dual Sim,No,,Black
+REDMI,Note 10S,14999,4.4,Dual Sim,No,Yes,6.43,Android 11,Octa Core,64 GB,64MP + 8MP + 2MP + 2MP,13MP Front Camera,"4G VOLTE, 4G, 3G, 2G",V5.0,Yes,Yes,Nano Sim,5000 mAh,74.5 mm,160.46 mm,178.8 g,Dual Sim,No,Primary Camera,Frost White
+KARBONN,K140 Pop,899,3.9,Dual Sim,No,No,1.8,,,32 MB,0.3MP Rear Camera,,2G,,,,,1000 mAh,74.5 mm,160.46 mm,178.8 g,Dual Sim,No,,Red
+UiSmart,Ui-06,1599,4,Dual Sim,No,No,1.77,0,,256 MB,0.01MP Rear Camera,,2G,,No,,Normal,1050 mAh,,,25 g,Dual Sim,No,,Gold
+REDMI,10,10999,4.3,Dual Sim,No,Yes,6.7,Android 11,Octa Core,64 GB,50MP + 2MP,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,6000 mAh,76.56 mm,169.59 mm,203 g,Dual Sim,No,Primary Camera,Caribbean Green
+Infinix,Zero 5G 2023 TURBO,19999,4.1,Dual Sim,No,Yes,6.78,Android 12,Octa Core,256 GB,50MP + 2MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.53 mm,168.73 mm,199 g,Dual Sim,No,Primary Camera,Pearly White
+I,Z19Pro,7679,3.3,Dual Sim,Yes,Yes,6.5,Android Q 11.0,Quad Core,64 GB,13MP Rear Camera,8MP Front Camera,4G VOLTE,,Yes,,,5000 mAh,,,300 g,Dual Sim,Yes,Primary Camera,Blue
+realme,C30,6499,4.1,Dual Sim,No,Yes,6.5,Android 11,Octa Core,32 GB,8MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,,Yes,Nano Sim,5000 mAh,75.6 mm,164.1 mm,182 g,Dual Sim,No,,Denim Black
+vivo,T1 44W,17999,4.3,Dual Sim,Yes,Yes,6.44,Android 12,Octa Core,128 GB,50MP + 2MP + 2MP,16MP Front Camera,"4G, 3G, 2G",v5.1,,Yes,Nano Sim,5000 mAh,73.79 mm,160.8 mm,182 g,Dual Sim,Yes,Primary Camera,Starry Sky
+Nokia,"225 4G DS Keypad Mobile with Long Battery Life,Built-in Camera",3999,3.7,Dual Sim,No,No,2.4,Series 30+,,128 MB,0.3MP Rear Camera,,"4G VOLTE, 3G, 2G",v5.0,No,No,Nano,1150 mAh,51 mm,124.7 mm,91 g,Dual Sim,No,,Black
+REDMI,REDMI NOTE 10 LITE,12640,4.2,Dual Sim,Yes,Yes,6.67,Android Q 10,Dual Core,128 GB,48MP Rear Camera,,4G,,,,Nano,5020 mAh,51 mm,124.7 mm,91 g,Dual Sim,Yes,Primary Camera,Glacier White
+vivo,T1 44W,17999,4.3,Dual Sim,Yes,Yes,6.44,Android 12,Octa Core,128 GB,50MP + 2MP + 2MP,16MP Front Camera,"4G, 3G, 2G",v5.1,,Yes,Nano Sim,5000 mAh,73.79 mm,160.8 mm,182 g,Dual Sim,Yes,Primary Camera,Midnight Galaxy
+OnePlus,10R,30490,4.3,Dual Sim,No,Yes,6.7,Android 12,Octa Core,128 GB,50MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,73.79 mm,160.8 mm,182 g,Dual Sim,No,,Sierra Black
+LAVA,Flip,2090,4.1,Dual Sim,No,No,2.4,,,56 MB,0.08MP Rear Camera,,2G,,,,STANDARD,1200 mAh,,,96 g,Dual Sim,No,,Red
+REDMI,12C,10890,3.7,Dual Sim,No,Yes,6.71,Android 12.0,,6 GB,50MP Rear Camera,,4G,,,,STANDARD,5000 mAh,,,96 g,Dual Sim,No,Primary Camera,Matte Black
+HOTLINE,CLASSIC,649,2.9,Dual Sim,No,No,1.77,Android 12.0,,32 MB,1.3MP Rear Camera,,2G,,,,Normal,800 mAh,,,96 g,Dual Sim,No,Primary Camera,Green
+Nokia,"3310 Dual SIM Keypad Mobile with MP3 Player, FM Radio & Rear Camera",3799,3.9,Dual Sim,No,No,2.4,0,,16 MB,2MP Rear Camera,,2G,3,,,,1200 mAh,51 mm,115.6 mm,,Dual Sim,No,,Warm Red
+I,K26,749,3.5,Dual Sim,No,No,1.77,,,32 MB,0.3MP Rear Camera,,2G,,,,Normal,1000 mAh,12 mm,160 mm,0.2 g,Dual Sim,No,,Pink
+APPLE,iPhone 14 Plus,73999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 16,Hexa Core,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,1000 mAh,78.1 mm,160.8 mm,203 g,Dual Sim(Nano + eSIM),No,Primary Camera,(PRODUCT)RED
+vivo,Y35,16999,4.4,Dual Sim,No,Yes,6.58,Android 12,Octa Core,128 GB,50MP + 2MP + 2MP,16MP Front Camera,"4G, 3G, 2G",v5.0,,Yes,Nano Sim,5000 mAh,76.1 mm,164.3 mm,188 g,Dual Sim,No,Primary Camera,Agate Black
+vivo,Y16,10975,4.3,Dual Sim,No,Yes,6.51,Android 12,Octa Core,64 GB,13MP + 2MP,5MP Front Camera,"4G, 3G, 2G",v5.0,,Yes,Nano Sim,5000 mAh,75.55 mm,163.95 mm,183 g,Dual Sim,No,Primary Camera,Steller Black
+SAMSUNG,Galaxy M04,8875,4.1,Dual Sim,No,Yes,6.5,Android 12,Octa Core,128 GB,13MP + 2MP,,4G,,Yes,,Nano,5000 mAh,76 mm,164 mm,188 g,Dual Sim,No,Primary Camera,Dark Blue
+itel,IT2163,1149,4.1,Dual Sim,No,No,1.8,,Single Core,4 MB,,,2G,v2.1,No,No,mini SIM + mini SIM,1000 mAh,49.5 mm,115 mm,75.7 g,Dual Sim,No,,Black
+Tecno,Camon20 Predawn 64MP Rear Camera,15499,4.2,Dual Sim,No,Yes,6.67,Android 13,Octa Core,256 GB,64MP + 2MP,32MP Front Camera,"4G VOLTE, 4G",,Yes,Yes,Nano-SIM,5000 mAh,49.5 mm,115 mm,75.7 g,Dual Sim,No,Primary Camera,Predawn Black
+APPLE,iPhone 14 Pro Max,127999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 16,Hexa Core,128 GB,48MP + 12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,4323 mAh,77.6 mm,160.7 mm,240 g,Dual Sim(Nano + eSIM),No,Primary Camera,Gold
+SAMSUNG,Galaxy F54 5G,29999,4.1,Dual Sim,Yes,Yes,6.7,Android 13,Octa Core,256 GB,108MP + 8MP + 2MP,32MP Front Camera,"5G, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,6000 mAh,77.3 mm,164.9 mm,199 g,Dual Sim,Yes,Primary Camera,Stardust Silver
+realme,GT 2,24999,4.3,Dual Sim,No,Yes,6.62,Android 12,Octa Core,128 GB,50MP + 8MP + 2MP,16MP Front Camera,"5G, 4G, 3G, 2G",v5.2,,Yes,Nano Sim,5000 mAh,75.8 mm,162.9 mm,199.8 g,Dual Sim,No,Primary Camera,Paper White
+Nokia,"105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",1599,4.1,Dual Sim,No,No,1.77,Symbian,,32 MB,,0MP Front Camera,2G,,No,No,Mini Sim,800 mAh,49.9 mm,115.2 mm,51 g,Dual Sim,No,,Blue
+REDMI,REDMI 10 Power,12599,4.2,Dual Sim,No,Yes,6.7,Android 13,Octa Core,128 GB,50MP Rear Camera,5MP Front Camera,4G VOLTE,,,,Mini Sim,6000 mAh,49.9 mm,115.2 mm,51 g,Dual Sim,No,Primary Camera,Power Black
+SAMSUNG,Galaxy F13,11999,4.3,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50MP + 5MP + 2MP,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,6000 mAh,76.9 mm,165.4 mm,207 g,Dual Sim,No,Primary Camera,Sunrise Copper
+UiSmart,Ui-06,1599,4,Dual Sim,No,No,1.77,0,,256 MB,0.01MP Rear Camera,,2G,,No,,Full Sim Size,1050 mAh,8 mm,150 mm,40 g,Dual Sim,No,,White
+IQOO,Neo 7 5G,30998,4.4,Dual Sim,No,Yes,6.78,Android 13,Octa Core,128 GB,64MP Rear Camera,,"5G, 4G VOLTE",,,,Full Sim Size,5000 mAh,8 mm,150 mm,40 g,Dual Sim,No,Primary Camera,Interstellar Black
+UiSmart,Ui-06,1650,4,Dual Sim,No,No,1.77,0,,256 MB,0.01MP Rear Camera,,2G,,No,,Normal,1050 mAh,,,70 g,Dual Sim,No,,Black
+I,K26,749,3.5,Dual Sim,No,No,1.77,,,32 MB,0.3MP Rear Camera,,2G,,,,Normal,1000 mAh,12 mm,161 mm,0.2 g,Dual Sim,No,,Pink
+SAMSUNG,Galaxy M14 5G,15290,4.2,Dual Sim,No,Yes,6.6,Android Android 13.0,Octa Core,128 GB,50MP Rear Camera,,"5G, 4G VOLTE",,,,Normal,6000 mAh,12 mm,161 mm,0.2 g,Dual Sim,No,Primary Camera,Berry Blue
+APPLE,iPhone 13 Pro,99999,4.7,Dual Sim,No,Yes,6.1,iOS 15,Hexa Core,512 GB,12MP + 12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,6000 mAh,71.5 mm,146.7 mm,203 g,Dual Sim,No,Primary Camera,Silver
+vivo,T1 44W,19999,4.4,Dual Sim,Yes,Yes,6.44,Android 12,Octa Core,128 GB,50MP + 2MP + 2MP,16MP Front Camera,"4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,73.79 mm,160.8 mm,182 g,Dual Sim,Yes,Primary Camera,Starry Sky
+Infinix,Zero 20,17999,4.1,Dual Sim,No,Yes,6.7,Android 12,Octa Core,128 GB,108MP + 13MP + 2MP,60 MP with OIS,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,4500 mAh,76.66 mm,164.43 mm,196 g,Dual Sim,No,Primary Camera,DEEP GRAY
+realme,GT 2,28999,4.3,Dual Sim,No,Yes,6.62,Android 12,Octa Core,256 GB,50MP + 8MP + 2MP,16MP Front Camera,"5G, 4G, 3G, 2G",v5.2,,Yes,Nano Sim,5000 mAh,75.8 mm,162.9 mm,199.8 g,Dual Sim,No,Primary Camera,Paper White
+APPLE,Iphone 15,79900,4.8,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 17,Hexa Core,128 GB,48MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,5000 mAh,71.6 mm,147.6 mm,171 g,Dual Sim(Nano + eSIM),No,Primary Camera,Yellow
+APPLE,iPhone 14,74999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 16,Hexa Core,256 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,5000 mAh,71.5 mm,146.7 mm,172 g,Dual Sim(Nano + eSIM),No,Primary Camera,Starlight
+KARBONN,K140 Pop,999,3.9,Dual Sim,No,No,1.8,,,32 MB,0.3MP Rear Camera,,2G,,,,,1000 mAh,71.5 mm,146.7 mm,172 g,Dual Sim,No,,Blue
+realme,GT 2,28999,4.3,Dual Sim,No,Yes,6.62,Android 12,Octa Core,256 GB,50MP + 8MP + 2MP,16MP Front Camera,"5G, 4G, 3G, 2G",v5.2,,Yes,Nano Sim,5000 mAh,75.8 mm,162.9 mm,199.8 g,Dual Sim,No,Primary Camera,Steel Black
+itel,IT2163,1149,4.1,Dual Sim,No,No,1.8,,Single Core,4 MB,,,2G,v2.1,No,No,Mini SIM + Mini SIM,1000 mAh,49.5 mm,115 mm,75.7 g,Dual Sim,No,,Army Green
+REDMI,A1+,6299,4.2,Dual Sim,No,Yes,6.52,Android 12 Go,Quad Core,32 GB,8MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.75 mm,164.9 mm,192 g,Dual Sim,No,Primary Camera,Light Blue
+Nokia,105 SS 2023,1499,3.9,Single Sim,No,No,1.8,Series 30+,,4 MB,8MP Rear Camera,5MP Front Camera,2G,,,,Nano Sim,1000 mAh,76.75 mm,164.9 mm,192 g,Single Sim,No,Primary Camera,Charcoal
+IQOO,Z7s 5G,18990,4.3,Dual Sim,No,Yes,6.38,Android Android Funtouch OS 13 Based On Android 13,Octa Core,128 GB,64MP Rear Camera,,5G,,,,Nano Sim,4500 mAh,76.75 mm,164.9 mm,192 g,Dual Sim,No,Primary Camera,Pacific Night
+KARBONN,K310i,969,3.7,Dual Sim,No,No,1.8,Android Android Funtouch OS 13 Based On Android 13,Octa Core,10 MB,,,2G,,,,,800 mAh,76.75 mm,164.9 mm,192 g,Dual Sim,No,,Blue
+Infinix,Hot 12 Pro,10999,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,50 MP + Depth Lens,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.75 mm,164.22 mm,191 g,Dual Sim,No,,Electric Blue
+SAMSUNG,Guru Music 2,2299,4,Dual Sim,No,No,2,1,Single Core,0 MB,,0MP Front Camera,2G,0,No,No,Full Size SIM,800 mAh,0 mm,150 mm,74.98 g,Dual Sim,No,,Blue
+REDMI,10,10999,4.2,Dual Sim,No,Yes,6.7,Android 11,Octa Core,128 GB,50MP + 2MP,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,6000 mAh,76.56 mm,169.59 mm,203 g,Dual Sim,No,Primary Camera,Midnight Black
+Infinix,Hot 12 Pro,10999,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,50 MP + Depth Lens,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.75 mm,164.22 mm,191 g,Dual Sim,No,,Racing Black
+itel,S23,8599,3.7,Dual Sim,Yes,Yes,6.5,Android Q 12,Octa Core,128 GB,50MP Rear Camera,,4G,,,,Nano Sim,5000 mAh,75.75 mm,164.22 mm,191 g,Dual Sim,Yes,Primary Camera,Graphite Black
+realme,GT 2,24999,4.3,Dual Sim,No,Yes,6.62,Android 12,Octa Core,128 GB,50MP + 8MP + 2MP,16MP Front Camera,"5G, 4G, 3G, 2G",v5.2,,Yes,Nano Sim,5000 mAh,75.8 mm,162.9 mm,199.8 g,Dual Sim,No,Primary Camera,Paper Green
+itel,P40,6999,4.1,Dual Sim,No,Yes,6.6,Android Q,Octa Core,64 GB,13MP Rear Camera,,"4G VOLTE, 4G",,,,Nano Sim,6000 mAh,75.8 mm,162.9 mm,199.8 g,Dual Sim,No,,Force Black
+DIZO,Star 300,1338,3.9,Dual Sim,No,No,1.77,,,32 MB,0.3MP Rear Camera,,2G,,,,Micro SIM + Micro SIM,2550 mAh,52 mm,119.5 mm,105 g,Dual Sim,No,,Blue
+Infinix,Note 12 Pro 5G,18999,4.1,Dual Sim,No,Yes,6.7,Android 12,Octa Core,128 GB,108MP + 2MP (Depth) + 2MP (Macro),16MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.9 mm,164.67 mm,188 g,Dual Sim,No,,Force Black
+APPLE,iPhone 12,51999,4.6,Dual Sim,No,Yes,6.1,iOS 14,,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,5000 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,Green
+POCO,M3,10990,4.3,Dual Sim,No,Yes,6.53,Android 10,Octa Core,64 GB,48MP + 2MP + 2MP,8MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano,6000 mAh,77.3 mm,162.3 mm,197 g,Dual Sim,No,Primary Camera,Power Black
+Tecno,Camon 20 Pro,21999,4.2,Dual Sim,No,Yes,6.67,Android 13,Octa Core,256 GB,64MP + 2MP + 2MP,32MP Front Camera,"5G, 4G VOLTE, 4G",5.2,Yes,Yes,Nano-SIM,5000 mAh,,,193 g,Dual Sim,No,Primary Camera,Dark Welkin
+APPLE,iPhone SE 3rd Gen,32699,4.4,Dual Sim(Nano + eSIM),No,Yes,4.7,iOS 15,Hexa Core,64 GB,12MP Rear Camera,7MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim + eSIM,5000 mAh,67.3 mm,138.4 mm,144 g,Dual Sim(Nano + eSIM),No,,Midnight
+Snexian,Rock,1499,4,Dual Sim,No,No,1.7,0,,32 MB,0.3MP Rear Camera,,2G,,,,Nano Sim + eSIM,800 mAh,67.3 mm,138.4 mm,144 g,Dual Sim,No,,Gold
+itel,it5026 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,1289,4,Dual Sim,No,No,2.4,,Single Core,4 MB,2MP Rear Camera,,2G,,No,No,Mini SIM + Mini SIM,1200 mAh,54.5 mm,130.5 mm,79.5 g,Dual Sim,No,,Peacock Green
+SAMSUNG,Galaxy A03 Core,6794,4.1,Dual Sim,No,Yes,6.5,Android Q 11,Octa Core,32 GB,8MP Rear Camera,5MP Front Camera,4G VOLTE,v4.2,,Yes,,5000 mAh,75.9 mm,164.2 mm,,Dual Sim,No,,Bronze
+SAMSUNG,Galaxy A53,38990,4.1,Dual Sim,Yes,Yes,6.5,Android 12,Octa Core,256 GB,64MP + 12MP + 5MP + 5MP,32MP Front Camera,"5G, 4G, 3G, 2G",v5.1,Yes,,Nano Sim,5000 mAh,74.8 mm,159.6 mm,189 g,Dual Sim,Yes,Primary Camera,Awesome Peach
+Infinix,Hot 12 Pro,10999,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,64 GB,50 MP + Depth Lens,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.75 mm,164.22 mm,191 g,Dual Sim,No,,Halo White
+Nokia,105 SS 2023,1419,3.9,Single Sim,No,No,1.8,Series 30+,,4 MB,50 MP + Depth Lens,8MP Front Camera,2G,,,,Nano Sim,1000 mAh,75.75 mm,164.22 mm,191 g,Single Sim,No,,CYAN
+MOTOROLA,g42,9999,4.2,Dual Sim,No,Yes,6.402,Android 12,Octa Core,64 GB,50MP + 8MP + 2MP,16MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,73.47 mm,160.61 mm,175 g,Dual Sim,No,Primary Camera,Atlantic Green
+APPLE,Iphone 15 Pro Max,179900,4.8,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 17,Hexa Core,512 GB,48MP + 12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,5000 mAh,76.7 mm,159.9 mm,221 g,Dual Sim(Nano + eSIM),No,Primary Camera,Blue Titanium
+Tecno,Spark Go 2023,7290,4.1,Dual Sim,No,Yes,6.56,Android 12,Quad Core,64 GB,13MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G",,Yes,Yes,Nano-SIM,5000 mAh,75.51 mm,163.86 mm,,Dual Sim,No,Primary Camera,Endless Black
+Kechaoda,K115,1095,4.1,Dual Sim,No,No,1.44,Android 12,Quad Core,32 MB,0.3MP Rear Camera,,2G,,,,,850 mAh,75.51 mm,163.86 mm,,Dual Sim,No,,Gold
+I,Z19 Prime Plus,8799,3.8,Dual Sim,Yes,Yes,6.53,Android Q 13.0,Hexa Core,128 GB,13MP Rear Camera,8MP Front Camera,4G VOLTE,5.1,Yes,Yes,Nano,5000 mAh,,,300 g,Dual Sim,Yes,Primary Camera,Gold
+itel,Muzik 110| 1900 mAh battery| Expandable Storage upto 32GB,1249,4.1,Dual Sim,No,No,1.8,,Single Core,4 MB,0.3MP Rear Camera,,2G,v2.1,No,No,Mini SIM + Mini SIM,1900 mAh,51 mm,119.5 mm,91.1 g,Dual Sim,No,,Black
+Micromax,X702,1108,3.6,Dual Sim,No,No,2.4,,Single Core,32 MB,0.3MP Rear Camera,,2G,,,,Mini SIM + Mini SIM,1000 mAh,51 mm,119.5 mm,91.1 g,Dual Sim,No,Primary Camera,Black
+Itel,Magic2 4G,2380,3.9,Dual Sim,No,No,2.4,,Single Core,128 MB,1.3MP Rear Camera,,"4G, 3G, 2G",v2.1,Yes,,Mini SIM + Mini SIM,1900 mAh,52.5 mm,128.8 mm,95 g,Dual Sim,No,,Black
+vivo,Y36,15999,4.2,Dual Sim,No,Yes,6.64,Android 13,Octa Core,128 GB,50MP + 2MP,16MP Front Camera,"2G, 3G, 4G",v5.1,,Yes,Nano Sim,5000 mAh,76.17 mm,164.06 mm,202 g,Dual Sim,No,Primary Camera,Vibrant Gold
+vivo,T1 44W,14499,4.5,Dual Sim,Yes,Yes,6.44,Android 12,Octa Core,128 GB,50MP + 2MP + 2MP,16MP Front Camera,"4G, 3G, 2G",v5.1,,Yes,Nano Sim,5000 mAh,73.79 mm,160.8 mm,182 g,Dual Sim,Yes,Primary Camera,Ice Dawn
+Xiaomi,11i Hypercharge 5G,23999,4.2,Dual Sim,Yes,Yes,6.67,Android 11,Octa Core,128 GB,108MP + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano,4500 mAh,76.19 mm,163.65 mm,204 g,Dual Sim,Yes,Primary Camera,Pacific Pearl
+Tecno,Camon 20 Pro,21999,4.2,Dual Sim,No,Yes,6.67,Android 13,Octa Core,256 GB,64MP + 2MP + 2MP,32MP Front Camera,"5G, 4G VOLTE, 4G",5.2,Yes,Yes,Nano-SIM,5000 mAh,,,193 g,Dual Sim,No,Primary Camera,Serenity Blue
+itel,Power110Neo| 2500 mAh battery| Expandable Storage Upto 32GB,1339,4.5,Dual Sim,No,No,1.8,1,,32 MB,0.3MP Rear Camera,,2G,,,,Nano-SIM,2500 mAh,,,193 g,Dual Sim,No,,Grey
+SAMSUNG,Galaxy M14 5G,13880,4.2,Dual Sim,No,Yes,6.6,Android Android 13.0,Octa Core,128 GB,50MP Rear Camera,,"5G, 4G VOLTE",,,,Nano-SIM,6000 mAh,,,193 g,Dual Sim,No,Primary Camera,ICY Silver
+OPPO,Reno8T 5G,29999,4.3,Dual Sim,Yes,Yes,6.7,Android 13,Octa Core,128 GB,108MP + 2MP + 2MP,32MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,4800 mAh,74.3 mm,162.3 mm,171 g,Dual Sim,Yes,Primary Camera,Midnight Black
+Xiaomi,12 Pro 5G,46999,4.1,Dual Sim,No,Yes,6.73,Android 12,Octa Core,256 GB,50MP + 50MP + 50MP,32MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,4600 mAh,74.6 mm,163.6 mm,205 g,Dual Sim,No,Primary Camera,Opera Mauve
+HOTLINE,CLASSIC,649,2.9,Dual Sim,No,No,1.77,Android 12,Octa Core,32 MB,1.3MP Rear Camera,,2G,,,,Normal,800 mAh,74.6 mm,163.6 mm,205 g,Dual Sim,No,Primary Camera,Wine Red
+Cellecor,C60+,1313,3.7,Dual Sim,No,No,1.8,,,32 MB,0.8MP Rear Camera,,2G,,,,,2750 mAh,74.6 mm,163.6 mm,205 g,Dual Sim,No,,ROYAL BLACK
+SAMSUNG,GALAXY M13,10639,4.2,Dual Sim,No,Yes,6.6,Android Q 12,Octa Core,64 GB,50MP Rear Camera,,4G VOLTE,,,,,6000 mAh,74.6 mm,163.6 mm,205 g,Dual Sim,No,Primary Camera,Stardust Brown
+itel,P40,6995,4.1,Dual Sim,No,Yes,6.6,Android Q,Octa Core,64 GB,13MP Rear Camera,,"4G VOLTE, 4G",,,,,6000 mAh,74.6 mm,163.6 mm,205 g,Dual Sim,No,,Force Black
+MOTOROLA,g31,11999,4.2,Dual Sim,Yes,Yes,6.4,Android 11,Octa Core,64 GB,50MP + 8MP + 2MP,13MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano + Nano,5000 mAh,74.6 mm,161.19 mm,180 g,Dual Sim,Yes,Primary Camera,Meteorite Grey
+Mi,11X,22490,4.1,Dual Sim,No,Yes,6.67,Android Q 11,Octa Core,128 GB,48MP Rear Camera,,"5G, 4G, 3G, 2G",,,,Nano + Nano,4520 mAh,74.6 mm,161.19 mm,180 g,Dual Sim,No,Primary Camera,Cosmic Black
+Cellecor,C60+,1313,3.7,Dual Sim,No,No,1.8,,,32 MB,0.8MP Rear Camera,,2G,,,,,2750 mAh,74.6 mm,161.19 mm,180 g,Dual Sim,No,,RED WINE
+OnePlus,11 5G,59995,4.5,Dual Sim,No,Yes,6.7,Android OxygenOS based on Android 13,Octa Core,256 GB,50MP Rear Camera,,5G,,,,,5000 mAh,74.6 mm,161.19 mm,180 g,Dual Sim,No,Primary Camera,Eternal Green
+Tecno,Spark Go 2023,7998,4.1,Dual Sim,No,Yes,6.56,Android 12,Quad Core,64 GB,13MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G",,Yes,Yes,Nano-SIM,5000 mAh,75.51 mm,163.86 mm,,Dual Sim,No,Primary Camera,Nebula Purple
+REDMI,Note 12 Pro 5G,24999,4.2,Dual Sim,No,Yes,6.67,Android 12,Octa Core,128 GB,50MP (OIS) + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,76.03 mm,162.9 mm,187 g,Dual Sim,No,Primary Camera,Onyx Black
+Mi,11X,21999,4.2,Dual Sim,No,Yes,6.67,Android 11,Octa Core,128 GB,48MP + 8MP + 5MP,20MP Front Camera,"5G, 4G, 3G, 2G",v5.1,Yes,Yes,,4520 mAh,76.4 mm,163.7 mm,196 g,Dual Sim,No,Primary Camera,Lunar White
+itel,it5029 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,1329,3.9,Dual Sim,No,No,2.4,,,32 MB,0.3MP Rear Camera,,2G,,,,,1200 mAh,76.4 mm,163.7 mm,196 g,Dual Sim,No,,Green
+Tecno,Camon 18,12890,4.2,Dual Sim,No,Yes,6.8,Android Android 11,Octa Core,128 GB,48MP + 2MP + 2MP,48MP Front Camera,"4G VOLTE, 4G",,Yes,Yes,Nano-SIM,5000 mAh,76.4 mm,163.7 mm,196 g,Dual Sim,No,Primary Camera,Dusk Grey
+KARBONN,KX30,1355,3.8,Dual Sim,Yes,No,2.4,Android Q 4.1,,32 MB,0.3MP Rear Camera,,2G,,,,,1200 mAh,76.4 mm,163.7 mm,196 g,Dual Sim,Yes,,Pearl White
+Xiaomi,12 Pro 5G,46999,4.1,Dual Sim,No,Yes,6.73,Android 12,Octa Core,256 GB,50MP + 50MP + 50MP,32MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,4600 mAh,74.6 mm,163.6 mm,205 g,Dual Sim,No,Primary Camera,Noir Black
+LAVA,A1 Vibe,1179,4.7,Dual Sim,No,No,1.77,,,24 MB,0.3MP Rear Camera,,2G,,No,No,Micro,1000 mAh,48 mm,112.2 mm,70 g,Dual Sim,No,,"Blue, Silver"
+Kechaoda,K28,1275,4,Dual Sim,No,No,2.4,,,64 MB,0.3MP Rear Camera,,2G,,No,,,1700 mAh,48 mm,112.2 mm,70 g,Dual Sim,No,,Black + Grey
+MOTOROLA,e40,8999,4.1,Dual Sim,No,Yes,6.5,Android 11,Octa Core,64 GB,48MP + 2MP + 2MP,8MP Front Camera,"4G, 4G VOLTE, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.6 mm,165.1 mm,198 g,Dual Sim,No,Primary Camera,Carbon Gray
+SAMSUNG,Galaxy A14 5G,17999,4.1,Dual Sim,Yes,Yes,6.6,Android 13,Octa Core,128 GB,50MP + 2MP,13MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,78 mm,167.7 mm,202 g,Dual Sim,Yes,Primary Camera,Light Green
+OPPO,A78,17499,4.3,Dual Sim,No,Yes,6.43,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"2G, 3G, 4G",v5.0,Yes,Yes,Nano Sim,5000 mAh,73.23 mm,160.01 mm,180 g,Dual Sim,No,Primary Camera,Mist Black
+Kechaoda,K10,1120,3.9,Single Sim,No,No,0.66,0,,32 MB,,,2G,,No,,Micro SIM,300 mAh,73.23 mm,160.01 mm,180 g,Single Sim,No,,Grey
+realme,9i 5G,16999,4.3,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50MP + 2MP + 2MP,8MP Front Camera,"5G, 4G, 3G, 2G",v5.2,,Yes,Nano Sim,5000 mAh,75.1 mm,164.4 mm,187 g,Dual Sim,No,Primary Camera,Soulful Blue
+Snexian,BOLD 888,1299,4.2,Dual Sim,No,No,1.44,Android 12,Octa Core,32 MB,1.3MP Rear Camera,,2G,,,,Normal,1000 mAh,75.1 mm,164.4 mm,187 g,Dual Sim,No,Primary & Secondary Camera,Gold
+Tecno,Spark Go 2023,7990,4.1,Dual Sim,No,Yes,6.56,Android 12,Quad Core,64 GB,13MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G",,Yes,Yes,Nano-SIM,5000 mAh,75.51 mm,163.86 mm,,Dual Sim,No,Primary Camera,Uyuni Blue
+MOTOROLA,e22s,8350,3.9,Dual Sim,No,Yes,6.5,Android 12,Octa Core,64 GB,16MP + 2MP,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,74.94 mm,163.95 mm,185 g,Dual Sim,No,Primary Camera,Eco Black
+itel,P40,6985,4.1,Dual Sim,No,Yes,6.6,Android Q,Octa Core,64 GB,13MP Rear Camera,,"4G VOLTE, 4G",,,,Nano Sim,6000 mAh,74.94 mm,163.95 mm,185 g,Dual Sim,No,,Luxurious Gold
+Snexian,Guru 310,670,3.3,Dual Sim,No,No,1.8,0,,64 MB,0.3MP Rear Camera,,2G,,No,,,800 mAh,74.94 mm,163.95 mm,185 g,Dual Sim,No,,Black
+DIZO,Star 300,1298,3.9,Dual Sim,No,No,1.77,,,32 MB,0.3MP Rear Camera,,2G,,,,Micro SIM + Micro SIM,2550 mAh,52 mm,119.5 mm,105 g,Dual Sim,No,,Red
+vivo,Y56 5G,18999,4.2,Dual Sim,Yes,Yes,6.58,Android 13,Octa Core,128 GB,50MP + 2MP,16MP Front Camera,"5G, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,75.6 mm,164.05 mm,184 g,Dual Sim,Yes,Primary Camera,Orange Shimmer
+APPLE,iPhone 11,40999,4.6,Dual Sim,No,Yes,6.1,iOS 14.2,,128 GB,12MP + 12MP,12MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano SIM and eSIM,3110 mAh,75.7 mm,150.9 mm,194 g,Dual Sim,No,Primary Camera,White
+Kechaoda,K28,1269,4,Dual Sim,No,No,2.4,,,64 MB,0.3MP Rear Camera,,2G,,No,,,1700 mAh,75.7 mm,150.9 mm,194 g,Dual Sim,No,,Gold
+LAVA,A3 Power,1482,4.1,Dual Sim,No,No,1.77,,,24 MB,0.3MP Rear Camera,,2G,,No,,,2575 mAh,53 mm,123 mm,,Dual Sim,No,,Aqua Grey
+Kechaoda,K90,1499,3.5,Triple Sim,No,No,3.5,0.2,,32 GB,0.3MP + 0.3MP,0MP Front Camera,2G,,No,No,,5000 mAh,91.5 mm,65.5 mm,81 g,Triple Sim,No,,Black
+Snexian,BOLD,1199,3.8,Dual Sim,No,No,1.8,1.41,,256 MB,0.3MP Rear Camera,,2G,,,,Full Size Sim,1000 mAh,,,70 g,Dual Sim,No,,Black
+Kechaoda,K115,1059,4.1,Dual Sim,No,No,1.44,1.41,,32 MB,0.3MP Rear Camera,,2G,,,,Micro SIM,850 mAh,,,70 g,Dual Sim,No,,Red
+Tecno,Spark 10C,9460,4,Dual Sim,No,Yes,6.6,Android 12,,8 GB,16MP Rear Camera,,4G,,,,Micro SIM,5000 mAh,,,70 g,Dual Sim,No,Primary Camera,Meta Green
+SAREGAMA,Carvaan Mobile M21 with 1500 pre-loaded songs,2490,3.9,Dual Sim,No,No,2.4,,,8 GB,0.3MP Rear Camera,,2G,,,,"Nano SIM,Standard SIM",2500 mAh,51 mm,128 mm,199 g,Dual Sim,No,,Emerald Green
+REDMI,12C,8890,4.2,Dual Sim,No,Yes,6.71,Android 12.0,,64 GB,50MP Rear Camera,,4G,,,,"Nano SIM,Standard SIM",5000 mAh,51 mm,128 mm,199 g,Dual Sim,No,Primary Camera,Mint Green
+vivo,Y36,15999,4.2,Dual Sim,No,Yes,6.64,Android 13,Octa Core,128 GB,50MP + 2MP,16MP Front Camera,"2G, 3G, 4G",v5.1,,Yes,Nano Sim,5000 mAh,76.17 mm,164.06 mm,202 g,Dual Sim,No,Primary Camera,Meteor Black
+OPPO,A78,17499,4.3,Dual Sim,No,Yes,6.43,Android 13,Octa Core,128 GB,50MP + 2MP,8MP Front Camera,"2G, 3G, 4G",v5.0,Yes,Yes,Nano Sim,5000 mAh,73.23 mm,160.01 mm,180 g,Dual Sim,No,Primary Camera,Aqua Green
+Kechaoda,K90,1540,3.5,Triple Sim,No,No,3.5,0.2,,32 GB,0.3MP + 0.3MP,0MP Front Camera,2G,,No,No,,5000 mAh,91.5 mm,65.5 mm,81 g,Triple Sim,No,,Green
+Kechaoda,K115 PRO,1170,4,Dual Sim,No,No,1.44,0.2,,32 MB,0.3MP Rear Camera,,2G,,,,Micro SIM,850 mAh,,,37 g,Dual Sim,No,,Blue Purple
+Infinix,Note 12 Pro 5G,18999,4.1,Dual Sim,No,Yes,6.7,Android 12,Octa Core,128 GB,108MP + 2MP (Depth) + 2MP (Macro),16MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,76.9 mm,164.67 mm,188 g,Dual Sim,No,,Snowfall
+Tecno,Spark 10 5G Ultra Clear 50MP 5G 7nm Processor,13288,4.1,Dual Sim,No,Yes,6.6,Android 13,,128 GB,50MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,76.9 mm,164.67 mm,188 g,Dual Sim,No,Primary Camera,Meta Blue
+REDMI,12c,8681,4.2,Dual Sim,No,Yes,6.71,Android 12.0,,64 GB,50MP Rear Camera,,4G,,,,Nano Sim,5000 mAh,76.9 mm,164.67 mm,188 g,Dual Sim,No,Primary Camera,Lavender Purple
+Tecno,Camon 20 Pro,19840,4.2,Dual Sim,No,Yes,6.67,Android 13,Octa Core,128 GB,64MP + 2MP + 2MP,32MP Front Camera,"5G, 4G VOLTE, 4G",5.2,Yes,Yes,Nano-SIM,5000 mAh,,,193 g,Dual Sim,No,Primary Camera,Dark Welkin
+itel,it5029 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,1329,3.9,Dual Sim,No,No,2.4,,,32 MB,0.3MP Rear Camera,,2G,,,,Nano-SIM,1200 mAh,,,193 g,Dual Sim,No,,Deep Blue
+LAVA,A5,1549,4.1,Dual Sim,No,No,2.4,,,24 MB,0.3MP Rear Camera,,2G,,,,,1000 mAh,51 mm,123 mm,,Dual Sim,No,,Gradient Blue S
+I,K3310,744,3.6,Dual Sim,No,No,1.8,,,64 MB,0.3MP Rear Camera,,2G,,,,,1000 mAh,51 mm,123 mm,,Dual Sim,No,,Black
+itel,Muzik 110| 1900 mAh battery| Expandable Storage upto 32GB,1249,4.1,Dual Sim,No,No,1.8,,Single Core,4 MB,0.3MP Rear Camera,,2G,v2.1,No,No,Mini SIM + Mini SIM,1900 mAh,51 mm,119.5 mm,91.1 g,Dual Sim,No,,White
+vivo,Y16,11800,4.3,Dual Sim,No,Yes,6.51,Android 12,Octa Core,128 GB,13MP + 2MP,5MP Front Camera,"4G, 3G, 2G",v5.0,,Yes,Nano Sim,5000 mAh,75.55 mm,163.95 mm,183 g,Dual Sim,No,Primary Camera,Steller Black
+vivo,V27 Pro 5G,37999,4.4,Dual Sim,No,Yes,6.78,Android 13,Octa Core,128 GB,50MP (OIS) + 8MP + 2MP,50MP Front Camera,"5G, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,4600 mAh,74.8 mm,164.1 mm,182 g,Dual Sim,No,Primary Camera,Noble Black
+SAMSUNG,GALAXY M13,10640,4.2,Dual Sim,No,Yes,6.6,Android Q ANDROID 12.0,Octa Core,64 GB,50MP Rear Camera,,4G VOLTE,,,,Nano Sim,6000 mAh,74.8 mm,164.1 mm,182 g,Dual Sim,No,Primary Camera,Midnight Blue
+I,K3310,744,3.6,Dual Sim,No,No,1.77,,,31 MB,0.3MP Rear Camera,,2G,,,,Normal,1000 mAh,,,200 g,Dual Sim,No,,Dark Orange
+Kechaoda,K55,1185,3.6,Dual Sim,Yes,No,1.8,0,,64 MB,1.3MP Rear Camera,,2G,,,,,400 mAh,,,200 g,Dual Sim,Yes,Primary Camera,Rose Pink
+Kechaoda,K1,1234,4,Dual Sim,No,No,2.8,0.1,,32 MB,1.3MP Rear Camera,,2G,,,,,2600 mAh,,,200 g,Dual Sim,No,,Red
+I,K3310,744,3.6,Dual Sim,No,No,1.77,,,32 MB,0.3MP Rear Camera,,2G,,,,,1000 mAh,,,200 g,Dual Sim,No,,Yellow
+Snexian,BOLD,1199,3.8,Dual Sim,No,No,1.8,1.41,,256 MB,0.3MP Rear Camera,,2G,,,,Full Sim Size,1000 mAh,,,70 g,Dual Sim,No,,Red
+APPLE,iPhone 14 Plus,73999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 16,Hexa Core,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,1000 mAh,78.1 mm,160.8 mm,203 g,Dual Sim(Nano + eSIM),No,Primary Camera,Yellow
+IAIR,"Basic Feature Dual Sim Mobile Phone with 2800mAh Battery, 1.77 inch Display Screen, 0.8 mp Camera with Glossy Finish (D15, Gold)",999,3.6,Dual Sim,No,No,1.77,,,32 MB,0.8MP + 0.8MP,,2G,,,,Full Size,2800 mAh,52 mm,130 mm,200 g,Dual Sim,No,,Gold
+Kechaoda,K66 The Music House 4,1165,3.9,Dual Sim,Yes,No,1.8,0,,64 MB,1.3MP Rear Camera,,2G,,,,,400 mAh,52 mm,130 mm,200 g,Dual Sim,Yes,Primary Camera,Mystic Gold
+SAMSUNG,Galaxy F23 5G,15999,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50MP + 8MP + 2MP,8MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,77 mm,165.5 mm,198 g,Dual Sim,No,Primary Camera,Forest Green
+Infinix,Hot 12 Pro,12999,4,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50 MP + Depth Lens,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.75 mm,164.22 mm,191 g,Dual Sim,No,,Racing Black
+SAMSUNG,Galaxy Z Fold5,154999,4.7,Dual Sim,No,Yes,6.2,Android 13,Octa Core,256 GB,50MP + 12MP + 10MP,,"5G, 4G, 3G, 2G",,Yes,Yes,Nano Sim,4400 mAh,129.9 mm,154.9 mm,253 g,Dual Sim,No,Primary Camera,Icy Blue
+vivo,Y02,8728,4.2,Dual Sim,No,Yes,6.51,Android Q 12,Quad Core,32 GB,8MP Rear Camera,,4G VOLTE,,,,,5000 mAh,129.9 mm,154.9 mm,253 g,Dual Sim,No,Primary Camera,Sunset Gold
+LAVA,YUVA 2 PRO,8299,4.1,Dual Sim,No,Yes,6.5,Android 12,Octa Core,64 GB,13MP Rear Camera,,"4G VOLTE, 4G",,,,,5000 mAh,129.9 mm,154.9 mm,253 g,Dual Sim,No,Primary & Secondary Camera,LAVENDER
+Infinix,Hot 12 Pro,12999,4,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50 MP + Depth Lens,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.75 mm,164.22 mm,191 g,Dual Sim,No,,Lightsaber Green
+Tecno,Spark 10,10887,4.4,Dual Sim,No,Yes,6.6,Android 13,Octa Core,128 GB,50MP Rear Camera,8MP Front Camera,"4G VOLTE, 4G",5,Yes,Yes,Nano-SIM,5000 mAh,75.4 mm,163.9 mm,,Dual Sim,No,Primary Camera,Meta Black
+REDMI,Note 12 Pro 5G,24999,4.2,Dual Sim,No,Yes,6.67,Android 12,Octa Core,128 GB,50MP (OIS) + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,76.03 mm,162.9 mm,187 g,Dual Sim,No,Primary Camera,Glacier Blue
+IQOO,Neo 7 5G,29999,4.4,Dual Sim,No,Yes,6.78,Android 13,Octa Core,128 GB,64MP Rear Camera,,"5G, 4G VOLTE",,,,Nano Sim,5000 mAh,76.03 mm,162.9 mm,187 g,Dual Sim,No,Primary Camera,Frost Blue
+SAREGAMA,Carvaan Mobile Bhakti Don Lite M23 with 351 pre-loaded superhit songs,1899,4.9,Dual Sim,No,No,2.4,,Single Core,2 GB,0.3MP Rear Camera,,2G,,,,,1400 mAh,130 mm,54 mm,96 g,Dual Sim,No,Primary Camera,Iris Orange
+Nokia,110 DS,1742,4,Dual Sim,No,No,1.77,Series 30 Series 30 Series 30+,,32 MB,1MP Rear Camera,,2G,,,,,800 mAh,130 mm,54 mm,96 g,Dual Sim,No,,Charcoal
+itel,it5026 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,1289,4,Dual Sim,No,No,2.4,,,4 MB,2MP Rear Camera,,2G,,,,,1200 mAh,130 mm,54 mm,96 g,Dual Sim,No,,Black
+APPLE,Iphone 15 Plus,99900,4.6,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 17,Hexa Core,256 GB,48MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,1200 mAh,77.8 mm,160.9 mm,201 g,Dual Sim(Nano + eSIM),No,Primary Camera,Yellow
+Infinix,Hot 12 Pro,12999,4,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50 MP + Depth Lens,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,75.75 mm,164.22 mm,191 g,Dual Sim,No,,Electric Blue
+Kechaoda,K1,1299,4,Dual Sim,No,No,2.8,0.1,,32 MB,1.3MP Rear Camera,,2G,,,,,2600 mAh,75.75 mm,164.22 mm,191 g,Dual Sim,No,,Black
+REDMI,12C,8774,4.2,Dual Sim,No,Yes,6.71,Android 12.0,,64 GB,50MP Rear Camera,,4G,,,,,5000 mAh,75.75 mm,164.22 mm,191 g,Dual Sim,No,Primary Camera,Royal Blue
+Nokia,110 DS,1799,4,Dual Sim,No,No,1.77,Series 30 Series 30 Series 30+,,32 MB,1MP Rear Camera,,2G,,,,,800 mAh,75.75 mm,164.22 mm,191 g,Dual Sim,No,,Rosegold
+itel,it5026 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,1289,4,Dual Sim,No,No,2.4,,,4 MB,2MP Rear Camera,,2G,,,,STANDARD,1200 mAh,75.75 mm,164.22 mm,191 g,Dual Sim,No,,Blue
+APPLE,iPhone 14 Plus,83999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 16,Hexa Core,256 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,1200 mAh,78.1 mm,160.8 mm,203 g,Dual Sim(Nano + eSIM),No,Primary Camera,Starlight
+SAMSUNG,Galaxy F23 5G,15999,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50MP + 8MP + 2MP,8MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,77 mm,165.5 mm,198 g,Dual Sim,No,Primary Camera,Aqua Blue
+realme,GT 2,28999,4.3,Dual Sim,No,Yes,6.62,Android 12,Octa Core,256 GB,50MP + 8MP + 2MP,16MP Front Camera,"5G, 4G, 3G, 2G",v5.2,,Yes,Nano Sim,5000 mAh,75.8 mm,162.9 mm,199.8 g,Dual Sim,No,Primary Camera,Paper Green
+SAMSUNG,GURU GT,1649,4.1,Single Sim,No,No,1.5,Android 12,Octa Core,153 MB,50MP + 8MP + 2MP,16MP Front Camera,2G,,,,,800 mAh,75.8 mm,162.9 mm,199.8 g,Single Sim,No,Primary Camera,Indigo Blue
+SAMSUNG,Galaxy A21s,13990,4.2,Dual Sim,No,Yes,6.5,Android 10,Octa Core,64 GB,48MP + 8MP + 2MP + 2MP,13MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano,5000 mAh,75.3 mm,163.6 mm,191 g,Dual Sim,No,Primary Camera,Blue
+HOTLINE,CLASSIC,649,2.9,Dual Sim,No,No,1.77,Android 10,Octa Core,32 MB,1.3MP Rear Camera,,2G,,,,Normal,800 mAh,75.3 mm,163.6 mm,191 g,Dual Sim,No,Primary Camera,Green
+APPLE,Iphone 15 Pro Max,159900,4.8,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 17,Hexa Core,256 GB,48MP + 12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,800 mAh,76.7 mm,159.9 mm,221 g,Dual Sim(Nano + eSIM),No,Primary Camera,Black Titanium
+Tecno,Camon20 Predawn 64MP Rear Camera,15499,4.2,Dual Sim,No,Yes,6.67,Android 13,Octa Core,256 GB,64MP + 2MP,32MP Front Camera,"4G VOLTE, 4G",,Yes,Yes,Nano-SIM,5000 mAh,76.7 mm,159.9 mm,221 g,Dual Sim,No,Primary Camera,Predawn Black
+vivo,Y35,16999,4.4,Dual Sim,No,Yes,6.58,Android 12,Octa Core,128 GB,50MP + 2MP + 2MP,16MP Front Camera,"4G, 3G, 2G",v5.0,,Yes,Nano Sim,5000 mAh,76.1 mm,164.3 mm,188 g,Dual Sim,No,Primary Camera,Agate Black
+APPLE,iPhone 14 Plus,73999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 16,Hexa Core,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,5000 mAh,78.1 mm,160.8 mm,203 g,Dual Sim(Nano + eSIM),No,Primary Camera,(PRODUCT)RED
+Nokia,"3310 Dual SIM Keypad Mobile with MP3 Player, FM Radio & Rear Camera",3799,3.9,Dual Sim,No,No,2.4,0,,16 MB,2MP Rear Camera,,2G,3,,,,1200 mAh,51 mm,115.6 mm,,Dual Sim,No,,Warm Red
+SAREGAMA,Carvaan Mobile Tamil M21,2490,3.5,Dual Sim,No,No,2.4,,Single Core,2 GB,0.3MP Rear Camera,,2G,,,,"Nano SIM,Standard SIM",2500 mAh,52 mm,127 mm,,Dual Sim,No,,Royal Blue
+SAREGAMA,Carvaan Mobile Tamil M21,2490,3.5,Dual Sim,No,No,2.4,,Single Core,2 GB,0.3MP Rear Camera,,2G,,,,"Standard SIM,Nano SIM",2500 mAh,52 mm,127 mm,249 g,Dual Sim,No,,Metallic Red
+SAMSUNG,Galaxy A14 5G,15999,4.1,Dual Sim,Yes,Yes,6.6,Android 13,Octa Core,64 GB,50MP + 2MP,13MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,78 mm,167.7 mm,202 g,Dual Sim,Yes,Primary Camera,Black
+REDMI,12c,9825,3.7,Dual Sim,No,Yes,6.71,Android 12.0,,6 GB,50MP Rear Camera,,4G,,,,,5000 mAh,78 mm,167.7 mm,202 g,Dual Sim,No,Primary Camera,Mint Green
+REDMI,12C,10480,3.7,Dual Sim,No,Yes,6.71,Android 12.0,,6 GB,50MP Rear Camera,,4G,,,,,5000 mAh,78 mm,167.7 mm,202 g,Dual Sim,No,Primary Camera,Lavender Purple
+Nokia,105,1599,4.2,Single Sim,No,No,1.8,Series 30 0,,4 MB,0.03MP Rear Camera,,2G,,,,,1000 mAh,78 mm,167.7 mm,202 g,Single Sim,No,,charcoal
+Snexian,GURU 2173,630,3.9,Dual Sim,No,No,1.8,Series 30 0,,32 MB,1.3MP Rear Camera,,2G,,,,Normal,850 mAh,78 mm,167.7 mm,202 g,Dual Sim,No,,Black+Blue
+APPLE,Iphone 15 Plus,89900,4.6,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 17,Hexa Core,128 GB,48MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,850 mAh,77.8 mm,160.9 mm,201 g,Dual Sim(Nano + eSIM),No,Primary Camera,Black
+Infinix,Zero 5G 2023 TURBO,19999,4.1,Dual Sim,No,Yes,6.78,Android 12,Octa Core,256 GB,50MP + 2MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.1,Yes,Yes,Nano Sim,5000 mAh,76.53 mm,168.73 mm,199 g,Dual Sim,No,Primary Camera,Submariner Black
+itel,It2171 Keypad Mobile|1000 mAh battery|Expandable Storage upto 32GB,1140,4,Dual Sim,No,No,1.8,,,32 MB,0.3MP Rear Camera,,2G,,,,,1000 mAh,76.53 mm,168.73 mm,199 g,Dual Sim,No,,deep blue
+MTR,FERRARI,1350,4.1,Dual Sim,No,No,1.77,,,64 MB,0.3MP Rear Camera,,2G,,,,,800 mAh,76.53 mm,168.73 mm,199 g,Dual Sim,No,,Gold
+Infinix,Zero 20,17999,4.1,Dual Sim,No,Yes,6.7,Android 12,Octa Core,128 GB,108MP + 13MP + 2MP,60 MP with OIS,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,4500 mAh,76.66 mm,164.43 mm,196 g,Dual Sim,No,Primary Camera,Glitter Gold
+Nokia,C32,9299,3.7,Dual Sim,No,Yes,6.517,Android 13,Octa Core,128 GB,50MP Rear Camera,8MP Front Camera,"4G, 3G, 2G",,Yes,Yes,Nano Sim,5000 mAh,75.89 mm,164.6 mm,,Dual Sim,No,Primary Camera,Charcoal
+IQOO,Neo 7 Pro,41960,4.5,Dual Sim,No,Yes,6.78,Android Funtouch OS 13 Based On Android 13,Octa Core,256 GB,50MP Rear Camera,,5G,,,,Nano Sim,5000 mAh,75.89 mm,164.6 mm,,Dual Sim,No,Primary Camera,Dark Storm
+Infinix,Hot 12,9999,4.2,Dual Sim,No,Yes,6.82,Android 11,Octa Core,64 GB,50 MP + 2 MP Depth Lens + AI Lens,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,6000 mAh,77.5 mm,171.5 mm,,Dual Sim,No,,7° Purple
+Infinix,Hot 12,9999,4.2,Dual Sim,No,Yes,6.82,Android 11,Octa Core,64 GB,50 MP + 2 MP Depth Lens + AI Lens,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,6000 mAh,77.5 mm,171.5 mm,0.192 g,Dual Sim,No,,Turquoise Cyan
+realme,GT 2,24999,4.3,Dual Sim,No,Yes,6.62,Android 12,Octa Core,128 GB,50MP + 8MP + 2MP,16MP Front Camera,"5G, 4G, 3G, 2G",v5.2,,Yes,Nano Sim,5000 mAh,75.8 mm,162.9 mm,199.8 g,Dual Sim,No,Primary Camera,Steel Black
+Nokia,"125 Dual SIM Feature Mobile, Wireless FM Radio and Built-in Torch",2095,4,Dual Sim,No,No,2.4,Series 30+,,4 MB,,,2G,,No,No,Mini SIM,1020 mAh,50.5 mm,132 mm,91.3 g,Dual Sim,No,,Black
+itel,IT5626,1799,4,Triple Sim,No,No,2.8,,,8 MB,0.3MP Rear Camera,,2G,v2.1,No,,2 x Mini SIM + 1 x Micro SIM,2500 mAh,57.8 mm,139.5 mm,153.4 g,Triple Sim,No,,Dark Green
+APPLE,iPhone 12,51999,4.6,Dual Sim,No,Yes,6.1,iOS 14,,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,2500 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,White
+Kechaoda,A26,955,4,Dual Sim,No,No,0.66,iOS 14,,32 MB,12MP + 12MP,12MP Front Camera,2G,,No,,Micro,800 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,Pink
+vivo,Y16,10990,4.3,Dual Sim,No,Yes,6.51,Android 12,Octa Core,64 GB,13MP + 2MP,5MP Front Camera,"4G, 3G, 2G",v5.0,,Yes,Nano Sim,5000 mAh,75.55 mm,163.95 mm,183 g,Dual Sim,No,Primary Camera,Drizzling Gold
+APPLE,iPhone 14 Pro,129900,4.6,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 16,Hexa Core,256 GB,48MP + 12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,5000 mAh,71.5 mm,147.5 mm,206 g,Dual Sim(Nano + eSIM),No,Primary Camera,Space Black
+Kechaoda,K116,1199,3.9,Dual Sim,No,No,1.8,iOS 16,Hexa Core,32 MB,1.3MP Rear Camera,,2G,,,,,400 mAh,54 mm,101.5 mm,,Dual Sim,No,Primary Camera,Black
+APPLE,iPhone SE 3rd Gen,36999,4.4,Dual Sim,No,Yes,4.7,iOS 15,Hexa Core,128 GB,12MP Rear Camera,7MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim + eSIM,400 mAh,67.3 mm,138.4 mm,144 g,Dual Sim,No,,Starlight
+Kechaoda,K115,1109,4.1,Dual Sim,No,No,1.44,iOS 15,Hexa Core,32 MB,0.3MP Rear Camera,,2G,,,,Micro SIM,850 mAh,67.3 mm,138.4 mm,144 g,Dual Sim,No,,Green
+KARBONN,K531,1390,3.9,Dual Sim,No,No,2.4,,,32 MB,0.3MP Rear Camera,,2G,,,,Micro SIM,1800 mAh,67.3 mm,138.4 mm,144 g,Dual Sim,No,Primary Camera,WHITE + RED
+SAMSUNG,Galaxy A34 5G,30999,4.2,Dual Sim,Yes,Yes,6.6,Android 13,Octa Core,256 GB,48MP + 8MP + 5MP,13MP Front Camera,"2G, 3G, 4G VOLTE, 5G",v5.2,Yes,Yes,Nano Sim,5000 mAh,78.1 mm,161.3 mm,198 g,Dual Sim,Yes,Primary Camera,Awesome Lime
+SAREGAMA,Carvaan Keypad phone Bhojpuri M21 with Pre-loaded Hindi & Bhojpuri songs,2490,4.1,Dual Sim,No,No,2.4,,Single Core,2 GB,0.3MP Rear Camera,,2G,,,,"Standard SIM,Nano SIM",2500 mAh,52 mm,127 mm,,Dual Sim,No,,Classic Black
+SAMSUNG,Galaxy A54 5G,36999,4.3,Dual Sim,Yes,Yes,6.4,Android 13,Octa Core,128 GB,50MP + 12MP + 5MP,32MP Front Camera,"2G, 3G, 4G, 5G",v5.3,Yes,Yes,Nano Sim,5000 mAh,76.7 mm,158.2 mm,202 g,Dual Sim,Yes,Primary Camera,Awesome Violet
+Snexian,Rock,1499,4,Dual Sim,No,No,1.7,0,,32 MB,0.3MP Rear Camera,,2G,,,,Nano Sim,800 mAh,76.7 mm,158.2 mm,202 g,Dual Sim,No,,Black
+SAMSUNG,1215,2099,3.9,Single Sim,No,No,1.5,1,Single Core,153 MB,0.3MP Rear Camera,,2G,,,,Nano Sim,800 mAh,76.7 mm,158.2 mm,202 g,Single Sim,No,,Black
+REDMI,10,10999,4.3,Dual Sim,No,Yes,6.7,Android 11,Octa Core,64 GB,50MP + 2MP,5MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,6000 mAh,76.56 mm,169.59 mm,203 g,Dual Sim,No,Primary Camera,Midnight Black
+APPLE,iPhone 14,74999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 16,Hexa Core,256 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,6000 mAh,71.5 mm,146.7 mm,172 g,Dual Sim(Nano + eSIM),No,Primary Camera,Blue
+IQOO,Neo 7 5G,33995,4.4,Dual Sim,No,Yes,6.78,Android 13,Octa Core,256 GB,64MP Rear Camera,,"5G, 4G VOLTE",,,,Nano Sim + eSIM,5000 mAh,71.5 mm,146.7 mm,172 g,Dual Sim,No,Primary Camera,Interstellar Black
+itel,MagicX 4G| 1200 mAh battery| Expanadable Storage upto 64GB,2138,3.9,Dual Sim,No,No,2.4,RTOS (Mocor),,128 MB,0.3MP Rear Camera,,4G,,,,,1200 mAh,71.5 mm,146.7 mm,172 g,Dual Sim,No,Primary Camera,White
+itel,Magic3 Smart Touch Keypad,1820,4,Dual Sim,No,No,2.8,,,8 MB,1.3MP Rear Camera,,2G,,,,,1500 mAh,71.5 mm,146.7 mm,172 g,Dual Sim,No,,Gradation Blue
+APPLE,iPhone 14,74999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.1,iOS 16,Hexa Core,256 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,1500 mAh,71.5 mm,146.7 mm,172 g,Dual Sim(Nano + eSIM),No,Primary Camera,Purple
+REDMI,REDMI 10 Power,13499,4.2,Dual Sim,No,Yes,6.7,Android 13,Octa Core,128 GB,50MP Rear Camera,,4G VOLTE,,,,Nano Sim + eSIM,6000 mAh,71.5 mm,146.7 mm,172 g,Dual Sim,No,Primary Camera,Sporty Orange
+Tecno,Spark Go 2023,7930,4.1,Dual Sim,No,Yes,6.56,Android 12,Quad Core,64 GB,13MP Rear Camera,5MP Front Camera,"4G VOLTE, 4G",,Yes,Yes,Nano-SIM,5000 mAh,75.51 mm,163.86 mm,,Dual Sim,No,Primary Camera,Nebula Purple
+itel,Power 440| 2500 mAh battery| Expandable Storage Upto 32GB,1470,4,Dual Sim,No,No,2.4,,Single Core,32 MB,0.3MP Rear Camera,,2G,,,,,2500 mAh,75.51 mm,163.86 mm,,Dual Sim,No,Primary Camera,Light Green
+itel,MagicX 4G| 1200 mAh battery| Expanadable Storage upto 64GB,2149,3.9,Dual Sim,No,No,2.4,RTOS (Mocor),,128 MB,0.3MP Rear Camera,,4G,,,,MINI,1200 mAh,75.51 mm,163.86 mm,,Dual Sim,No,Primary Camera,Black
+APPLE,iPhone 14 Plus,83999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 16,Hexa Core,256 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,1200 mAh,78.1 mm,160.8 mm,203 g,Dual Sim(Nano + eSIM),No,Primary Camera,Midnight
+KARBONN,Y1,998,3.8,Dual Sim,No,No,1.8,,,32 MB,0.3MP Rear Camera,,2G,,,,F,800 mAh,50 mm,150 mm,200 g,Dual Sim,No,,White and Grey
+Kechaoda,K115,1108,4.1,Dual Sim,No,No,1.44,,,32 MB,0.3MP Rear Camera,,2G,,,,Micro SIM,850 mAh,50 mm,150 mm,200 g,Dual Sim,No,,Yellow
+realme,Narzo N55,10727,4.2,Dual Sim,No,Yes,6.72,Android 13,Octa Core,64 GB,64MP Rear Camera,,4G VOLTE,,,,Micro SIM,5000 mAh,50 mm,150 mm,200 g,Dual Sim,No,Primary Camera,Prime Black
+REDMI,12C,8622,4.2,Dual Sim,No,Yes,6.71,Android 12.0,,64 GB,50MP Rear Camera,,4G,,,,Micro SIM,5000 mAh,50 mm,150 mm,200 g,Dual Sim,No,Primary Camera,Matte Black
+itel,iPower 430 Triple sim|2500 mAh Battery|Expandable Storage upto 32GB,1539,4,Triple Sim,No,No,2.4,Nucleus,,8 MB,0.3MP Rear Camera,,2G,,,,,2500 mAh,50 mm,150 mm,200 g,Triple Sim,No,Primary Camera,Black
+KARBONN,K110i,944,3.6,Dual Sim,No,No,1.8,,,0 MB,,,2G,,No,,,1000 mAh,50 mm,150 mm,200 g,Dual Sim,No,,Green
+Nokia,"G21 Dual Sim 50MP Camera, 8MP Front Camera",13499,4,Dual Sim,No,Yes,6.5,Android 11,Octa Core,128 GB,50MP + 2MP + 2MP,8MP Front Camera,"4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5050 mAh,50 mm,150 mm,200 g,Dual Sim,No,Primary Camera,Dusk
+APPLE,iPhone 14 Plus,83999,4.6,Dual Sim(Nano + eSIM),No,Yes,6.7,iOS 16,Hexa Core,256 GB,12MP + 12MP,12MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim + eSIM,5050 mAh,78.1 mm,160.8 mm,203 g,Dual Sim(Nano + eSIM),No,Primary Camera,Purple
+APPLE,iPhone 13 Pro,125999,4.7,Dual Sim,No,Yes,6.1,iOS 15,Hexa Core,1024 GB,12MP + 12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,5050 mAh,71.5 mm,146.7 mm,203 g,Dual Sim,No,Primary Camera,Graphite
+realme,Narzo N53,12398,4.2,Dual Sim,No,Yes,6.74,Android Android 13.0,Octa Core,128 GB,50MP Rear Camera,,4G VOLTE,,,,Nano + eSIM,5000 mAh,71.5 mm,146.7 mm,203 g,Dual Sim,No,Primary Camera,Feather Black
+Nokia,130M DS 2023,2069,4.4,Dual Sim,No,No,2.4,Series 30+,,4 MB,50MP Rear Camera,,2G,,,,Nano + eSIM,1450 mAh,71.5 mm,146.7 mm,203 g,Dual Sim,No,Primary Camera,Dark Blue
+APPLE,iPhone 12,51999,4.6,Dual Sim,No,Yes,6.1,iOS 14,,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,2815 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,Blue
+SAMSUNG,Galaxy A34 5G,28999,4.2,Dual Sim,Yes,Yes,6.6,Android 13,Octa Core,128 GB,48MP + 8MP + 5MP,13MP Front Camera,"2G, 3G, 4G VOLTE, 5G",v5.2,Yes,Yes,Nano Sim,5000 mAh,78.1 mm,161.3 mm,198 g,Dual Sim,Yes,Primary Camera,Awesome Violet
+Good,G5605,999,3.8,Dual Sim,No,No,1.8,,,32 MB,2MP Rear Camera,,2G,,,,,2500 mAh,78.1 mm,161.3 mm,198 g,Dual Sim,No,,GOLD & BLACK
+Tecno,Spark 9,8400,4.1,Dual Sim,No,Yes,6.6,Android Android12,Octa Core,64 GB,13MP Rear Camera,,4G VOLTE,,,,,5000 mAh,78.1 mm,161.3 mm,198 g,Dual Sim,No,Primary Camera,Glacier White
+Tecno,Spark Go 2023 6.56 HD+Display 13MP Dual Camera,7773,4,Dual Sim,No,Yes,6.56,Android Q Android 12,Single Core,64 GB,13MP Rear Camera,,4G VOLTE,,,,Neno-SIM card,5000 mAh,78.1 mm,161.3 mm,198 g,Dual Sim,No,Primary Camera,UYUNI BLUE
+SAMSUNG,Galaxy M33 5G,17347,4.2,Dual Sim,No,Yes,6.6,Android 12,Octa Core,128 GB,50MP Rear Camera,,5G,,,,Neno-SIM card,6000 mAh,78.1 mm,161.3 mm,198 g,Dual Sim,No,Primary Camera,Emerald Brown
+REDMI,Note 12 Pro 5G,28999,4,Dual Sim,No,Yes,6.67,Android 12,Octa Core,256 GB,50MP (OIS) + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.2,Yes,Yes,Nano Sim,5000 mAh,76.03 mm,162.9 mm,187 g,Dual Sim,No,Primary Camera,Onyx Black
+SAMSUNG,Galaxy A34 5G,30999,4.2,Dual Sim,Yes,Yes,6.6,Android 13,Octa Core,256 GB,48MP + 8MP + 5MP,13MP Front Camera,"2G, 3G, 4G VOLTE, 5G",v5.2,Yes,Yes,Nano Sim,5000 mAh,78.1 mm,161.3 mm,198 g,Dual Sim,Yes,Primary Camera,Awesome Violet
+LAVA,A1 Josh 2021,1099,4.1,Dual Sim,No,No,1.77,,,0 MB,,,2G,,No,,Micro,1000 mAh,48 mm,112.2 mm,70 g,Dual Sim,No,,Blue Silver L
+POCO,F5 5G,30999,4.3,Dual Sim,No,Yes,6.67,Android 13,Octa Core,256 GB,64MP (OIS) + 8MP + 2MP,16MP Front Camera,"5G, 4G VOLTE, 4G, 3G, 2G",v5.3,Yes,Yes,Nano Sim,5000 mAh,74.95 mm,161.11 mm,181 g,Dual Sim,No,Primary Camera,Carbon Black
+IQOO,Z7S 5G,19970,4.3,Dual Sim,Yes,Yes,6.4,Android Q 13,Octa Core,128 GB,64MP Rear Camera,,5G,,,,Nano Sim,4500 mAh,74.95 mm,161.11 mm,181 g,Dual Sim,Yes,Primary Camera,Pacific Night
+APPLE,iPhone 12,51999,4.6,Dual Sim,No,Yes,6.1,iOS 14,,128 GB,12MP + 12MP,12MP Front Camera,"5G, 4G, 3G, 2G",v5.0,Yes,Yes,Nano + eSIM,4500 mAh,71.5 mm,146.7 mm,162 g,Dual Sim,No,Primary Camera,White
+Tecno,Pova 3,13999,4.1,Dual Sim,No,Yes,6.9,Android 12,Octa Core,128 GB,50MP + 2MP + 2MP,8MP Front Camera,"4G VOLTE, 4G",5,Yes,Yes,Nano-SIM,7000 mAh,78.46 mm,173.1 mm,,Dual Sim,No,Primary Camera,Tech Silver
+REDMI,Note 11 SE,12890,4.3,Dual Sim,No,Yes,6.43,Android 11,Octa Core,64 GB,64MP + 8MP + 2MP + 2MP,13MP Front Camera,"4G VOLTE, 4G, 3G, 2G",v5.0,Yes,Yes,Nano Sim,5000 mAh,74.5 mm,160.46 mm,178.8 g,Dual Sim,No,Primary Camera,Thunder Purple
+vivo,Y16,10699,4.2,Dual Sim,No,Yes,6.51,Android 12,Octa Core,64 GB,13MP + 2MP,5MP Front Camera,"4G, 3G, 2G",v5.0,,Yes,Nano Sim,5000 mAh,75.55 mm,163.95 mm,183 g,Dual Sim,No,Primary Camera,Steller Black
+Tecno,Camon 19 Pro Multi-Colour Changing Back-Panel,14940,4.1,Dual Sim,No,Yes,6.8,Android 12,Octa Core,128 GB,64MP + 50MP + 2MP,32MP Front Camera,"4G VOLTE, 4G",,Yes,Yes,Nano,5000 mAh,74.55 mm,166.79 mm,,Dual Sim,No,Primary Camera,Mondrian
